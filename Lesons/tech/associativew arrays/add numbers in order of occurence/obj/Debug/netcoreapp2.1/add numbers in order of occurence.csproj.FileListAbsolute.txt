@@ -1,0 +1,10 @@
+D:\C#\Softuni\exams\associativew arrays\add numbers in order of occurence\bin\Debug\netcoreapp2.1\add numbers in order of occurence.deps.json
+D:\C#\Softuni\exams\associativew arrays\add numbers in order of occurence\bin\Debug\netcoreapp2.1\add numbers in order of occurence.runtimeconfig.json
+D:\C#\Softuni\exams\associativew arrays\add numbers in order of occurence\bin\Debug\netcoreapp2.1\add numbers in order of occurence.runtimeconfig.dev.json
+D:\C#\Softuni\exams\associativew arrays\add numbers in order of occurence\bin\Debug\netcoreapp2.1\add numbers in order of occurence.dll
+D:\C#\Softuni\exams\associativew arrays\add numbers in order of occurence\bin\Debug\netcoreapp2.1\add numbers in order of occurence.pdb
+D:\C#\Softuni\exams\associativew arrays\add numbers in order of occurence\obj\Debug\netcoreapp2.1\add numbers in order of occurence.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\exams\associativew arrays\add numbers in order of occurence\obj\Debug\netcoreapp2.1\add numbers in order of occurence.AssemblyInfoInputs.cache
+D:\C#\Softuni\exams\associativew arrays\add numbers in order of occurence\obj\Debug\netcoreapp2.1\add numbers in order of occurence.AssemblyInfo.cs
+D:\C#\Softuni\exams\associativew arrays\add numbers in order of occurence\obj\Debug\netcoreapp2.1\add numbers in order of occurence.dll
+D:\C#\Softuni\exams\associativew arrays\add numbers in order of occurence\obj\Debug\netcoreapp2.1\add numbers in order of occurence.pdb

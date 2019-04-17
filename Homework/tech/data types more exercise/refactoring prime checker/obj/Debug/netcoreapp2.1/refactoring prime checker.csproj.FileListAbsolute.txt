@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\data types more exercise\refactoring prime checker\bin\Debug\netcoreapp2.1\refactoring prime checker.deps.json
+D:\C#\Softuni\Homework\tech\data types more exercise\refactoring prime checker\bin\Debug\netcoreapp2.1\refactoring prime checker.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\data types more exercise\refactoring prime checker\bin\Debug\netcoreapp2.1\refactoring prime checker.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\data types more exercise\refactoring prime checker\bin\Debug\netcoreapp2.1\refactoring prime checker.dll
+D:\C#\Softuni\Homework\tech\data types more exercise\refactoring prime checker\bin\Debug\netcoreapp2.1\refactoring prime checker.pdb
+D:\C#\Softuni\Homework\tech\data types more exercise\refactoring prime checker\obj\Debug\netcoreapp2.1\refactoring prime checker.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\data types more exercise\refactoring prime checker\obj\Debug\netcoreapp2.1\refactoring prime checker.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\data types more exercise\refactoring prime checker\obj\Debug\netcoreapp2.1\refactoring prime checker.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\data types more exercise\refactoring prime checker\obj\Debug\netcoreapp2.1\refactoring prime checker.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\data types more exercise\refactoring prime checker\obj\Debug\netcoreapp2.1\refactoring prime checker.dll
+D:\C#\Softuni\Homework\tech\data types more exercise\refactoring prime checker\obj\Debug\netcoreapp2.1\refactoring prime checker.pdb

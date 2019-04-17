@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\Arrays - Exercise\magic sum\bin\Debug\netcoreapp2.1\magic sum.deps.json
+C:\Users\dimit\Desktop\Arrays - Exercise\magic sum\bin\Debug\netcoreapp2.1\magic sum.runtimeconfig.json
+C:\Users\dimit\Desktop\Arrays - Exercise\magic sum\bin\Debug\netcoreapp2.1\magic sum.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\Arrays - Exercise\magic sum\bin\Debug\netcoreapp2.1\magic sum.dll
+C:\Users\dimit\Desktop\Arrays - Exercise\magic sum\bin\Debug\netcoreapp2.1\magic sum.pdb
+C:\Users\dimit\Desktop\Arrays - Exercise\magic sum\obj\Debug\netcoreapp2.1\magic sum.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\Arrays - Exercise\magic sum\obj\Debug\netcoreapp2.1\magic sum.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\Arrays - Exercise\magic sum\obj\Debug\netcoreapp2.1\magic sum.AssemblyInfo.cs
+C:\Users\dimit\Desktop\Arrays - Exercise\magic sum\obj\Debug\netcoreapp2.1\magic sum.dll
+C:\Users\dimit\Desktop\Arrays - Exercise\magic sum\obj\Debug\netcoreapp2.1\magic sum.pdb
+C:\Users\dimit\Desktop\Arrays - Exercise\magic sum\obj\Debug\netcoreapp2.1\magic sum.csprojAssemblyReference.cache

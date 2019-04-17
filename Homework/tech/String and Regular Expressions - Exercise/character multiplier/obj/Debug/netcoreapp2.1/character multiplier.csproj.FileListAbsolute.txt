@@ -1,0 +1,10 @@
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\character multiplier\bin\Debug\netcoreapp2.1\character multiplier.deps.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\character multiplier\bin\Debug\netcoreapp2.1\character multiplier.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\character multiplier\bin\Debug\netcoreapp2.1\character multiplier.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\character multiplier\bin\Debug\netcoreapp2.1\character multiplier.dll
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\character multiplier\bin\Debug\netcoreapp2.1\character multiplier.pdb
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\character multiplier\obj\Debug\netcoreapp2.1\character multiplier.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\character multiplier\obj\Debug\netcoreapp2.1\character multiplier.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\character multiplier\obj\Debug\netcoreapp2.1\character multiplier.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\character multiplier\obj\Debug\netcoreapp2.1\character multiplier.dll
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\character multiplier\obj\Debug\netcoreapp2.1\character multiplier.pdb

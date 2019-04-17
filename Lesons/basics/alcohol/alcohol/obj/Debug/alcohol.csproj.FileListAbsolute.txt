@@ -1,0 +1,7 @@
+D:\C#\alcohol\alcohol\bin\Debug\alcohol.exe.config
+D:\C#\alcohol\alcohol\bin\Debug\alcohol.exe
+D:\C#\alcohol\alcohol\bin\Debug\alcohol.pdb
+D:\C#\alcohol\alcohol\obj\Debug\alcohol.csprojAssemblyReference.cache
+D:\C#\alcohol\alcohol\obj\Debug\alcohol.csproj.CoreCompileInputs.cache
+D:\C#\alcohol\alcohol\obj\Debug\alcohol.exe
+D:\C#\alcohol\alcohol\obj\Debug\alcohol.pdb

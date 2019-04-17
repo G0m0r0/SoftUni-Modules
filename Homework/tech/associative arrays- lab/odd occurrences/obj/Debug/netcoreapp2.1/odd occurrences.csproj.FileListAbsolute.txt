@@ -1,0 +1,10 @@
+D:\C#\Softuni\Homework\tech\associative arrays- lab\odd occurrences\bin\Debug\netcoreapp2.1\odd occurrences.deps.json
+D:\C#\Softuni\Homework\tech\associative arrays- lab\odd occurrences\bin\Debug\netcoreapp2.1\odd occurrences.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\associative arrays- lab\odd occurrences\bin\Debug\netcoreapp2.1\odd occurrences.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\associative arrays- lab\odd occurrences\bin\Debug\netcoreapp2.1\odd occurrences.dll
+D:\C#\Softuni\Homework\tech\associative arrays- lab\odd occurrences\bin\Debug\netcoreapp2.1\odd occurrences.pdb
+D:\C#\Softuni\Homework\tech\associative arrays- lab\odd occurrences\obj\Debug\netcoreapp2.1\odd occurrences.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\associative arrays- lab\odd occurrences\obj\Debug\netcoreapp2.1\odd occurrences.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\associative arrays- lab\odd occurrences\obj\Debug\netcoreapp2.1\odd occurrences.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\associative arrays- lab\odd occurrences\obj\Debug\netcoreapp2.1\odd occurrences.dll
+D:\C#\Softuni\Homework\tech\associative arrays- lab\odd occurrences\obj\Debug\netcoreapp2.1\odd occurrences.pdb

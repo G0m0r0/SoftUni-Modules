@@ -1,0 +1,7 @@
+D:\C#\charity\charity\bin\Debug\charity.exe.config
+D:\C#\charity\charity\bin\Debug\charity.exe
+D:\C#\charity\charity\bin\Debug\charity.pdb
+D:\C#\charity\charity\obj\Debug\charity.csprojAssemblyReference.cache
+D:\C#\charity\charity\obj\Debug\charity.csproj.CoreCompileInputs.cache
+D:\C#\charity\charity\obj\Debug\charity.exe
+D:\C#\charity\charity\obj\Debug\charity.pdb

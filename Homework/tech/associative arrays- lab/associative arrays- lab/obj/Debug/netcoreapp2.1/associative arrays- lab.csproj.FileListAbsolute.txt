@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\associative arrays- lab\associative arrays- lab\bin\Debug\netcoreapp2.1\associative arrays- lab.deps.json
+D:\C#\Softuni\Homework\tech\associative arrays- lab\associative arrays- lab\bin\Debug\netcoreapp2.1\associative arrays- lab.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\associative arrays- lab\associative arrays- lab\bin\Debug\netcoreapp2.1\associative arrays- lab.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\associative arrays- lab\associative arrays- lab\bin\Debug\netcoreapp2.1\associative arrays- lab.dll
+D:\C#\Softuni\Homework\tech\associative arrays- lab\associative arrays- lab\bin\Debug\netcoreapp2.1\associative arrays- lab.pdb
+D:\C#\Softuni\Homework\tech\associative arrays- lab\associative arrays- lab\obj\Debug\netcoreapp2.1\associative arrays- lab.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\associative arrays- lab\associative arrays- lab\obj\Debug\netcoreapp2.1\associative arrays- lab.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\associative arrays- lab\associative arrays- lab\obj\Debug\netcoreapp2.1\associative arrays- lab.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\associative arrays- lab\associative arrays- lab\obj\Debug\netcoreapp2.1\associative arrays- lab.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\associative arrays- lab\associative arrays- lab\obj\Debug\netcoreapp2.1\associative arrays- lab.dll
+D:\C#\Softuni\Homework\tech\associative arrays- lab\associative arrays- lab\obj\Debug\netcoreapp2.1\associative arrays- lab.pdb

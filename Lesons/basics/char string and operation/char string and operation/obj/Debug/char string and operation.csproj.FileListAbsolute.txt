@@ -1,0 +1,7 @@
+D:\C#\Softuni\char string and operation\char string and operation\bin\Debug\char string and operation.exe.config
+D:\C#\Softuni\char string and operation\char string and operation\bin\Debug\char string and operation.exe
+D:\C#\Softuni\char string and operation\char string and operation\bin\Debug\char string and operation.pdb
+D:\C#\Softuni\char string and operation\char string and operation\obj\Debug\char string and operation.csprojAssemblyReference.cache
+D:\C#\Softuni\char string and operation\char string and operation\obj\Debug\char string and operation.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\char string and operation\char string and operation\obj\Debug\char string and operation.exe
+D:\C#\Softuni\char string and operation\char string and operation\obj\Debug\char string and operation.pdb

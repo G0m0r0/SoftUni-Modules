@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\arrays- more exercise\arrays- more exercise\bin\Debug\netcoreapp2.1\arrays- more exercise.deps.json
+D:\C#\Softuni\Homework\tech\arrays- more exercise\arrays- more exercise\bin\Debug\netcoreapp2.1\arrays- more exercise.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\arrays- more exercise\arrays- more exercise\bin\Debug\netcoreapp2.1\arrays- more exercise.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\arrays- more exercise\arrays- more exercise\bin\Debug\netcoreapp2.1\arrays- more exercise.dll
+D:\C#\Softuni\Homework\tech\arrays- more exercise\arrays- more exercise\bin\Debug\netcoreapp2.1\arrays- more exercise.pdb
+D:\C#\Softuni\Homework\tech\arrays- more exercise\arrays- more exercise\obj\Debug\netcoreapp2.1\arrays- more exercise.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\arrays- more exercise\arrays- more exercise\obj\Debug\netcoreapp2.1\arrays- more exercise.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\arrays- more exercise\arrays- more exercise\obj\Debug\netcoreapp2.1\arrays- more exercise.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\arrays- more exercise\arrays- more exercise\obj\Debug\netcoreapp2.1\arrays- more exercise.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\arrays- more exercise\arrays- more exercise\obj\Debug\netcoreapp2.1\arrays- more exercise.dll
+D:\C#\Softuni\Homework\tech\arrays- more exercise\arrays- more exercise\obj\Debug\netcoreapp2.1\arrays- more exercise.pdb

@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\String and Regular Expressions - Exercise\bin\Debug\netcoreapp2.1\String and Regular Expressions - Exercise.deps.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\String and Regular Expressions - Exercise\bin\Debug\netcoreapp2.1\String and Regular Expressions - Exercise.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\String and Regular Expressions - Exercise\bin\Debug\netcoreapp2.1\String and Regular Expressions - Exercise.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\String and Regular Expressions - Exercise\bin\Debug\netcoreapp2.1\String and Regular Expressions - Exercise.dll
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\String and Regular Expressions - Exercise\bin\Debug\netcoreapp2.1\String and Regular Expressions - Exercise.pdb
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\String and Regular Expressions - Exercise\obj\Debug\netcoreapp2.1\String and Regular Expressions - Exercise.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\String and Regular Expressions - Exercise\obj\Debug\netcoreapp2.1\String and Regular Expressions - Exercise.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\String and Regular Expressions - Exercise\obj\Debug\netcoreapp2.1\String and Regular Expressions - Exercise.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\String and Regular Expressions - Exercise\obj\Debug\netcoreapp2.1\String and Regular Expressions - Exercise.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\String and Regular Expressions - Exercise\obj\Debug\netcoreapp2.1\String and Regular Expressions - Exercise.dll
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\String and Regular Expressions - Exercise\obj\Debug\netcoreapp2.1\String and Regular Expressions - Exercise.pdb

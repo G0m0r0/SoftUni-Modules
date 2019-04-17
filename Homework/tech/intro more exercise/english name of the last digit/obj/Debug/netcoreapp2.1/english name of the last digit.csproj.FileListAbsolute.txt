@@ -1,0 +1,10 @@
+C:\Users\dimit\source\repos\intro more exercise\english name of the last digit\bin\Debug\netcoreapp2.1\english name of the last digit.deps.json
+C:\Users\dimit\source\repos\intro more exercise\english name of the last digit\bin\Debug\netcoreapp2.1\english name of the last digit.runtimeconfig.json
+C:\Users\dimit\source\repos\intro more exercise\english name of the last digit\bin\Debug\netcoreapp2.1\english name of the last digit.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\intro more exercise\english name of the last digit\bin\Debug\netcoreapp2.1\english name of the last digit.dll
+C:\Users\dimit\source\repos\intro more exercise\english name of the last digit\bin\Debug\netcoreapp2.1\english name of the last digit.pdb
+C:\Users\dimit\source\repos\intro more exercise\english name of the last digit\obj\Debug\netcoreapp2.1\english name of the last digit.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\intro more exercise\english name of the last digit\obj\Debug\netcoreapp2.1\english name of the last digit.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\intro more exercise\english name of the last digit\obj\Debug\netcoreapp2.1\english name of the last digit.AssemblyInfo.cs
+C:\Users\dimit\source\repos\intro more exercise\english name of the last digit\obj\Debug\netcoreapp2.1\english name of the last digit.dll
+C:\Users\dimit\source\repos\intro more exercise\english name of the last digit\obj\Debug\netcoreapp2.1\english name of the last digit.pdb

@@ -1,0 +1,7 @@
+D:\C#\Softuni\Lesons\string and char\string and char\bin\Debug\string and char.exe.config
+D:\C#\Softuni\Lesons\string and char\string and char\bin\Debug\string and char.exe
+D:\C#\Softuni\Lesons\string and char\string and char\bin\Debug\string and char.pdb
+D:\C#\Softuni\Lesons\string and char\string and char\obj\Debug\string and char.csprojAssemblyReference.cache
+D:\C#\Softuni\Lesons\string and char\string and char\obj\Debug\string and char.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\string and char\string and char\obj\Debug\string and char.exe
+D:\C#\Softuni\Lesons\string and char\string and char\obj\Debug\string and char.pdb

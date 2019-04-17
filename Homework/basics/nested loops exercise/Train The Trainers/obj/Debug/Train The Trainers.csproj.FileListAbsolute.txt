@@ -1,0 +1,7 @@
+D:\C#\Softuni\Homework\nested loops exercise\Train The Trainers\bin\Debug\Train The Trainers.exe.config
+D:\C#\Softuni\Homework\nested loops exercise\Train The Trainers\bin\Debug\Train The Trainers.exe
+D:\C#\Softuni\Homework\nested loops exercise\Train The Trainers\bin\Debug\Train The Trainers.pdb
+D:\C#\Softuni\Homework\nested loops exercise\Train The Trainers\obj\Debug\Train The Trainers.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\nested loops exercise\Train The Trainers\obj\Debug\Train The Trainers.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\nested loops exercise\Train The Trainers\obj\Debug\Train The Trainers.exe
+D:\C#\Softuni\Homework\nested loops exercise\Train The Trainers\obj\Debug\Train The Trainers.pdb

@@ -1,0 +1,7 @@
+D:\C#\Softuni\Homework\while loops\number sequence\bin\Debug\number sequence.exe.config
+D:\C#\Softuni\Homework\while loops\number sequence\bin\Debug\number sequence.exe
+D:\C#\Softuni\Homework\while loops\number sequence\bin\Debug\number sequence.pdb
+D:\C#\Softuni\Homework\while loops\number sequence\obj\Debug\number sequence.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\while loops\number sequence\obj\Debug\number sequence.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\while loops\number sequence\obj\Debug\number sequence.exe
+D:\C#\Softuni\Homework\while loops\number sequence\obj\Debug\number sequence.pdb

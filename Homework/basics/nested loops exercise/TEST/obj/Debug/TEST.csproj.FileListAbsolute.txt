@@ -1,0 +1,7 @@
+D:\C#\Softuni\Homework\nested loops exercise\TEST\bin\Debug\TEST.exe.config
+D:\C#\Softuni\Homework\nested loops exercise\TEST\bin\Debug\TEST.exe
+D:\C#\Softuni\Homework\nested loops exercise\TEST\bin\Debug\TEST.pdb
+D:\C#\Softuni\Homework\nested loops exercise\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\nested loops exercise\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\nested loops exercise\TEST\obj\Debug\TEST.exe
+D:\C#\Softuni\Homework\nested loops exercise\TEST\obj\Debug\TEST.pdb

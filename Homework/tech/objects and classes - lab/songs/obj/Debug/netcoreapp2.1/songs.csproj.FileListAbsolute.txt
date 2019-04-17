@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\objects and classes - lab\songs\bin\Debug\netcoreapp2.1\songs.deps.json
+C:\Users\dimit\Desktop\objects and classes - lab\songs\bin\Debug\netcoreapp2.1\songs.runtimeconfig.json
+C:\Users\dimit\Desktop\objects and classes - lab\songs\bin\Debug\netcoreapp2.1\songs.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\objects and classes - lab\songs\bin\Debug\netcoreapp2.1\songs.dll
+C:\Users\dimit\Desktop\objects and classes - lab\songs\bin\Debug\netcoreapp2.1\songs.pdb
+C:\Users\dimit\Desktop\objects and classes - lab\songs\obj\Debug\netcoreapp2.1\songs.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\objects and classes - lab\songs\obj\Debug\netcoreapp2.1\songs.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\objects and classes - lab\songs\obj\Debug\netcoreapp2.1\songs.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\objects and classes - lab\songs\obj\Debug\netcoreapp2.1\songs.AssemblyInfo.cs
+C:\Users\dimit\Desktop\objects and classes - lab\songs\obj\Debug\netcoreapp2.1\songs.dll
+C:\Users\dimit\Desktop\objects and classes - lab\songs\obj\Debug\netcoreapp2.1\songs.pdb

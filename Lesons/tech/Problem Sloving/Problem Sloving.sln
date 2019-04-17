@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem Sloving", "Problem Sloving\Problem Sloving.csproj", "{2E72C274-024B-42FC-9206-A54A0BCD0996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E72C274-024B-42FC-9206-A54A0BCD0996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E72C274-024B-42FC-9206-A54A0BCD0996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E72C274-024B-42FC-9206-A54A0BCD0996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E72C274-024B-42FC-9206-A54A0BCD0996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EADD785-FD18-4D4B-9639-452E2CDFDC5B}
+	EndGlobalSection
+EndGlobal

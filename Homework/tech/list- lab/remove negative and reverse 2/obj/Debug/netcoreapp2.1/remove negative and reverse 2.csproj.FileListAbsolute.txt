@@ -1,0 +1,10 @@
+D:\C#\Softuni\Homework\tech\list- lab\remove negative and reverse 2\bin\Debug\netcoreapp2.1\remove negative and reverse 2.deps.json
+D:\C#\Softuni\Homework\tech\list- lab\remove negative and reverse 2\bin\Debug\netcoreapp2.1\remove negative and reverse 2.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\list- lab\remove negative and reverse 2\bin\Debug\netcoreapp2.1\remove negative and reverse 2.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\list- lab\remove negative and reverse 2\bin\Debug\netcoreapp2.1\remove negative and reverse 2.dll
+D:\C#\Softuni\Homework\tech\list- lab\remove negative and reverse 2\bin\Debug\netcoreapp2.1\remove negative and reverse 2.pdb
+D:\C#\Softuni\Homework\tech\list- lab\remove negative and reverse 2\obj\Debug\netcoreapp2.1\remove negative and reverse 2.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\list- lab\remove negative and reverse 2\obj\Debug\netcoreapp2.1\remove negative and reverse 2.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\list- lab\remove negative and reverse 2\obj\Debug\netcoreapp2.1\remove negative and reverse 2.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\list- lab\remove negative and reverse 2\obj\Debug\netcoreapp2.1\remove negative and reverse 2.dll
+D:\C#\Softuni\Homework\tech\list- lab\remove negative and reverse 2\obj\Debug\netcoreapp2.1\remove negative and reverse 2.pdb

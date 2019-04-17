@@ -1,0 +1,7 @@
+D:\C#\exellent grade\exellent grade\bin\Debug\exellent grade.exe.config
+D:\C#\exellent grade\exellent grade\bin\Debug\exellent grade.exe
+D:\C#\exellent grade\exellent grade\bin\Debug\exellent grade.pdb
+D:\C#\exellent grade\exellent grade\obj\Debug\exellent grade.csprojAssemblyReference.cache
+D:\C#\exellent grade\exellent grade\obj\Debug\exellent grade.csproj.CoreCompileInputs.cache
+D:\C#\exellent grade\exellent grade\obj\Debug\exellent grade.exe
+D:\C#\exellent grade\exellent grade\obj\Debug\exellent grade.pdb

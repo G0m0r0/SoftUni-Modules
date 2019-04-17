@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\lab introduction\back in 30 minutes\bin\Debug\netcoreapp2.1\back in 30 minutes.deps.json
+D:\C#\Softuni\Homework\tech\lab introduction\back in 30 minutes\bin\Debug\netcoreapp2.1\back in 30 minutes.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\lab introduction\back in 30 minutes\bin\Debug\netcoreapp2.1\back in 30 minutes.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\lab introduction\back in 30 minutes\bin\Debug\netcoreapp2.1\back in 30 minutes.dll
+D:\C#\Softuni\Homework\tech\lab introduction\back in 30 minutes\bin\Debug\netcoreapp2.1\back in 30 minutes.pdb
+D:\C#\Softuni\Homework\tech\lab introduction\back in 30 minutes\obj\Debug\netcoreapp2.1\back in 30 minutes.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\lab introduction\back in 30 minutes\obj\Debug\netcoreapp2.1\back in 30 minutes.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\lab introduction\back in 30 minutes\obj\Debug\netcoreapp2.1\back in 30 minutes.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\lab introduction\back in 30 minutes\obj\Debug\netcoreapp2.1\back in 30 minutes.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\lab introduction\back in 30 minutes\obj\Debug\netcoreapp2.1\back in 30 minutes.dll
+D:\C#\Softuni\Homework\tech\lab introduction\back in 30 minutes\obj\Debug\netcoreapp2.1\back in 30 minutes.pdb

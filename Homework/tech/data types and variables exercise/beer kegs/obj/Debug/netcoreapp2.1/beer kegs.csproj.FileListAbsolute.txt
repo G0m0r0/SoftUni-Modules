@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\data types and variables exercise\beer kegs\bin\Debug\netcoreapp2.1\beer kegs.deps.json
+D:\C#\Softuni\Homework\tech\data types and variables exercise\beer kegs\bin\Debug\netcoreapp2.1\beer kegs.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\data types and variables exercise\beer kegs\bin\Debug\netcoreapp2.1\beer kegs.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\data types and variables exercise\beer kegs\bin\Debug\netcoreapp2.1\beer kegs.dll
+D:\C#\Softuni\Homework\tech\data types and variables exercise\beer kegs\bin\Debug\netcoreapp2.1\beer kegs.pdb
+D:\C#\Softuni\Homework\tech\data types and variables exercise\beer kegs\obj\Debug\netcoreapp2.1\beer kegs.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\data types and variables exercise\beer kegs\obj\Debug\netcoreapp2.1\beer kegs.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\data types and variables exercise\beer kegs\obj\Debug\netcoreapp2.1\beer kegs.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\data types and variables exercise\beer kegs\obj\Debug\netcoreapp2.1\beer kegs.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\data types and variables exercise\beer kegs\obj\Debug\netcoreapp2.1\beer kegs.dll
+D:\C#\Softuni\Homework\tech\data types and variables exercise\beer kegs\obj\Debug\netcoreapp2.1\beer kegs.pdb

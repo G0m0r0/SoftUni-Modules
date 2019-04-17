@@ -1,0 +1,11 @@
+D:\C#\Softuni\Lesons\tech\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp2.1\Data Types and Variables.deps.json
+D:\C#\Softuni\Lesons\tech\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp2.1\Data Types and Variables.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp2.1\Data Types and Variables.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp2.1\Data Types and Variables.dll
+D:\C#\Softuni\Lesons\tech\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp2.1\Data Types and Variables.pdb
+D:\C#\Softuni\Lesons\tech\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp2.1\Data Types and Variables.csprojAssemblyReference.cache
+D:\C#\Softuni\Lesons\tech\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp2.1\Data Types and Variables.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp2.1\Data Types and Variables.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp2.1\Data Types and Variables.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp2.1\Data Types and Variables.dll
+D:\C#\Softuni\Lesons\tech\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp2.1\Data Types and Variables.pdb

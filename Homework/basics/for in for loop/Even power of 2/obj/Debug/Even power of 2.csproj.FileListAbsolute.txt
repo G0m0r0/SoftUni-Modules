@@ -1,0 +1,6 @@
+D:\C#\Softuni\Homework\for in for loop\Even power of 2\bin\Debug\Even power of 2.exe.config
+D:\C#\Softuni\Homework\for in for loop\Even power of 2\bin\Debug\Even power of 2.exe
+D:\C#\Softuni\Homework\for in for loop\Even power of 2\bin\Debug\Even power of 2.pdb
+D:\C#\Softuni\Homework\for in for loop\Even power of 2\obj\Debug\Even power of 2.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\for in for loop\Even power of 2\obj\Debug\Even power of 2.exe
+D:\C#\Softuni\Homework\for in for loop\Even power of 2\obj\Debug\Even power of 2.pdb

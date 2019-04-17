@@ -1,0 +1,7 @@
+D:\C#\Softuni\Lesons\tech\teck introduction\vending machine\bin\Debug\vending machine.exe.config
+D:\C#\Softuni\Lesons\tech\teck introduction\vending machine\bin\Debug\vending machine.exe
+D:\C#\Softuni\Lesons\tech\teck introduction\vending machine\bin\Debug\vending machine.pdb
+D:\C#\Softuni\Lesons\tech\teck introduction\vending machine\obj\Debug\vending machine.csprojAssemblyReference.cache
+D:\C#\Softuni\Lesons\tech\teck introduction\vending machine\obj\Debug\vending machine.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\teck introduction\vending machine\obj\Debug\vending machine.exe
+D:\C#\Softuni\Lesons\tech\teck introduction\vending machine\obj\Debug\vending machine.pdb

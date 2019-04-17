@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\data types more exercise\floating equality\bin\Debug\netcoreapp2.1\floating equality.deps.json
+D:\C#\Softuni\Homework\tech\data types more exercise\floating equality\bin\Debug\netcoreapp2.1\floating equality.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\data types more exercise\floating equality\bin\Debug\netcoreapp2.1\floating equality.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\data types more exercise\floating equality\bin\Debug\netcoreapp2.1\floating equality.dll
+D:\C#\Softuni\Homework\tech\data types more exercise\floating equality\bin\Debug\netcoreapp2.1\floating equality.pdb
+D:\C#\Softuni\Homework\tech\data types more exercise\floating equality\obj\Debug\netcoreapp2.1\floating equality.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\data types more exercise\floating equality\obj\Debug\netcoreapp2.1\floating equality.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\data types more exercise\floating equality\obj\Debug\netcoreapp2.1\floating equality.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\data types more exercise\floating equality\obj\Debug\netcoreapp2.1\floating equality.dll
+D:\C#\Softuni\Homework\tech\data types more exercise\floating equality\obj\Debug\netcoreapp2.1\floating equality.pdb
+D:\C#\Softuni\Homework\tech\data types more exercise\floating equality\obj\Debug\netcoreapp2.1\floating equality.csprojAssemblyReference.cache

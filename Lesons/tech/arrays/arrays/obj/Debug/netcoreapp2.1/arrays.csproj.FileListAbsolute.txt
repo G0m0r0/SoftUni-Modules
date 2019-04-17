@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\arrays\arrays\obj\Debug\netcoreapp2.1\arrays.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\arrays\arrays\obj\Debug\netcoreapp2.1\arrays.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\arrays\arrays\obj\Debug\netcoreapp2.1\arrays.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\arrays\arrays\obj\Debug\netcoreapp2.1\arrays.AssemblyInfo.cs
+C:\Users\dimit\Desktop\arrays\arrays\bin\Debug\netcoreapp2.1\arrays.deps.json
+C:\Users\dimit\Desktop\arrays\arrays\bin\Debug\netcoreapp2.1\arrays.runtimeconfig.json
+C:\Users\dimit\Desktop\arrays\arrays\bin\Debug\netcoreapp2.1\arrays.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\arrays\arrays\bin\Debug\netcoreapp2.1\arrays.dll
+C:\Users\dimit\Desktop\arrays\arrays\bin\Debug\netcoreapp2.1\arrays.pdb
+C:\Users\dimit\Desktop\arrays\arrays\obj\Debug\netcoreapp2.1\arrays.dll
+C:\Users\dimit\Desktop\arrays\arrays\obj\Debug\netcoreapp2.1\arrays.pdb

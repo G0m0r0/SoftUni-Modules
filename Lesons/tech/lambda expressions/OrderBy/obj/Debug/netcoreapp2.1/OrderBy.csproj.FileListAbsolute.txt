@@ -1,0 +1,10 @@
+D:\C#\Softuni\Lesons\tech\lambda expressions\OrderBy\bin\Debug\netcoreapp2.1\OrderBy.deps.json
+D:\C#\Softuni\Lesons\tech\lambda expressions\OrderBy\bin\Debug\netcoreapp2.1\OrderBy.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\lambda expressions\OrderBy\bin\Debug\netcoreapp2.1\OrderBy.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\lambda expressions\OrderBy\bin\Debug\netcoreapp2.1\OrderBy.dll
+D:\C#\Softuni\Lesons\tech\lambda expressions\OrderBy\bin\Debug\netcoreapp2.1\OrderBy.pdb
+D:\C#\Softuni\Lesons\tech\lambda expressions\OrderBy\obj\Debug\netcoreapp2.1\OrderBy.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\lambda expressions\OrderBy\obj\Debug\netcoreapp2.1\OrderBy.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\lambda expressions\OrderBy\obj\Debug\netcoreapp2.1\OrderBy.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\lambda expressions\OrderBy\obj\Debug\netcoreapp2.1\OrderBy.dll
+D:\C#\Softuni\Lesons\tech\lambda expressions\OrderBy\obj\Debug\netcoreapp2.1\OrderBy.pdb

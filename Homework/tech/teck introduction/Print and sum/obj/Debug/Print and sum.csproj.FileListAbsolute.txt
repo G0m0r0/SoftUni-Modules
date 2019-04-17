@@ -1,0 +1,13 @@
+D:\C#\Softuni\Lesons\tech\teck introduction\Print and sum\bin\Debug\Print and sum.exe.config
+D:\C#\Softuni\Lesons\tech\teck introduction\Print and sum\bin\Debug\Print and sum.exe
+D:\C#\Softuni\Lesons\tech\teck introduction\Print and sum\bin\Debug\Print and sum.pdb
+D:\C#\Softuni\Lesons\tech\teck introduction\Print and sum\obj\Debug\Print and sum.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\teck introduction\Print and sum\obj\Debug\Print and sum.exe
+D:\C#\Softuni\Lesons\tech\teck introduction\Print and sum\obj\Debug\Print and sum.pdb
+D:\C#\Softuni\Homework\tech\teck introduction\Print and sum\bin\Debug\Print and sum.exe.config
+D:\C#\Softuni\Homework\tech\teck introduction\Print and sum\bin\Debug\Print and sum.exe
+D:\C#\Softuni\Homework\tech\teck introduction\Print and sum\bin\Debug\Print and sum.pdb
+D:\C#\Softuni\Homework\tech\teck introduction\Print and sum\obj\Debug\Print and sum.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\teck introduction\Print and sum\obj\Debug\Print and sum.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\teck introduction\Print and sum\obj\Debug\Print and sum.exe
+D:\C#\Softuni\Homework\tech\teck introduction\Print and sum\obj\Debug\Print and sum.pdb

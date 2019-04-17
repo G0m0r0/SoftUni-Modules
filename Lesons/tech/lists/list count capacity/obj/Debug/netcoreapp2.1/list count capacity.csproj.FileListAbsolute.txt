@@ -1,0 +1,10 @@
+D:\C#\Softuni\Lesons\tech\lists\list count capacity\bin\Debug\netcoreapp2.1\list count capacity.deps.json
+D:\C#\Softuni\Lesons\tech\lists\list count capacity\bin\Debug\netcoreapp2.1\list count capacity.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\lists\list count capacity\bin\Debug\netcoreapp2.1\list count capacity.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\lists\list count capacity\bin\Debug\netcoreapp2.1\list count capacity.dll
+D:\C#\Softuni\Lesons\tech\lists\list count capacity\bin\Debug\netcoreapp2.1\list count capacity.pdb
+D:\C#\Softuni\Lesons\tech\lists\list count capacity\obj\Debug\netcoreapp2.1\list count capacity.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\lists\list count capacity\obj\Debug\netcoreapp2.1\list count capacity.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\lists\list count capacity\obj\Debug\netcoreapp2.1\list count capacity.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\lists\list count capacity\obj\Debug\netcoreapp2.1\list count capacity.dll
+D:\C#\Softuni\Lesons\tech\lists\list count capacity\obj\Debug\netcoreapp2.1\list count capacity.pdb

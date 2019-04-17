@@ -1,0 +1,10 @@
+C:\Users\dimit\Desktop\Arrays - Exercise\equal sums\bin\Debug\netcoreapp2.1\equal sums.deps.json
+C:\Users\dimit\Desktop\Arrays - Exercise\equal sums\bin\Debug\netcoreapp2.1\equal sums.runtimeconfig.json
+C:\Users\dimit\Desktop\Arrays - Exercise\equal sums\bin\Debug\netcoreapp2.1\equal sums.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\Arrays - Exercise\equal sums\bin\Debug\netcoreapp2.1\equal sums.dll
+C:\Users\dimit\Desktop\Arrays - Exercise\equal sums\bin\Debug\netcoreapp2.1\equal sums.pdb
+C:\Users\dimit\Desktop\Arrays - Exercise\equal sums\obj\Debug\netcoreapp2.1\equal sums.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\Arrays - Exercise\equal sums\obj\Debug\netcoreapp2.1\equal sums.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\Arrays - Exercise\equal sums\obj\Debug\netcoreapp2.1\equal sums.AssemblyInfo.cs
+C:\Users\dimit\Desktop\Arrays - Exercise\equal sums\obj\Debug\netcoreapp2.1\equal sums.dll
+C:\Users\dimit\Desktop\Arrays - Exercise\equal sums\obj\Debug\netcoreapp2.1\equal sums.pdb

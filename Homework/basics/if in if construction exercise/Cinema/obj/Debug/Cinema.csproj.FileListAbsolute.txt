@@ -1,0 +1,7 @@
+D:\C#\Softuni\Homework\if in if construction exercise\Cinema\bin\Debug\Cinema.exe.config
+D:\C#\Softuni\Homework\if in if construction exercise\Cinema\bin\Debug\Cinema.exe
+D:\C#\Softuni\Homework\if in if construction exercise\Cinema\bin\Debug\Cinema.pdb
+D:\C#\Softuni\Homework\if in if construction exercise\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\if in if construction exercise\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\if in if construction exercise\Cinema\obj\Debug\Cinema.exe
+D:\C#\Softuni\Homework\if in if construction exercise\Cinema\obj\Debug\Cinema.pdb

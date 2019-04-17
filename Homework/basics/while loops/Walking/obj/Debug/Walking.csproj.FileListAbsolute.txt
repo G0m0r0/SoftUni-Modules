@@ -1,0 +1,7 @@
+D:\C#\Softuni\Homework\while loops\Walking\bin\Debug\Walking.exe.config
+D:\C#\Softuni\Homework\while loops\Walking\bin\Debug\Walking.exe
+D:\C#\Softuni\Homework\while loops\Walking\bin\Debug\Walking.pdb
+D:\C#\Softuni\Homework\while loops\Walking\obj\Debug\Walking.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\while loops\Walking\obj\Debug\Walking.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\while loops\Walking\obj\Debug\Walking.exe
+D:\C#\Softuni\Homework\while loops\Walking\obj\Debug\Walking.pdb

@@ -1,0 +1,7 @@
+D:\C#\Second\Second\bin\Debug\Second.exe.config
+D:\C#\Second\Second\bin\Debug\Second.exe
+D:\C#\Second\Second\bin\Debug\Second.pdb
+D:\C#\Second\Second\obj\Debug\Second.csprojAssemblyReference.cache
+D:\C#\Second\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+D:\C#\Second\Second\obj\Debug\Second.exe
+D:\C#\Second\Second\obj\Debug\Second.pdb

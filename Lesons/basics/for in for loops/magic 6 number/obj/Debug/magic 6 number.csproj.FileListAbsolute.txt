@@ -1,0 +1,7 @@
+D:\C#\Softuni\Lesons\for in for loops\magic 6 number\bin\Debug\magic 6 number.exe.config
+D:\C#\Softuni\Lesons\for in for loops\magic 6 number\bin\Debug\magic 6 number.exe
+D:\C#\Softuni\Lesons\for in for loops\magic 6 number\bin\Debug\magic 6 number.pdb
+D:\C#\Softuni\Lesons\for in for loops\magic 6 number\obj\Debug\magic 6 number.csprojAssemblyReference.cache
+D:\C#\Softuni\Lesons\for in for loops\magic 6 number\obj\Debug\magic 6 number.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\for in for loops\magic 6 number\obj\Debug\magic 6 number.exe
+D:\C#\Softuni\Lesons\for in for loops\magic 6 number\obj\Debug\magic 6 number.pdb

@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\object and classes- exercise\object and classes- exercise\bin\Debug\netcoreapp2.1\object and classes- exercise.deps.json
+D:\C#\Softuni\Homework\tech\object and classes- exercise\object and classes- exercise\bin\Debug\netcoreapp2.1\object and classes- exercise.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\object and classes- exercise\object and classes- exercise\bin\Debug\netcoreapp2.1\object and classes- exercise.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\object and classes- exercise\object and classes- exercise\bin\Debug\netcoreapp2.1\object and classes- exercise.dll
+D:\C#\Softuni\Homework\tech\object and classes- exercise\object and classes- exercise\bin\Debug\netcoreapp2.1\object and classes- exercise.pdb
+D:\C#\Softuni\Homework\tech\object and classes- exercise\object and classes- exercise\obj\Debug\netcoreapp2.1\object and classes- exercise.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\object and classes- exercise\object and classes- exercise\obj\Debug\netcoreapp2.1\object and classes- exercise.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\object and classes- exercise\object and classes- exercise\obj\Debug\netcoreapp2.1\object and classes- exercise.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\object and classes- exercise\object and classes- exercise\obj\Debug\netcoreapp2.1\object and classes- exercise.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\object and classes- exercise\object and classes- exercise\obj\Debug\netcoreapp2.1\object and classes- exercise.dll
+D:\C#\Softuni\Homework\tech\object and classes- exercise\object and classes- exercise\obj\Debug\netcoreapp2.1\object and classes- exercise.pdb

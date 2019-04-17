@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\objects and classes - lab\objects and classes - lab\bin\Debug\netcoreapp2.1\objects and classes - lab.deps.json
+D:\C#\Softuni\Homework\tech\objects and classes - lab\objects and classes - lab\bin\Debug\netcoreapp2.1\objects and classes - lab.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\objects and classes - lab\objects and classes - lab\bin\Debug\netcoreapp2.1\objects and classes - lab.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\objects and classes - lab\objects and classes - lab\bin\Debug\netcoreapp2.1\objects and classes - lab.dll
+D:\C#\Softuni\Homework\tech\objects and classes - lab\objects and classes - lab\bin\Debug\netcoreapp2.1\objects and classes - lab.pdb
+D:\C#\Softuni\Homework\tech\objects and classes - lab\objects and classes - lab\obj\Debug\netcoreapp2.1\objects and classes - lab.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\objects and classes - lab\objects and classes - lab\obj\Debug\netcoreapp2.1\objects and classes - lab.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\objects and classes - lab\objects and classes - lab\obj\Debug\netcoreapp2.1\objects and classes - lab.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\objects and classes - lab\objects and classes - lab\obj\Debug\netcoreapp2.1\objects and classes - lab.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\objects and classes - lab\objects and classes - lab\obj\Debug\netcoreapp2.1\objects and classes - lab.dll
+D:\C#\Softuni\Homework\tech\objects and classes - lab\objects and classes - lab\obj\Debug\netcoreapp2.1\objects and classes - lab.pdb

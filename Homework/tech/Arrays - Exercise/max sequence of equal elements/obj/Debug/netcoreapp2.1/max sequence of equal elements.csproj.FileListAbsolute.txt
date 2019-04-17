@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\Arrays - Exercise\max sequence of equal elements\bin\Debug\netcoreapp2.1\max sequence of equal elements.deps.json
+C:\Users\dimit\Desktop\Arrays - Exercise\max sequence of equal elements\bin\Debug\netcoreapp2.1\max sequence of equal elements.runtimeconfig.json
+C:\Users\dimit\Desktop\Arrays - Exercise\max sequence of equal elements\bin\Debug\netcoreapp2.1\max sequence of equal elements.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\Arrays - Exercise\max sequence of equal elements\bin\Debug\netcoreapp2.1\max sequence of equal elements.dll
+C:\Users\dimit\Desktop\Arrays - Exercise\max sequence of equal elements\bin\Debug\netcoreapp2.1\max sequence of equal elements.pdb
+C:\Users\dimit\Desktop\Arrays - Exercise\max sequence of equal elements\obj\Debug\netcoreapp2.1\max sequence of equal elements.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\Arrays - Exercise\max sequence of equal elements\obj\Debug\netcoreapp2.1\max sequence of equal elements.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\Arrays - Exercise\max sequence of equal elements\obj\Debug\netcoreapp2.1\max sequence of equal elements.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\Arrays - Exercise\max sequence of equal elements\obj\Debug\netcoreapp2.1\max sequence of equal elements.AssemblyInfo.cs
+C:\Users\dimit\Desktop\Arrays - Exercise\max sequence of equal elements\obj\Debug\netcoreapp2.1\max sequence of equal elements.dll
+C:\Users\dimit\Desktop\Arrays - Exercise\max sequence of equal elements\obj\Debug\netcoreapp2.1\max sequence of equal elements.pdb

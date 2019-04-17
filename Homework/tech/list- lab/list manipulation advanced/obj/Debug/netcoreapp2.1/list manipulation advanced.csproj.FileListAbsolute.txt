@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\list- lab\list manipulation advanced\bin\Debug\netcoreapp2.1\list manipulation advanced.deps.json
+D:\C#\Softuni\Homework\tech\list- lab\list manipulation advanced\bin\Debug\netcoreapp2.1\list manipulation advanced.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\list- lab\list manipulation advanced\bin\Debug\netcoreapp2.1\list manipulation advanced.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\list- lab\list manipulation advanced\bin\Debug\netcoreapp2.1\list manipulation advanced.dll
+D:\C#\Softuni\Homework\tech\list- lab\list manipulation advanced\bin\Debug\netcoreapp2.1\list manipulation advanced.pdb
+D:\C#\Softuni\Homework\tech\list- lab\list manipulation advanced\obj\Debug\netcoreapp2.1\list manipulation advanced.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\list- lab\list manipulation advanced\obj\Debug\netcoreapp2.1\list manipulation advanced.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\list- lab\list manipulation advanced\obj\Debug\netcoreapp2.1\list manipulation advanced.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\list- lab\list manipulation advanced\obj\Debug\netcoreapp2.1\list manipulation advanced.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\list- lab\list manipulation advanced\obj\Debug\netcoreapp2.1\list manipulation advanced.dll
+D:\C#\Softuni\Homework\tech\list- lab\list manipulation advanced\obj\Debug\netcoreapp2.1\list manipulation advanced.pdb

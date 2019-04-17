@@ -1,0 +1,7 @@
+D:\C#\Softuni\Lesons\tech\teck introduction\vacation\bin\Debug\vacation.exe.config
+D:\C#\Softuni\Lesons\tech\teck introduction\vacation\bin\Debug\vacation.exe
+D:\C#\Softuni\Lesons\tech\teck introduction\vacation\bin\Debug\vacation.pdb
+D:\C#\Softuni\Lesons\tech\teck introduction\vacation\obj\Debug\vacation.csprojAssemblyReference.cache
+D:\C#\Softuni\Lesons\tech\teck introduction\vacation\obj\Debug\vacation.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\teck introduction\vacation\obj\Debug\vacation.exe
+D:\C#\Softuni\Lesons\tech\teck introduction\vacation\obj\Debug\vacation.pdb

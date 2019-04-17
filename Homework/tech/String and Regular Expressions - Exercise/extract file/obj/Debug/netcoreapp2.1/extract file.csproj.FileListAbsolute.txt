@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\extract file\obj\Debug\netcoreapp2.1\extract file.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\extract file\obj\Debug\netcoreapp2.1\extract file.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\extract file\obj\Debug\netcoreapp2.1\extract file.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\extract file\obj\Debug\netcoreapp2.1\extract file.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\extract file\bin\Debug\netcoreapp2.1\extract file.deps.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\extract file\bin\Debug\netcoreapp2.1\extract file.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\extract file\bin\Debug\netcoreapp2.1\extract file.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\extract file\bin\Debug\netcoreapp2.1\extract file.dll
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\extract file\bin\Debug\netcoreapp2.1\extract file.pdb
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\extract file\obj\Debug\netcoreapp2.1\extract file.dll
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\extract file\obj\Debug\netcoreapp2.1\extract file.pdb

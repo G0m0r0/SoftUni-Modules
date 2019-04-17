@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\list- more exercise\car race\bin\Debug\netcoreapp2.1\car race.deps.json
+D:\C#\Softuni\Homework\tech\list- more exercise\car race\bin\Debug\netcoreapp2.1\car race.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\list- more exercise\car race\bin\Debug\netcoreapp2.1\car race.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\list- more exercise\car race\bin\Debug\netcoreapp2.1\car race.dll
+D:\C#\Softuni\Homework\tech\list- more exercise\car race\bin\Debug\netcoreapp2.1\car race.pdb
+D:\C#\Softuni\Homework\tech\list- more exercise\car race\obj\Debug\netcoreapp2.1\car race.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\list- more exercise\car race\obj\Debug\netcoreapp2.1\car race.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\list- more exercise\car race\obj\Debug\netcoreapp2.1\car race.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\list- more exercise\car race\obj\Debug\netcoreapp2.1\car race.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\list- more exercise\car race\obj\Debug\netcoreapp2.1\car race.dll
+D:\C#\Softuni\Homework\tech\list- more exercise\car race\obj\Debug\netcoreapp2.1\car race.pdb

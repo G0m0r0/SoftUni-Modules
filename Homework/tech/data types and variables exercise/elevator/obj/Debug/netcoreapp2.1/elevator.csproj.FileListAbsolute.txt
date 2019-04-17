@@ -1,0 +1,10 @@
+D:\C#\Softuni\Homework\tech\data types and variables exercise\elevator\bin\Debug\netcoreapp2.1\elevator.deps.json
+D:\C#\Softuni\Homework\tech\data types and variables exercise\elevator\bin\Debug\netcoreapp2.1\elevator.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\data types and variables exercise\elevator\bin\Debug\netcoreapp2.1\elevator.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\data types and variables exercise\elevator\bin\Debug\netcoreapp2.1\elevator.dll
+D:\C#\Softuni\Homework\tech\data types and variables exercise\elevator\bin\Debug\netcoreapp2.1\elevator.pdb
+D:\C#\Softuni\Homework\tech\data types and variables exercise\elevator\obj\Debug\netcoreapp2.1\elevator.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\data types and variables exercise\elevator\obj\Debug\netcoreapp2.1\elevator.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\data types and variables exercise\elevator\obj\Debug\netcoreapp2.1\elevator.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\data types and variables exercise\elevator\obj\Debug\netcoreapp2.1\elevator.dll
+D:\C#\Softuni\Homework\tech\data types and variables exercise\elevator\obj\Debug\netcoreapp2.1\elevator.pdb

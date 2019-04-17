@@ -1,0 +1,10 @@
+D:\C#\Softuni\Homework\tech\lab introduction\multiplication table 2.0\bin\Debug\netcoreapp2.1\multiplication table 2.0.deps.json
+D:\C#\Softuni\Homework\tech\lab introduction\multiplication table 2.0\bin\Debug\netcoreapp2.1\multiplication table 2.0.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\lab introduction\multiplication table 2.0\bin\Debug\netcoreapp2.1\multiplication table 2.0.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\lab introduction\multiplication table 2.0\bin\Debug\netcoreapp2.1\multiplication table 2.0.dll
+D:\C#\Softuni\Homework\tech\lab introduction\multiplication table 2.0\bin\Debug\netcoreapp2.1\multiplication table 2.0.pdb
+D:\C#\Softuni\Homework\tech\lab introduction\multiplication table 2.0\obj\Debug\netcoreapp2.1\multiplication table 2.0.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\lab introduction\multiplication table 2.0\obj\Debug\netcoreapp2.1\multiplication table 2.0.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\lab introduction\multiplication table 2.0\obj\Debug\netcoreapp2.1\multiplication table 2.0.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\lab introduction\multiplication table 2.0\obj\Debug\netcoreapp2.1\multiplication table 2.0.dll
+D:\C#\Softuni\Homework\tech\lab introduction\multiplication table 2.0\obj\Debug\netcoreapp2.1\multiplication table 2.0.pdb

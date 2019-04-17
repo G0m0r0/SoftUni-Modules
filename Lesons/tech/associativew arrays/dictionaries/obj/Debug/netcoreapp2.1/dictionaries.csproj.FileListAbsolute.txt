@@ -1,0 +1,11 @@
+D:\C#\Softuni\exams\associativew arrays\dictionaries\bin\Debug\netcoreapp2.1\dictionaries.deps.json
+D:\C#\Softuni\exams\associativew arrays\dictionaries\bin\Debug\netcoreapp2.1\dictionaries.runtimeconfig.json
+D:\C#\Softuni\exams\associativew arrays\dictionaries\bin\Debug\netcoreapp2.1\dictionaries.runtimeconfig.dev.json
+D:\C#\Softuni\exams\associativew arrays\dictionaries\bin\Debug\netcoreapp2.1\dictionaries.dll
+D:\C#\Softuni\exams\associativew arrays\dictionaries\bin\Debug\netcoreapp2.1\dictionaries.pdb
+D:\C#\Softuni\exams\associativew arrays\dictionaries\obj\Debug\netcoreapp2.1\dictionaries.csprojAssemblyReference.cache
+D:\C#\Softuni\exams\associativew arrays\dictionaries\obj\Debug\netcoreapp2.1\dictionaries.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\exams\associativew arrays\dictionaries\obj\Debug\netcoreapp2.1\dictionaries.AssemblyInfoInputs.cache
+D:\C#\Softuni\exams\associativew arrays\dictionaries\obj\Debug\netcoreapp2.1\dictionaries.AssemblyInfo.cs
+D:\C#\Softuni\exams\associativew arrays\dictionaries\obj\Debug\netcoreapp2.1\dictionaries.dll
+D:\C#\Softuni\exams\associativew arrays\dictionaries\obj\Debug\netcoreapp2.1\dictionaries.pdb

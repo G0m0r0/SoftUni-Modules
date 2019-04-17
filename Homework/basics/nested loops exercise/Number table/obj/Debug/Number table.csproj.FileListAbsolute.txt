@@ -1,0 +1,6 @@
+D:\C#\Softuni\Homework\nested loops exercise\Number table\bin\Debug\Number table.exe.config
+D:\C#\Softuni\Homework\nested loops exercise\Number table\bin\Debug\Number table.exe
+D:\C#\Softuni\Homework\nested loops exercise\Number table\bin\Debug\Number table.pdb
+D:\C#\Softuni\Homework\nested loops exercise\Number table\obj\Debug\Number table.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\nested loops exercise\Number table\obj\Debug\Number table.exe
+D:\C#\Softuni\Homework\nested loops exercise\Number table\obj\Debug\Number table.pdb

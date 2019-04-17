@@ -1,0 +1,10 @@
+D:\C#\Softuni\Lesons\tech\methods\main with parametheres\bin\Debug\netcoreapp2.1\main with parametheres.deps.json
+D:\C#\Softuni\Lesons\tech\methods\main with parametheres\bin\Debug\netcoreapp2.1\main with parametheres.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\methods\main with parametheres\bin\Debug\netcoreapp2.1\main with parametheres.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\methods\main with parametheres\bin\Debug\netcoreapp2.1\main with parametheres.dll
+D:\C#\Softuni\Lesons\tech\methods\main with parametheres\bin\Debug\netcoreapp2.1\main with parametheres.pdb
+D:\C#\Softuni\Lesons\tech\methods\main with parametheres\obj\Debug\netcoreapp2.1\main with parametheres.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\methods\main with parametheres\obj\Debug\netcoreapp2.1\main with parametheres.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\methods\main with parametheres\obj\Debug\netcoreapp2.1\main with parametheres.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\methods\main with parametheres\obj\Debug\netcoreapp2.1\main with parametheres.dll
+D:\C#\Softuni\Lesons\tech\methods\main with parametheres\obj\Debug\netcoreapp2.1\main with parametheres.pdb

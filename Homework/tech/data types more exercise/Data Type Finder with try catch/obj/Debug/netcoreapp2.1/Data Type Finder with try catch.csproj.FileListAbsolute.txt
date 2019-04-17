@@ -1,0 +1,10 @@
+D:\C#\Softuni\Homework\tech\data types more exercise\Data Type Finder with try catch\bin\Debug\netcoreapp2.1\Data Type Finder with try catch.deps.json
+D:\C#\Softuni\Homework\tech\data types more exercise\Data Type Finder with try catch\bin\Debug\netcoreapp2.1\Data Type Finder with try catch.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\data types more exercise\Data Type Finder with try catch\bin\Debug\netcoreapp2.1\Data Type Finder with try catch.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\data types more exercise\Data Type Finder with try catch\bin\Debug\netcoreapp2.1\Data Type Finder with try catch.dll
+D:\C#\Softuni\Homework\tech\data types more exercise\Data Type Finder with try catch\bin\Debug\netcoreapp2.1\Data Type Finder with try catch.pdb
+D:\C#\Softuni\Homework\tech\data types more exercise\Data Type Finder with try catch\obj\Debug\netcoreapp2.1\Data Type Finder with try catch.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\data types more exercise\Data Type Finder with try catch\obj\Debug\netcoreapp2.1\Data Type Finder with try catch.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\data types more exercise\Data Type Finder with try catch\obj\Debug\netcoreapp2.1\Data Type Finder with try catch.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\data types more exercise\Data Type Finder with try catch\obj\Debug\netcoreapp2.1\Data Type Finder with try catch.dll
+D:\C#\Softuni\Homework\tech\data types more exercise\Data Type Finder with try catch\obj\Debug\netcoreapp2.1\Data Type Finder with try catch.pdb

@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\objects and classes - lab\bigfactoriel\bin\Debug\netcoreapp2.1\bigfactoriel.deps.json
+D:\C#\Softuni\Homework\tech\objects and classes - lab\bigfactoriel\bin\Debug\netcoreapp2.1\bigfactoriel.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\objects and classes - lab\bigfactoriel\bin\Debug\netcoreapp2.1\bigfactoriel.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\objects and classes - lab\bigfactoriel\bin\Debug\netcoreapp2.1\bigfactoriel.dll
+D:\C#\Softuni\Homework\tech\objects and classes - lab\bigfactoriel\bin\Debug\netcoreapp2.1\bigfactoriel.pdb
+D:\C#\Softuni\Homework\tech\objects and classes - lab\bigfactoriel\obj\Debug\netcoreapp2.1\bigfactoriel.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\objects and classes - lab\bigfactoriel\obj\Debug\netcoreapp2.1\bigfactoriel.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\objects and classes - lab\bigfactoriel\obj\Debug\netcoreapp2.1\bigfactoriel.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\objects and classes - lab\bigfactoriel\obj\Debug\netcoreapp2.1\bigfactoriel.dll
+D:\C#\Softuni\Homework\tech\objects and classes - lab\bigfactoriel\obj\Debug\netcoreapp2.1\bigfactoriel.pdb
+D:\C#\Softuni\Homework\tech\objects and classes - lab\bigfactoriel\obj\Debug\netcoreapp2.1\bigfactoriel.csprojAssemblyReference.cache

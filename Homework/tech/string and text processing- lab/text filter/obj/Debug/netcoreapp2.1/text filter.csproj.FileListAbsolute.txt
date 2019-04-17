@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\string and text processing- lab\text filter\bin\Debug\netcoreapp2.1\text filter.deps.json
+D:\C#\Softuni\Homework\tech\string and text processing- lab\text filter\bin\Debug\netcoreapp2.1\text filter.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\string and text processing- lab\text filter\bin\Debug\netcoreapp2.1\text filter.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\string and text processing- lab\text filter\bin\Debug\netcoreapp2.1\text filter.dll
+D:\C#\Softuni\Homework\tech\string and text processing- lab\text filter\bin\Debug\netcoreapp2.1\text filter.pdb
+D:\C#\Softuni\Homework\tech\string and text processing- lab\text filter\obj\Debug\netcoreapp2.1\text filter.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\string and text processing- lab\text filter\obj\Debug\netcoreapp2.1\text filter.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\string and text processing- lab\text filter\obj\Debug\netcoreapp2.1\text filter.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\string and text processing- lab\text filter\obj\Debug\netcoreapp2.1\text filter.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\string and text processing- lab\text filter\obj\Debug\netcoreapp2.1\text filter.dll
+D:\C#\Softuni\Homework\tech\string and text processing- lab\text filter\obj\Debug\netcoreapp2.1\text filter.pdb

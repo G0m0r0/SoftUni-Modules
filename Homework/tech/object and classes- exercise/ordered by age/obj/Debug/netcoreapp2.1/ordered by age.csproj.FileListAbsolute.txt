@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\object and classes- exercise\ordered by age\bin\Debug\netcoreapp2.1\ordered by age.deps.json
+D:\C#\Softuni\Homework\tech\object and classes- exercise\ordered by age\bin\Debug\netcoreapp2.1\ordered by age.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\object and classes- exercise\ordered by age\bin\Debug\netcoreapp2.1\ordered by age.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\object and classes- exercise\ordered by age\bin\Debug\netcoreapp2.1\ordered by age.dll
+D:\C#\Softuni\Homework\tech\object and classes- exercise\ordered by age\bin\Debug\netcoreapp2.1\ordered by age.pdb
+D:\C#\Softuni\Homework\tech\object and classes- exercise\ordered by age\obj\Debug\netcoreapp2.1\ordered by age.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\object and classes- exercise\ordered by age\obj\Debug\netcoreapp2.1\ordered by age.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\object and classes- exercise\ordered by age\obj\Debug\netcoreapp2.1\ordered by age.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\object and classes- exercise\ordered by age\obj\Debug\netcoreapp2.1\ordered by age.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\object and classes- exercise\ordered by age\obj\Debug\netcoreapp2.1\ordered by age.dll
+D:\C#\Softuni\Homework\tech\object and classes- exercise\ordered by age\obj\Debug\netcoreapp2.1\ordered by age.pdb

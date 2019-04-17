@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\lab introduction\holidays between two dates\bin\Debug\netcoreapp2.1\holidays between two dates.deps.json
+D:\C#\Softuni\Homework\tech\lab introduction\holidays between two dates\bin\Debug\netcoreapp2.1\holidays between two dates.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\lab introduction\holidays between two dates\bin\Debug\netcoreapp2.1\holidays between two dates.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\lab introduction\holidays between two dates\bin\Debug\netcoreapp2.1\holidays between two dates.dll
+D:\C#\Softuni\Homework\tech\lab introduction\holidays between two dates\bin\Debug\netcoreapp2.1\holidays between two dates.pdb
+D:\C#\Softuni\Homework\tech\lab introduction\holidays between two dates\obj\Debug\netcoreapp2.1\holidays between two dates.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\lab introduction\holidays between two dates\obj\Debug\netcoreapp2.1\holidays between two dates.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\lab introduction\holidays between two dates\obj\Debug\netcoreapp2.1\holidays between two dates.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\lab introduction\holidays between two dates\obj\Debug\netcoreapp2.1\holidays between two dates.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\lab introduction\holidays between two dates\obj\Debug\netcoreapp2.1\holidays between two dates.dll
+D:\C#\Softuni\Homework\tech\lab introduction\holidays between two dates\obj\Debug\netcoreapp2.1\holidays between two dates.pdb

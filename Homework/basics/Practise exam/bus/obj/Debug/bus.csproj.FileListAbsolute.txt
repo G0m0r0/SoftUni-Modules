@@ -1,0 +1,7 @@
+C:\Users\dimit\source\repos\Practise exam\bus\bin\Debug\bus.exe.config
+C:\Users\dimit\source\repos\Practise exam\bus\bin\Debug\bus.exe
+C:\Users\dimit\source\repos\Practise exam\bus\bin\Debug\bus.pdb
+C:\Users\dimit\source\repos\Practise exam\bus\obj\Debug\bus.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\Practise exam\bus\obj\Debug\bus.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Practise exam\bus\obj\Debug\bus.exe
+C:\Users\dimit\source\repos\Practise exam\bus\obj\Debug\bus.pdb

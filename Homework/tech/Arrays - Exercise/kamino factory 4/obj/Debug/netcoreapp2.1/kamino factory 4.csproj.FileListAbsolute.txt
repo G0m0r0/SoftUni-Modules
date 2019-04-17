@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\Arrays - Exercise\kamino factory 4\bin\Debug\netcoreapp2.1\kamino factory 4.deps.json
+D:\C#\Softuni\Homework\tech\Arrays - Exercise\kamino factory 4\bin\Debug\netcoreapp2.1\kamino factory 4.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\Arrays - Exercise\kamino factory 4\bin\Debug\netcoreapp2.1\kamino factory 4.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\Arrays - Exercise\kamino factory 4\bin\Debug\netcoreapp2.1\kamino factory 4.dll
+D:\C#\Softuni\Homework\tech\Arrays - Exercise\kamino factory 4\bin\Debug\netcoreapp2.1\kamino factory 4.pdb
+D:\C#\Softuni\Homework\tech\Arrays - Exercise\kamino factory 4\obj\Debug\netcoreapp2.1\kamino factory 4.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\Arrays - Exercise\kamino factory 4\obj\Debug\netcoreapp2.1\kamino factory 4.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\Arrays - Exercise\kamino factory 4\obj\Debug\netcoreapp2.1\kamino factory 4.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\Arrays - Exercise\kamino factory 4\obj\Debug\netcoreapp2.1\kamino factory 4.dll
+D:\C#\Softuni\Homework\tech\Arrays - Exercise\kamino factory 4\obj\Debug\netcoreapp2.1\kamino factory 4.pdb
+D:\C#\Softuni\Homework\tech\Arrays - Exercise\kamino factory 4\obj\Debug\netcoreapp2.1\kamino factory 4.csprojAssemblyReference.cache

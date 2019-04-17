@@ -1,0 +1,7 @@
+D:\C#\Forth\Forth\bin\Debug\Forth.exe.config
+D:\C#\Forth\Forth\bin\Debug\Forth.exe
+D:\C#\Forth\Forth\bin\Debug\Forth.pdb
+D:\C#\Forth\Forth\obj\Debug\Forth.csproj.CoreCompileInputs.cache
+D:\C#\Forth\Forth\obj\Debug\Forth.exe
+D:\C#\Forth\Forth\obj\Debug\Forth.pdb
+D:\C#\Forth\Forth\obj\Debug\Forth.csprojAssemblyReference.cache

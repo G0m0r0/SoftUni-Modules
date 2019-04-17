@@ -1,0 +1,7 @@
+D:\C#\Softuni\Homework\for in for loop\travelling\bin\Debug\travelling.exe.config
+D:\C#\Softuni\Homework\for in for loop\travelling\bin\Debug\travelling.exe
+D:\C#\Softuni\Homework\for in for loop\travelling\bin\Debug\travelling.pdb
+D:\C#\Softuni\Homework\for in for loop\travelling\obj\Debug\travelling.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\for in for loop\travelling\obj\Debug\travelling.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\for in for loop\travelling\obj\Debug\travelling.exe
+D:\C#\Softuni\Homework\for in for loop\travelling\obj\Debug\travelling.pdb

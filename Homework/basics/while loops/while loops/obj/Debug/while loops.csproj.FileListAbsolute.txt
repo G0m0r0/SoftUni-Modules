@@ -1,0 +1,7 @@
+D:\C#\Softuni\Homework\while loops\while loops\bin\Debug\while loops.exe.config
+D:\C#\Softuni\Homework\while loops\while loops\bin\Debug\while loops.exe
+D:\C#\Softuni\Homework\while loops\while loops\bin\Debug\while loops.pdb
+D:\C#\Softuni\Homework\while loops\while loops\obj\Debug\while loops.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\while loops\while loops\obj\Debug\while loops.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\while loops\while loops\obj\Debug\while loops.exe
+D:\C#\Softuni\Homework\while loops\while loops\obj\Debug\while loops.pdb

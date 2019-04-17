@@ -1,0 +1,10 @@
+D:\C#\Softuni\Homework\tech\string and text processing- lab\repeat strign\bin\Debug\netcoreapp2.1\repeat strign.deps.json
+D:\C#\Softuni\Homework\tech\string and text processing- lab\repeat strign\bin\Debug\netcoreapp2.1\repeat strign.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\string and text processing- lab\repeat strign\bin\Debug\netcoreapp2.1\repeat strign.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\string and text processing- lab\repeat strign\bin\Debug\netcoreapp2.1\repeat strign.dll
+D:\C#\Softuni\Homework\tech\string and text processing- lab\repeat strign\bin\Debug\netcoreapp2.1\repeat strign.pdb
+D:\C#\Softuni\Homework\tech\string and text processing- lab\repeat strign\obj\Debug\netcoreapp2.1\repeat strign.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\string and text processing- lab\repeat strign\obj\Debug\netcoreapp2.1\repeat strign.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\string and text processing- lab\repeat strign\obj\Debug\netcoreapp2.1\repeat strign.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\string and text processing- lab\repeat strign\obj\Debug\netcoreapp2.1\repeat strign.dll
+D:\C#\Softuni\Homework\tech\string and text processing- lab\repeat strign\obj\Debug\netcoreapp2.1\repeat strign.pdb

@@ -1,0 +1,10 @@
+D:\C#\Softuni\Lesons\tech\methods\ref and type memory\bin\Debug\netcoreapp2.1\ref and type memory.deps.json
+D:\C#\Softuni\Lesons\tech\methods\ref and type memory\bin\Debug\netcoreapp2.1\ref and type memory.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\methods\ref and type memory\bin\Debug\netcoreapp2.1\ref and type memory.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\methods\ref and type memory\bin\Debug\netcoreapp2.1\ref and type memory.dll
+D:\C#\Softuni\Lesons\tech\methods\ref and type memory\bin\Debug\netcoreapp2.1\ref and type memory.pdb
+D:\C#\Softuni\Lesons\tech\methods\ref and type memory\obj\Debug\netcoreapp2.1\ref and type memory.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\methods\ref and type memory\obj\Debug\netcoreapp2.1\ref and type memory.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\methods\ref and type memory\obj\Debug\netcoreapp2.1\ref and type memory.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\methods\ref and type memory\obj\Debug\netcoreapp2.1\ref and type memory.dll
+D:\C#\Softuni\Lesons\tech\methods\ref and type memory\obj\Debug\netcoreapp2.1\ref and type memory.pdb

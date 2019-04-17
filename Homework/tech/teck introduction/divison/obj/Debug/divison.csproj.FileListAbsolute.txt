@@ -1,0 +1,7 @@
+D:\C#\Softuni\Lesons\tech\teck introduction\divison\bin\Debug\divison.exe.config
+D:\C#\Softuni\Lesons\tech\teck introduction\divison\bin\Debug\divison.exe
+D:\C#\Softuni\Lesons\tech\teck introduction\divison\bin\Debug\divison.pdb
+D:\C#\Softuni\Lesons\tech\teck introduction\divison\obj\Debug\divison.csprojAssemblyReference.cache
+D:\C#\Softuni\Lesons\tech\teck introduction\divison\obj\Debug\divison.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\teck introduction\divison\obj\Debug\divison.exe
+D:\C#\Softuni\Lesons\tech\teck introduction\divison\obj\Debug\divison.pdb

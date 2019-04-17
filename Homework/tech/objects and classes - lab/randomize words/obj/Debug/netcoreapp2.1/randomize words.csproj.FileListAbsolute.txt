@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\objects and classes - lab\randomize words\bin\Debug\netcoreapp2.1\randomize words.deps.json
+D:\C#\Softuni\Homework\tech\objects and classes - lab\randomize words\bin\Debug\netcoreapp2.1\randomize words.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\objects and classes - lab\randomize words\bin\Debug\netcoreapp2.1\randomize words.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\objects and classes - lab\randomize words\bin\Debug\netcoreapp2.1\randomize words.dll
+D:\C#\Softuni\Homework\tech\objects and classes - lab\randomize words\bin\Debug\netcoreapp2.1\randomize words.pdb
+D:\C#\Softuni\Homework\tech\objects and classes - lab\randomize words\obj\Debug\netcoreapp2.1\randomize words.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\objects and classes - lab\randomize words\obj\Debug\netcoreapp2.1\randomize words.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\objects and classes - lab\randomize words\obj\Debug\netcoreapp2.1\randomize words.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\objects and classes - lab\randomize words\obj\Debug\netcoreapp2.1\randomize words.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\objects and classes - lab\randomize words\obj\Debug\netcoreapp2.1\randomize words.dll
+D:\C#\Softuni\Homework\tech\objects and classes - lab\randomize words\obj\Debug\netcoreapp2.1\randomize words.pdb

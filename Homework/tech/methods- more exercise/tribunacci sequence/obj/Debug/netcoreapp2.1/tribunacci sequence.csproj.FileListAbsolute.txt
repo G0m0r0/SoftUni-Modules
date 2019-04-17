@@ -1,0 +1,11 @@
+C:\Users\dimit\source\repos\methods- more exercise\tribunacci sequence\bin\Debug\netcoreapp2.1\tribunacci sequence.deps.json
+C:\Users\dimit\source\repos\methods- more exercise\tribunacci sequence\bin\Debug\netcoreapp2.1\tribunacci sequence.runtimeconfig.json
+C:\Users\dimit\source\repos\methods- more exercise\tribunacci sequence\bin\Debug\netcoreapp2.1\tribunacci sequence.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\methods- more exercise\tribunacci sequence\bin\Debug\netcoreapp2.1\tribunacci sequence.dll
+C:\Users\dimit\source\repos\methods- more exercise\tribunacci sequence\bin\Debug\netcoreapp2.1\tribunacci sequence.pdb
+C:\Users\dimit\source\repos\methods- more exercise\tribunacci sequence\obj\Debug\netcoreapp2.1\tribunacci sequence.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\methods- more exercise\tribunacci sequence\obj\Debug\netcoreapp2.1\tribunacci sequence.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\methods- more exercise\tribunacci sequence\obj\Debug\netcoreapp2.1\tribunacci sequence.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\methods- more exercise\tribunacci sequence\obj\Debug\netcoreapp2.1\tribunacci sequence.AssemblyInfo.cs
+C:\Users\dimit\source\repos\methods- more exercise\tribunacci sequence\obj\Debug\netcoreapp2.1\tribunacci sequence.dll
+C:\Users\dimit\source\repos\methods- more exercise\tribunacci sequence\obj\Debug\netcoreapp2.1\tribunacci sequence.pdb

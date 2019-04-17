@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\list- more exercise\mixed up list\bin\Debug\netcoreapp2.1\mixed up list.deps.json
+D:\C#\Softuni\Homework\tech\list- more exercise\mixed up list\bin\Debug\netcoreapp2.1\mixed up list.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\list- more exercise\mixed up list\bin\Debug\netcoreapp2.1\mixed up list.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\list- more exercise\mixed up list\bin\Debug\netcoreapp2.1\mixed up list.dll
+D:\C#\Softuni\Homework\tech\list- more exercise\mixed up list\bin\Debug\netcoreapp2.1\mixed up list.pdb
+D:\C#\Softuni\Homework\tech\list- more exercise\mixed up list\obj\Debug\netcoreapp2.1\mixed up list.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\list- more exercise\mixed up list\obj\Debug\netcoreapp2.1\mixed up list.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\list- more exercise\mixed up list\obj\Debug\netcoreapp2.1\mixed up list.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\list- more exercise\mixed up list\obj\Debug\netcoreapp2.1\mixed up list.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\list- more exercise\mixed up list\obj\Debug\netcoreapp2.1\mixed up list.dll
+D:\C#\Softuni\Homework\tech\list- more exercise\mixed up list\obj\Debug\netcoreapp2.1\mixed up list.pdb

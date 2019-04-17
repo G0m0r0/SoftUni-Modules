@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\methods lab\grades\bin\Debug\netcoreapp2.1\grades.deps.json
+D:\C#\Softuni\Homework\tech\methods lab\grades\bin\Debug\netcoreapp2.1\grades.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\methods lab\grades\bin\Debug\netcoreapp2.1\grades.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\methods lab\grades\bin\Debug\netcoreapp2.1\grades.dll
+D:\C#\Softuni\Homework\tech\methods lab\grades\bin\Debug\netcoreapp2.1\grades.pdb
+D:\C#\Softuni\Homework\tech\methods lab\grades\obj\Debug\netcoreapp2.1\grades.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\methods lab\grades\obj\Debug\netcoreapp2.1\grades.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\methods lab\grades\obj\Debug\netcoreapp2.1\grades.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\methods lab\grades\obj\Debug\netcoreapp2.1\grades.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\methods lab\grades\obj\Debug\netcoreapp2.1\grades.dll
+D:\C#\Softuni\Homework\tech\methods lab\grades\obj\Debug\netcoreapp2.1\grades.pdb

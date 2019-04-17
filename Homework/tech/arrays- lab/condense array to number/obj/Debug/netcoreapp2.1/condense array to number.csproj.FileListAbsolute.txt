@@ -1,0 +1,10 @@
+C:\Users\dimit\Desktop\arrays- lab\condense array to number\bin\Debug\netcoreapp2.1\condense array to number.deps.json
+C:\Users\dimit\Desktop\arrays- lab\condense array to number\bin\Debug\netcoreapp2.1\condense array to number.runtimeconfig.json
+C:\Users\dimit\Desktop\arrays- lab\condense array to number\bin\Debug\netcoreapp2.1\condense array to number.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\arrays- lab\condense array to number\bin\Debug\netcoreapp2.1\condense array to number.dll
+C:\Users\dimit\Desktop\arrays- lab\condense array to number\bin\Debug\netcoreapp2.1\condense array to number.pdb
+C:\Users\dimit\Desktop\arrays- lab\condense array to number\obj\Debug\netcoreapp2.1\condense array to number.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\arrays- lab\condense array to number\obj\Debug\netcoreapp2.1\condense array to number.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\arrays- lab\condense array to number\obj\Debug\netcoreapp2.1\condense array to number.AssemblyInfo.cs
+C:\Users\dimit\Desktop\arrays- lab\condense array to number\obj\Debug\netcoreapp2.1\condense array to number.dll
+C:\Users\dimit\Desktop\arrays- lab\condense array to number\obj\Debug\netcoreapp2.1\condense array to number.pdb

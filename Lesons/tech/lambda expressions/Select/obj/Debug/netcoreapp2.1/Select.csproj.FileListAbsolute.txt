@@ -1,0 +1,10 @@
+D:\C#\Softuni\Lesons\tech\lambda expressions\Select\bin\Debug\netcoreapp2.1\Select.deps.json
+D:\C#\Softuni\Lesons\tech\lambda expressions\Select\bin\Debug\netcoreapp2.1\Select.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\lambda expressions\Select\bin\Debug\netcoreapp2.1\Select.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\lambda expressions\Select\bin\Debug\netcoreapp2.1\Select.dll
+D:\C#\Softuni\Lesons\tech\lambda expressions\Select\bin\Debug\netcoreapp2.1\Select.pdb
+D:\C#\Softuni\Lesons\tech\lambda expressions\Select\obj\Debug\netcoreapp2.1\Select.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\lambda expressions\Select\obj\Debug\netcoreapp2.1\Select.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\lambda expressions\Select\obj\Debug\netcoreapp2.1\Select.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\lambda expressions\Select\obj\Debug\netcoreapp2.1\Select.dll
+D:\C#\Softuni\Lesons\tech\lambda expressions\Select\obj\Debug\netcoreapp2.1\Select.pdb

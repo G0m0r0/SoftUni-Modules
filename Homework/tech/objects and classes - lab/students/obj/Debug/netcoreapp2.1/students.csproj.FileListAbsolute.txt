@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\objects and classes - lab\students\bin\Debug\netcoreapp2.1\students.deps.json
+C:\Users\dimit\Desktop\objects and classes - lab\students\bin\Debug\netcoreapp2.1\students.runtimeconfig.json
+C:\Users\dimit\Desktop\objects and classes - lab\students\bin\Debug\netcoreapp2.1\students.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\objects and classes - lab\students\bin\Debug\netcoreapp2.1\students.dll
+C:\Users\dimit\Desktop\objects and classes - lab\students\bin\Debug\netcoreapp2.1\students.pdb
+C:\Users\dimit\Desktop\objects and classes - lab\students\obj\Debug\netcoreapp2.1\students.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\objects and classes - lab\students\obj\Debug\netcoreapp2.1\students.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\objects and classes - lab\students\obj\Debug\netcoreapp2.1\students.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\objects and classes - lab\students\obj\Debug\netcoreapp2.1\students.AssemblyInfo.cs
+C:\Users\dimit\Desktop\objects and classes - lab\students\obj\Debug\netcoreapp2.1\students.dll
+C:\Users\dimit\Desktop\objects and classes - lab\students\obj\Debug\netcoreapp2.1\students.pdb

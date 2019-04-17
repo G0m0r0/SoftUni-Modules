@@ -1,0 +1,7 @@
+D:\C#\Softuni\Homework\for in for loop\combination\bin\Debug\combination.exe.config
+D:\C#\Softuni\Homework\for in for loop\combination\bin\Debug\combination.exe
+D:\C#\Softuni\Homework\for in for loop\combination\bin\Debug\combination.pdb
+D:\C#\Softuni\Homework\for in for loop\combination\obj\Debug\combination.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\for in for loop\combination\obj\Debug\combination.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\for in for loop\combination\obj\Debug\combination.exe
+D:\C#\Softuni\Homework\for in for loop\combination\obj\Debug\combination.pdb

@@ -1,0 +1,10 @@
+D:\C#\Softuni\Lesons\tech\lambda expressions\lambda and dictionary\bin\Debug\netcoreapp2.1\lambda and dictionary.deps.json
+D:\C#\Softuni\Lesons\tech\lambda expressions\lambda and dictionary\bin\Debug\netcoreapp2.1\lambda and dictionary.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\lambda expressions\lambda and dictionary\bin\Debug\netcoreapp2.1\lambda and dictionary.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\lambda expressions\lambda and dictionary\bin\Debug\netcoreapp2.1\lambda and dictionary.dll
+D:\C#\Softuni\Lesons\tech\lambda expressions\lambda and dictionary\bin\Debug\netcoreapp2.1\lambda and dictionary.pdb
+D:\C#\Softuni\Lesons\tech\lambda expressions\lambda and dictionary\obj\Debug\netcoreapp2.1\lambda and dictionary.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\lambda expressions\lambda and dictionary\obj\Debug\netcoreapp2.1\lambda and dictionary.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\lambda expressions\lambda and dictionary\obj\Debug\netcoreapp2.1\lambda and dictionary.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\lambda expressions\lambda and dictionary\obj\Debug\netcoreapp2.1\lambda and dictionary.dll
+D:\C#\Softuni\Lesons\tech\lambda expressions\lambda and dictionary\obj\Debug\netcoreapp2.1\lambda and dictionary.pdb

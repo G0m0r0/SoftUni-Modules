@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\associative arrays- lab\linq\bin\Debug\netcoreapp2.1\linq largest 3 num.deps.json
+D:\C#\Softuni\Homework\tech\associative arrays- lab\linq\bin\Debug\netcoreapp2.1\linq largest 3 num.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\associative arrays- lab\linq\bin\Debug\netcoreapp2.1\linq largest 3 num.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\associative arrays- lab\linq\bin\Debug\netcoreapp2.1\linq largest 3 num.dll
+D:\C#\Softuni\Homework\tech\associative arrays- lab\linq\bin\Debug\netcoreapp2.1\linq largest 3 num.pdb
+D:\C#\Softuni\Homework\tech\associative arrays- lab\linq\obj\Debug\netcoreapp2.1\linq largest 3 num.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\associative arrays- lab\linq\obj\Debug\netcoreapp2.1\linq largest 3 num.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\associative arrays- lab\linq\obj\Debug\netcoreapp2.1\linq largest 3 num.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\associative arrays- lab\linq\obj\Debug\netcoreapp2.1\linq largest 3 num.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\associative arrays- lab\linq\obj\Debug\netcoreapp2.1\linq largest 3 num.dll
+D:\C#\Softuni\Homework\tech\associative arrays- lab\linq\obj\Debug\netcoreapp2.1\linq largest 3 num.pdb

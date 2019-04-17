@@ -1,0 +1,10 @@
+D:\C#\Softuni\Homework\tech\list- lab\test\bin\Debug\netcoreapp2.1\test.deps.json
+D:\C#\Softuni\Homework\tech\list- lab\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\list- lab\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\list- lab\test\bin\Debug\netcoreapp2.1\test.dll
+D:\C#\Softuni\Homework\tech\list- lab\test\bin\Debug\netcoreapp2.1\test.pdb
+D:\C#\Softuni\Homework\tech\list- lab\test\obj\Debug\netcoreapp2.1\test.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\list- lab\test\obj\Debug\netcoreapp2.1\test.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\list- lab\test\obj\Debug\netcoreapp2.1\test.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\list- lab\test\obj\Debug\netcoreapp2.1\test.dll
+D:\C#\Softuni\Homework\tech\list- lab\test\obj\Debug\netcoreapp2.1\test.pdb

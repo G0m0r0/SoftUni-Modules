@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methods", "methods\methods.csproj", "{E0D07962-4053-409C-80C4-9145E992D747}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pyramid", "pyramid\pyramid.csproj", "{7A7F65FD-A411-43D5-954C-A98022C93F6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref and type memory", "ref and type memory\ref and type memory.csproj", "{0F999E28-9946-4FFA-B12E-9A0A84BA8030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "main with parametheres", "main with parametheres\main with parametheres.csproj", "{0D1D6412-EDD8-4016-AB3A-CF2BFB1C0079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursion", "recursion\recursion.csproj", "{CE8C6D9D-F6EC-4A50-A8C6-10066150A120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infinite recursion full stack", "infinite recursion full stack\infinite recursion full stack.csproj", "{F5261A8D-4A8E-442E-A2DE-1CD491EF3E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0D07962-4053-409C-80C4-9145E992D747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D07962-4053-409C-80C4-9145E992D747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D07962-4053-409C-80C4-9145E992D747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D07962-4053-409C-80C4-9145E992D747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A7F65FD-A411-43D5-954C-A98022C93F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7F65FD-A411-43D5-954C-A98022C93F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7F65FD-A411-43D5-954C-A98022C93F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7F65FD-A411-43D5-954C-A98022C93F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F999E28-9946-4FFA-B12E-9A0A84BA8030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F999E28-9946-4FFA-B12E-9A0A84BA8030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F999E28-9946-4FFA-B12E-9A0A84BA8030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F999E28-9946-4FFA-B12E-9A0A84BA8030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D1D6412-EDD8-4016-AB3A-CF2BFB1C0079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1D6412-EDD8-4016-AB3A-CF2BFB1C0079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1D6412-EDD8-4016-AB3A-CF2BFB1C0079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1D6412-EDD8-4016-AB3A-CF2BFB1C0079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE8C6D9D-F6EC-4A50-A8C6-10066150A120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8C6D9D-F6EC-4A50-A8C6-10066150A120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8C6D9D-F6EC-4A50-A8C6-10066150A120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8C6D9D-F6EC-4A50-A8C6-10066150A120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5261A8D-4A8E-442E-A2DE-1CD491EF3E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5261A8D-4A8E-442E-A2DE-1CD491EF3E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5261A8D-4A8E-442E-A2DE-1CD491EF3E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5261A8D-4A8E-442E-A2DE-1CD491EF3E26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68454E4E-ABA2-4327-A4B2-205D88F6AF84}
+	EndGlobalSection
+EndGlobal

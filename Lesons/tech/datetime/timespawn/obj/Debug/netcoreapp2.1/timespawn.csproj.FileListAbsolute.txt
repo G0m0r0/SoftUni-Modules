@@ -1,0 +1,10 @@
+D:\C#\Softuni\Lesons\tech\datetime\timespawn\bin\Debug\netcoreapp2.1\timespawn.deps.json
+D:\C#\Softuni\Lesons\tech\datetime\timespawn\bin\Debug\netcoreapp2.1\timespawn.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\datetime\timespawn\bin\Debug\netcoreapp2.1\timespawn.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\datetime\timespawn\bin\Debug\netcoreapp2.1\timespawn.dll
+D:\C#\Softuni\Lesons\tech\datetime\timespawn\bin\Debug\netcoreapp2.1\timespawn.pdb
+D:\C#\Softuni\Lesons\tech\datetime\timespawn\obj\Debug\netcoreapp2.1\timespawn.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\datetime\timespawn\obj\Debug\netcoreapp2.1\timespawn.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\datetime\timespawn\obj\Debug\netcoreapp2.1\timespawn.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\datetime\timespawn\obj\Debug\netcoreapp2.1\timespawn.dll
+D:\C#\Softuni\Lesons\tech\datetime\timespawn\obj\Debug\netcoreapp2.1\timespawn.pdb

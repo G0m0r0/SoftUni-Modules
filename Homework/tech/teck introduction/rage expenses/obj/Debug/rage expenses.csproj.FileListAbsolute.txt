@@ -1,0 +1,7 @@
+D:\C#\Softuni\Lesons\tech\teck introduction\rage expenses\bin\Debug\rage expenses.exe.config
+D:\C#\Softuni\Lesons\tech\teck introduction\rage expenses\bin\Debug\rage expenses.exe
+D:\C#\Softuni\Lesons\tech\teck introduction\rage expenses\bin\Debug\rage expenses.pdb
+D:\C#\Softuni\Lesons\tech\teck introduction\rage expenses\obj\Debug\rage expenses.csprojAssemblyReference.cache
+D:\C#\Softuni\Lesons\tech\teck introduction\rage expenses\obj\Debug\rage expenses.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\teck introduction\rage expenses\obj\Debug\rage expenses.exe
+D:\C#\Softuni\Lesons\tech\teck introduction\rage expenses\obj\Debug\rage expenses.pdb

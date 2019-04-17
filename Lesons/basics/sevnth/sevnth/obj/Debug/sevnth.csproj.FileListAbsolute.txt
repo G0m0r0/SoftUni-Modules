@@ -1,0 +1,7 @@
+D:\C#\sevnth\sevnth\bin\Debug\sevnth.exe.config
+D:\C#\sevnth\sevnth\bin\Debug\sevnth.exe
+D:\C#\sevnth\sevnth\bin\Debug\sevnth.pdb
+D:\C#\sevnth\sevnth\obj\Debug\sevnth.csprojAssemblyReference.cache
+D:\C#\sevnth\sevnth\obj\Debug\sevnth.csproj.CoreCompileInputs.cache
+D:\C#\sevnth\sevnth\obj\Debug\sevnth.exe
+D:\C#\sevnth\sevnth\obj\Debug\sevnth.pdb

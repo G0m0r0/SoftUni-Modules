@@ -1,0 +1,11 @@
+D:\C#\Softuni\Lesons\tech\methods\methods\bin\Debug\netcoreapp2.1\methods.deps.json
+D:\C#\Softuni\Lesons\tech\methods\methods\bin\Debug\netcoreapp2.1\methods.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\methods\methods\bin\Debug\netcoreapp2.1\methods.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\methods\methods\bin\Debug\netcoreapp2.1\methods.dll
+D:\C#\Softuni\Lesons\tech\methods\methods\bin\Debug\netcoreapp2.1\methods.pdb
+D:\C#\Softuni\Lesons\tech\methods\methods\obj\Debug\netcoreapp2.1\methods.csprojAssemblyReference.cache
+D:\C#\Softuni\Lesons\tech\methods\methods\obj\Debug\netcoreapp2.1\methods.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\methods\methods\obj\Debug\netcoreapp2.1\methods.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\methods\methods\obj\Debug\netcoreapp2.1\methods.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\methods\methods\obj\Debug\netcoreapp2.1\methods.dll
+D:\C#\Softuni\Lesons\tech\methods\methods\obj\Debug\netcoreapp2.1\methods.pdb

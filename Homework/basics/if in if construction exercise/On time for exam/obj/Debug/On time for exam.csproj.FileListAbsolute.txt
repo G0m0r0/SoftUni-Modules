@@ -1,0 +1,7 @@
+D:\C#\Softuni\Homework\if in if construction exercise\On time for exam\bin\Debug\On time for exam.exe.config
+D:\C#\Softuni\Homework\if in if construction exercise\On time for exam\bin\Debug\On time for exam.exe
+D:\C#\Softuni\Homework\if in if construction exercise\On time for exam\bin\Debug\On time for exam.pdb
+D:\C#\Softuni\Homework\if in if construction exercise\On time for exam\obj\Debug\On time for exam.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\if in if construction exercise\On time for exam\obj\Debug\On time for exam.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\if in if construction exercise\On time for exam\obj\Debug\On time for exam.exe
+D:\C#\Softuni\Homework\if in if construction exercise\On time for exam\obj\Debug\On time for exam.pdb

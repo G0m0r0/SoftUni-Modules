@@ -1,0 +1,10 @@
+D:\C#\Softuni\Lesons\tech\lists\linq input array\bin\Debug\netcoreapp2.1\linq input array.deps.json
+D:\C#\Softuni\Lesons\tech\lists\linq input array\bin\Debug\netcoreapp2.1\linq input array.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\lists\linq input array\bin\Debug\netcoreapp2.1\linq input array.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\lists\linq input array\bin\Debug\netcoreapp2.1\linq input array.dll
+D:\C#\Softuni\Lesons\tech\lists\linq input array\bin\Debug\netcoreapp2.1\linq input array.pdb
+D:\C#\Softuni\Lesons\tech\lists\linq input array\obj\Debug\netcoreapp2.1\linq input array.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\lists\linq input array\obj\Debug\netcoreapp2.1\linq input array.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\lists\linq input array\obj\Debug\netcoreapp2.1\linq input array.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\lists\linq input array\obj\Debug\netcoreapp2.1\linq input array.dll
+D:\C#\Softuni\Lesons\tech\lists\linq input array\obj\Debug\netcoreapp2.1\linq input array.pdb

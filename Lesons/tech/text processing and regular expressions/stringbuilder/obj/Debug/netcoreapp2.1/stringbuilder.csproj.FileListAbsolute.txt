@@ -1,0 +1,10 @@
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\stringbuilder\bin\Debug\netcoreapp2.1\stringbuilder.deps.json
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\stringbuilder\bin\Debug\netcoreapp2.1\stringbuilder.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\stringbuilder\bin\Debug\netcoreapp2.1\stringbuilder.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\stringbuilder\bin\Debug\netcoreapp2.1\stringbuilder.dll
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\stringbuilder\bin\Debug\netcoreapp2.1\stringbuilder.pdb
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\stringbuilder\obj\Debug\netcoreapp2.1\stringbuilder.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\stringbuilder\obj\Debug\netcoreapp2.1\stringbuilder.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\stringbuilder\obj\Debug\netcoreapp2.1\stringbuilder.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\stringbuilder\obj\Debug\netcoreapp2.1\stringbuilder.dll
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\stringbuilder\obj\Debug\netcoreapp2.1\stringbuilder.pdb

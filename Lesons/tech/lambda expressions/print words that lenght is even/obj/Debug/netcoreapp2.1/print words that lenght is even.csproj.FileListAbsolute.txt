@@ -1,0 +1,10 @@
+D:\C#\Softuni\Lesons\tech\lambda expressions\print words that lenght is even\bin\Debug\netcoreapp2.1\print words that lenght is even.deps.json
+D:\C#\Softuni\Lesons\tech\lambda expressions\print words that lenght is even\bin\Debug\netcoreapp2.1\print words that lenght is even.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\lambda expressions\print words that lenght is even\bin\Debug\netcoreapp2.1\print words that lenght is even.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\lambda expressions\print words that lenght is even\bin\Debug\netcoreapp2.1\print words that lenght is even.dll
+D:\C#\Softuni\Lesons\tech\lambda expressions\print words that lenght is even\bin\Debug\netcoreapp2.1\print words that lenght is even.pdb
+D:\C#\Softuni\Lesons\tech\lambda expressions\print words that lenght is even\obj\Debug\netcoreapp2.1\print words that lenght is even.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\lambda expressions\print words that lenght is even\obj\Debug\netcoreapp2.1\print words that lenght is even.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\lambda expressions\print words that lenght is even\obj\Debug\netcoreapp2.1\print words that lenght is even.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\lambda expressions\print words that lenght is even\obj\Debug\netcoreapp2.1\print words that lenght is even.dll
+D:\C#\Softuni\Lesons\tech\lambda expressions\print words that lenght is even\obj\Debug\netcoreapp2.1\print words that lenght is even.pdb

@@ -1,0 +1,10 @@
+D:\C#\Softuni\Homework\tech\lab data types and variable\reversed char\bin\Debug\netcoreapp2.1\reversed char.deps.json
+D:\C#\Softuni\Homework\tech\lab data types and variable\reversed char\bin\Debug\netcoreapp2.1\reversed char.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\lab data types and variable\reversed char\bin\Debug\netcoreapp2.1\reversed char.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\lab data types and variable\reversed char\bin\Debug\netcoreapp2.1\reversed char.dll
+D:\C#\Softuni\Homework\tech\lab data types and variable\reversed char\bin\Debug\netcoreapp2.1\reversed char.pdb
+D:\C#\Softuni\Homework\tech\lab data types and variable\reversed char\obj\Debug\netcoreapp2.1\reversed char.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\lab data types and variable\reversed char\obj\Debug\netcoreapp2.1\reversed char.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\lab data types and variable\reversed char\obj\Debug\netcoreapp2.1\reversed char.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\lab data types and variable\reversed char\obj\Debug\netcoreapp2.1\reversed char.dll
+D:\C#\Softuni\Homework\tech\lab data types and variable\reversed char\obj\Debug\netcoreapp2.1\reversed char.pdb

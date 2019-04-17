@@ -1,0 +1,10 @@
+D:\C#\Softuni\Lesons\tech\methods\recursion\bin\Debug\netcoreapp2.1\recursion.deps.json
+D:\C#\Softuni\Lesons\tech\methods\recursion\bin\Debug\netcoreapp2.1\recursion.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\methods\recursion\bin\Debug\netcoreapp2.1\recursion.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\methods\recursion\bin\Debug\netcoreapp2.1\recursion.dll
+D:\C#\Softuni\Lesons\tech\methods\recursion\bin\Debug\netcoreapp2.1\recursion.pdb
+D:\C#\Softuni\Lesons\tech\methods\recursion\obj\Debug\netcoreapp2.1\recursion.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\methods\recursion\obj\Debug\netcoreapp2.1\recursion.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\methods\recursion\obj\Debug\netcoreapp2.1\recursion.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\methods\recursion\obj\Debug\netcoreapp2.1\recursion.dll
+D:\C#\Softuni\Lesons\tech\methods\recursion\obj\Debug\netcoreapp2.1\recursion.pdb

@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\object and classes- exercise\vehicle catalogue\bin\Debug\netcoreapp2.1\vehicle catalogue.deps.json
+D:\C#\Softuni\Homework\tech\object and classes- exercise\vehicle catalogue\bin\Debug\netcoreapp2.1\vehicle catalogue.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\object and classes- exercise\vehicle catalogue\bin\Debug\netcoreapp2.1\vehicle catalogue.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\object and classes- exercise\vehicle catalogue\bin\Debug\netcoreapp2.1\vehicle catalogue.dll
+D:\C#\Softuni\Homework\tech\object and classes- exercise\vehicle catalogue\bin\Debug\netcoreapp2.1\vehicle catalogue.pdb
+D:\C#\Softuni\Homework\tech\object and classes- exercise\vehicle catalogue\obj\Debug\netcoreapp2.1\vehicle catalogue.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\object and classes- exercise\vehicle catalogue\obj\Debug\netcoreapp2.1\vehicle catalogue.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\object and classes- exercise\vehicle catalogue\obj\Debug\netcoreapp2.1\vehicle catalogue.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\object and classes- exercise\vehicle catalogue\obj\Debug\netcoreapp2.1\vehicle catalogue.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\object and classes- exercise\vehicle catalogue\obj\Debug\netcoreapp2.1\vehicle catalogue.dll
+D:\C#\Softuni\Homework\tech\object and classes- exercise\vehicle catalogue\obj\Debug\netcoreapp2.1\vehicle catalogue.pdb

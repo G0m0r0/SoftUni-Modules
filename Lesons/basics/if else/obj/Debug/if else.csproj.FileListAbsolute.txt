@@ -1,0 +1,6 @@
+D:\C#\Softuni\if else\bin\Debug\if else.exe.config
+D:\C#\Softuni\if else\bin\Debug\if else.exe
+D:\C#\Softuni\if else\bin\Debug\if else.pdb
+D:\C#\Softuni\if else\obj\Debug\if else.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\if else\obj\Debug\if else.exe
+D:\C#\Softuni\if else\obj\Debug\if else.pdb

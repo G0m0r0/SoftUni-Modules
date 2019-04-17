@@ -1,0 +1,10 @@
+C:\Users\dimit\source\repos\intro more exercise\gaming store\obj\Debug\netcoreapp2.1\gaming store.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\intro more exercise\gaming store\obj\Debug\netcoreapp2.1\gaming store.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\intro more exercise\gaming store\obj\Debug\netcoreapp2.1\gaming store.AssemblyInfo.cs
+C:\Users\dimit\source\repos\intro more exercise\gaming store\bin\Debug\netcoreapp2.1\gaming store.deps.json
+C:\Users\dimit\source\repos\intro more exercise\gaming store\bin\Debug\netcoreapp2.1\gaming store.runtimeconfig.json
+C:\Users\dimit\source\repos\intro more exercise\gaming store\bin\Debug\netcoreapp2.1\gaming store.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\intro more exercise\gaming store\bin\Debug\netcoreapp2.1\gaming store.dll
+C:\Users\dimit\source\repos\intro more exercise\gaming store\bin\Debug\netcoreapp2.1\gaming store.pdb
+C:\Users\dimit\source\repos\intro more exercise\gaming store\obj\Debug\netcoreapp2.1\gaming store.dll
+C:\Users\dimit\source\repos\intro more exercise\gaming store\obj\Debug\netcoreapp2.1\gaming store.pdb

@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\method- exercise\add and substract\bin\Debug\netcoreapp2.1\add and substract.deps.json
+D:\C#\Softuni\Homework\tech\method- exercise\add and substract\bin\Debug\netcoreapp2.1\add and substract.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\method- exercise\add and substract\bin\Debug\netcoreapp2.1\add and substract.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\method- exercise\add and substract\bin\Debug\netcoreapp2.1\add and substract.dll
+D:\C#\Softuni\Homework\tech\method- exercise\add and substract\bin\Debug\netcoreapp2.1\add and substract.pdb
+D:\C#\Softuni\Homework\tech\method- exercise\add and substract\obj\Debug\netcoreapp2.1\add and substract.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\method- exercise\add and substract\obj\Debug\netcoreapp2.1\add and substract.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\method- exercise\add and substract\obj\Debug\netcoreapp2.1\add and substract.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\method- exercise\add and substract\obj\Debug\netcoreapp2.1\add and substract.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\method- exercise\add and substract\obj\Debug\netcoreapp2.1\add and substract.dll
+D:\C#\Softuni\Homework\tech\method- exercise\add and substract\obj\Debug\netcoreapp2.1\add and substract.pdb

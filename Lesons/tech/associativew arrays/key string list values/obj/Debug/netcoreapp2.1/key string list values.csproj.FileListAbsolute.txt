@@ -1,0 +1,11 @@
+D:\C#\Softuni\exams\associativew arrays\key string list values\bin\Debug\netcoreapp2.1\key string list values.deps.json
+D:\C#\Softuni\exams\associativew arrays\key string list values\bin\Debug\netcoreapp2.1\key string list values.runtimeconfig.json
+D:\C#\Softuni\exams\associativew arrays\key string list values\bin\Debug\netcoreapp2.1\key string list values.runtimeconfig.dev.json
+D:\C#\Softuni\exams\associativew arrays\key string list values\bin\Debug\netcoreapp2.1\key string list values.dll
+D:\C#\Softuni\exams\associativew arrays\key string list values\bin\Debug\netcoreapp2.1\key string list values.pdb
+D:\C#\Softuni\exams\associativew arrays\key string list values\obj\Debug\netcoreapp2.1\key string list values.csprojAssemblyReference.cache
+D:\C#\Softuni\exams\associativew arrays\key string list values\obj\Debug\netcoreapp2.1\key string list values.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\exams\associativew arrays\key string list values\obj\Debug\netcoreapp2.1\key string list values.AssemblyInfoInputs.cache
+D:\C#\Softuni\exams\associativew arrays\key string list values\obj\Debug\netcoreapp2.1\key string list values.AssemblyInfo.cs
+D:\C#\Softuni\exams\associativew arrays\key string list values\obj\Debug\netcoreapp2.1\key string list values.dll
+D:\C#\Softuni\exams\associativew arrays\key string list values\obj\Debug\netcoreapp2.1\key string list values.pdb

@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\list- exercise\pokemon dont go\bin\Debug\netcoreapp2.1\pokemon dont go.deps.json
+D:\C#\Softuni\Homework\tech\list- exercise\pokemon dont go\bin\Debug\netcoreapp2.1\pokemon dont go.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\list- exercise\pokemon dont go\bin\Debug\netcoreapp2.1\pokemon dont go.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\list- exercise\pokemon dont go\bin\Debug\netcoreapp2.1\pokemon dont go.dll
+D:\C#\Softuni\Homework\tech\list- exercise\pokemon dont go\bin\Debug\netcoreapp2.1\pokemon dont go.pdb
+D:\C#\Softuni\Homework\tech\list- exercise\pokemon dont go\obj\Debug\netcoreapp2.1\pokemon dont go.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\list- exercise\pokemon dont go\obj\Debug\netcoreapp2.1\pokemon dont go.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\list- exercise\pokemon dont go\obj\Debug\netcoreapp2.1\pokemon dont go.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\list- exercise\pokemon dont go\obj\Debug\netcoreapp2.1\pokemon dont go.dll
+D:\C#\Softuni\Homework\tech\list- exercise\pokemon dont go\obj\Debug\netcoreapp2.1\pokemon dont go.pdb
+D:\C#\Softuni\Homework\tech\list- exercise\pokemon dont go\obj\Debug\netcoreapp2.1\pokemon dont go.csprojAssemblyReference.cache

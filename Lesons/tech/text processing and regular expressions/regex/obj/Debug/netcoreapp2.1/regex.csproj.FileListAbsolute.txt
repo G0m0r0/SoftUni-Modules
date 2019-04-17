@@ -1,0 +1,10 @@
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\regex\bin\Debug\netcoreapp2.1\regex.deps.json
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\regex\bin\Debug\netcoreapp2.1\regex.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\regex\bin\Debug\netcoreapp2.1\regex.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\regex\bin\Debug\netcoreapp2.1\regex.dll
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\regex\bin\Debug\netcoreapp2.1\regex.pdb
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\regex\obj\Debug\netcoreapp2.1\regex.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\regex\obj\Debug\netcoreapp2.1\regex.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\regex\obj\Debug\netcoreapp2.1\regex.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\regex\obj\Debug\netcoreapp2.1\regex.dll
+D:\C#\Softuni\Lesons\tech\text processing and regular expressions\regex\obj\Debug\netcoreapp2.1\regex.pdb

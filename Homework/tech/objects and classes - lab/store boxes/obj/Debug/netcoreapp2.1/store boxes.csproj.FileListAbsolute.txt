@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\objects and classes - lab\store boxes\bin\Debug\netcoreapp2.1\store boxes.deps.json
+C:\Users\dimit\Desktop\objects and classes - lab\store boxes\bin\Debug\netcoreapp2.1\store boxes.runtimeconfig.json
+C:\Users\dimit\Desktop\objects and classes - lab\store boxes\bin\Debug\netcoreapp2.1\store boxes.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\objects and classes - lab\store boxes\bin\Debug\netcoreapp2.1\store boxes.dll
+C:\Users\dimit\Desktop\objects and classes - lab\store boxes\bin\Debug\netcoreapp2.1\store boxes.pdb
+C:\Users\dimit\Desktop\objects and classes - lab\store boxes\obj\Debug\netcoreapp2.1\store boxes.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\objects and classes - lab\store boxes\obj\Debug\netcoreapp2.1\store boxes.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\objects and classes - lab\store boxes\obj\Debug\netcoreapp2.1\store boxes.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\objects and classes - lab\store boxes\obj\Debug\netcoreapp2.1\store boxes.AssemblyInfo.cs
+C:\Users\dimit\Desktop\objects and classes - lab\store boxes\obj\Debug\netcoreapp2.1\store boxes.dll
+C:\Users\dimit\Desktop\objects and classes - lab\store boxes\obj\Debug\netcoreapp2.1\store boxes.pdb

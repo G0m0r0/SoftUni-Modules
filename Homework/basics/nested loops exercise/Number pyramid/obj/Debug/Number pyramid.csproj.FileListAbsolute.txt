@@ -1,0 +1,7 @@
+D:\C#\Softuni\Homework\nested loops exercise\Number pyramid\bin\Debug\Number pyramid.exe.config
+D:\C#\Softuni\Homework\nested loops exercise\Number pyramid\bin\Debug\Number pyramid.exe
+D:\C#\Softuni\Homework\nested loops exercise\Number pyramid\bin\Debug\Number pyramid.pdb
+D:\C#\Softuni\Homework\nested loops exercise\Number pyramid\obj\Debug\Number pyramid.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\nested loops exercise\Number pyramid\obj\Debug\Number pyramid.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\nested loops exercise\Number pyramid\obj\Debug\Number pyramid.exe
+D:\C#\Softuni\Homework\nested loops exercise\Number pyramid\obj\Debug\Number pyramid.pdb

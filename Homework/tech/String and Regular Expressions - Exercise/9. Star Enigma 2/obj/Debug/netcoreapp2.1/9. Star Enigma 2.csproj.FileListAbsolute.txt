@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\9. Star Enigma 2\bin\Debug\netcoreapp2.1\9. Star Enigma 2.deps.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\9. Star Enigma 2\bin\Debug\netcoreapp2.1\9. Star Enigma 2.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\9. Star Enigma 2\bin\Debug\netcoreapp2.1\9. Star Enigma 2.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\9. Star Enigma 2\bin\Debug\netcoreapp2.1\9. Star Enigma 2.dll
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\9. Star Enigma 2\bin\Debug\netcoreapp2.1\9. Star Enigma 2.pdb
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\9. Star Enigma 2\obj\Debug\netcoreapp2.1\9. Star Enigma 2.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\9. Star Enigma 2\obj\Debug\netcoreapp2.1\9. Star Enigma 2.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\9. Star Enigma 2\obj\Debug\netcoreapp2.1\9. Star Enigma 2.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\9. Star Enigma 2\obj\Debug\netcoreapp2.1\9. Star Enigma 2.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\9. Star Enigma 2\obj\Debug\netcoreapp2.1\9. Star Enigma 2.dll
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\9. Star Enigma 2\obj\Debug\netcoreapp2.1\9. Star Enigma 2.pdb

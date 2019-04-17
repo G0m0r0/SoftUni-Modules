@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\associative arrays- exercise\legendary farming\bin\Debug\netcoreapp2.1\legendary farming.deps.json
+D:\C#\Softuni\Homework\tech\associative arrays- exercise\legendary farming\bin\Debug\netcoreapp2.1\legendary farming.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\associative arrays- exercise\legendary farming\bin\Debug\netcoreapp2.1\legendary farming.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\associative arrays- exercise\legendary farming\bin\Debug\netcoreapp2.1\legendary farming.dll
+D:\C#\Softuni\Homework\tech\associative arrays- exercise\legendary farming\bin\Debug\netcoreapp2.1\legendary farming.pdb
+D:\C#\Softuni\Homework\tech\associative arrays- exercise\legendary farming\obj\Debug\netcoreapp2.1\legendary farming.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\associative arrays- exercise\legendary farming\obj\Debug\netcoreapp2.1\legendary farming.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\associative arrays- exercise\legendary farming\obj\Debug\netcoreapp2.1\legendary farming.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\associative arrays- exercise\legendary farming\obj\Debug\netcoreapp2.1\legendary farming.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\associative arrays- exercise\legendary farming\obj\Debug\netcoreapp2.1\legendary farming.dll
+D:\C#\Softuni\Homework\tech\associative arrays- exercise\legendary farming\obj\Debug\netcoreapp2.1\legendary farming.pdb

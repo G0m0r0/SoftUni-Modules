@@ -1,0 +1,7 @@
+C:\Users\dimit\source\repos\Practise exam\Practise exam\bin\Debug\Practise exam.exe.config
+C:\Users\dimit\source\repos\Practise exam\Practise exam\bin\Debug\Practise exam.exe
+C:\Users\dimit\source\repos\Practise exam\Practise exam\bin\Debug\Practise exam.pdb
+C:\Users\dimit\source\repos\Practise exam\Practise exam\obj\Debug\Practise exam.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\Practise exam\Practise exam\obj\Debug\Practise exam.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Practise exam\Practise exam\obj\Debug\Practise exam.exe
+C:\Users\dimit\source\repos\Practise exam\Practise exam\obj\Debug\Practise exam.pdb

@@ -1,0 +1,10 @@
+D:\C#\Softuni\Homework\tech\associative arrays- lab\word synonyms\bin\Debug\netcoreapp2.1\word synonyms.deps.json
+D:\C#\Softuni\Homework\tech\associative arrays- lab\word synonyms\bin\Debug\netcoreapp2.1\word synonyms.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\associative arrays- lab\word synonyms\bin\Debug\netcoreapp2.1\word synonyms.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\associative arrays- lab\word synonyms\bin\Debug\netcoreapp2.1\word synonyms.dll
+D:\C#\Softuni\Homework\tech\associative arrays- lab\word synonyms\bin\Debug\netcoreapp2.1\word synonyms.pdb
+D:\C#\Softuni\Homework\tech\associative arrays- lab\word synonyms\obj\Debug\netcoreapp2.1\word synonyms.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\associative arrays- lab\word synonyms\obj\Debug\netcoreapp2.1\word synonyms.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\associative arrays- lab\word synonyms\obj\Debug\netcoreapp2.1\word synonyms.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\associative arrays- lab\word synonyms\obj\Debug\netcoreapp2.1\word synonyms.dll
+D:\C#\Softuni\Homework\tech\associative arrays- lab\word synonyms\obj\Debug\netcoreapp2.1\word synonyms.pdb

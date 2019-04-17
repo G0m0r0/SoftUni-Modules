@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\Arrays - Exercise\top integers\bin\Debug\netcoreapp2.1\top integers.deps.json
+C:\Users\dimit\Desktop\Arrays - Exercise\top integers\bin\Debug\netcoreapp2.1\top integers.runtimeconfig.json
+C:\Users\dimit\Desktop\Arrays - Exercise\top integers\bin\Debug\netcoreapp2.1\top integers.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\Arrays - Exercise\top integers\bin\Debug\netcoreapp2.1\top integers.dll
+C:\Users\dimit\Desktop\Arrays - Exercise\top integers\bin\Debug\netcoreapp2.1\top integers.pdb
+C:\Users\dimit\Desktop\Arrays - Exercise\top integers\obj\Debug\netcoreapp2.1\top integers.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\Arrays - Exercise\top integers\obj\Debug\netcoreapp2.1\top integers.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\Arrays - Exercise\top integers\obj\Debug\netcoreapp2.1\top integers.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\Arrays - Exercise\top integers\obj\Debug\netcoreapp2.1\top integers.AssemblyInfo.cs
+C:\Users\dimit\Desktop\Arrays - Exercise\top integers\obj\Debug\netcoreapp2.1\top integers.dll
+C:\Users\dimit\Desktop\Arrays - Exercise\top integers\obj\Debug\netcoreapp2.1\top integers.pdb

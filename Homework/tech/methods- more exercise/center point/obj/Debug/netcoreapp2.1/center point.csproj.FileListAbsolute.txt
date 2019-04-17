@@ -1,0 +1,11 @@
+C:\Users\dimit\source\repos\methods- more exercise\center point\bin\Debug\netcoreapp2.1\center point.deps.json
+C:\Users\dimit\source\repos\methods- more exercise\center point\bin\Debug\netcoreapp2.1\center point.runtimeconfig.json
+C:\Users\dimit\source\repos\methods- more exercise\center point\bin\Debug\netcoreapp2.1\center point.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\methods- more exercise\center point\bin\Debug\netcoreapp2.1\center point.dll
+C:\Users\dimit\source\repos\methods- more exercise\center point\bin\Debug\netcoreapp2.1\center point.pdb
+C:\Users\dimit\source\repos\methods- more exercise\center point\obj\Debug\netcoreapp2.1\center point.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\methods- more exercise\center point\obj\Debug\netcoreapp2.1\center point.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\methods- more exercise\center point\obj\Debug\netcoreapp2.1\center point.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\methods- more exercise\center point\obj\Debug\netcoreapp2.1\center point.AssemblyInfo.cs
+C:\Users\dimit\source\repos\methods- more exercise\center point\obj\Debug\netcoreapp2.1\center point.dll
+C:\Users\dimit\source\repos\methods- more exercise\center point\obj\Debug\netcoreapp2.1\center point.pdb

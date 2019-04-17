@@ -1,0 +1,10 @@
+D:\C#\Softuni\Lesons\tech\lists\input list\bin\Debug\netcoreapp2.1\input list.deps.json
+D:\C#\Softuni\Lesons\tech\lists\input list\bin\Debug\netcoreapp2.1\input list.runtimeconfig.json
+D:\C#\Softuni\Lesons\tech\lists\input list\bin\Debug\netcoreapp2.1\input list.runtimeconfig.dev.json
+D:\C#\Softuni\Lesons\tech\lists\input list\bin\Debug\netcoreapp2.1\input list.dll
+D:\C#\Softuni\Lesons\tech\lists\input list\bin\Debug\netcoreapp2.1\input list.pdb
+D:\C#\Softuni\Lesons\tech\lists\input list\obj\Debug\netcoreapp2.1\input list.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Lesons\tech\lists\input list\obj\Debug\netcoreapp2.1\input list.AssemblyInfoInputs.cache
+D:\C#\Softuni\Lesons\tech\lists\input list\obj\Debug\netcoreapp2.1\input list.AssemblyInfo.cs
+D:\C#\Softuni\Lesons\tech\lists\input list\obj\Debug\netcoreapp2.1\input list.dll
+D:\C#\Softuni\Lesons\tech\lists\input list\obj\Debug\netcoreapp2.1\input list.pdb

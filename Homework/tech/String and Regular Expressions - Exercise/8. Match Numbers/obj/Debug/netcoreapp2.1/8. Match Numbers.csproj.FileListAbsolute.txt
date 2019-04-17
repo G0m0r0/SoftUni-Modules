@@ -1,0 +1,10 @@
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\8. Match Numbers\bin\Debug\netcoreapp2.1\8. Match Numbers.deps.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\8. Match Numbers\bin\Debug\netcoreapp2.1\8. Match Numbers.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\8. Match Numbers\bin\Debug\netcoreapp2.1\8. Match Numbers.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\8. Match Numbers\bin\Debug\netcoreapp2.1\8. Match Numbers.dll
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\8. Match Numbers\bin\Debug\netcoreapp2.1\8. Match Numbers.pdb
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\8. Match Numbers\obj\Debug\netcoreapp2.1\8. Match Numbers.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\8. Match Numbers\obj\Debug\netcoreapp2.1\8. Match Numbers.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\8. Match Numbers\obj\Debug\netcoreapp2.1\8. Match Numbers.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\8. Match Numbers\obj\Debug\netcoreapp2.1\8. Match Numbers.dll
+D:\C#\Softuni\Homework\tech\String and Regular Expressions - Exercise\8. Match Numbers\obj\Debug\netcoreapp2.1\8. Match Numbers.pdb

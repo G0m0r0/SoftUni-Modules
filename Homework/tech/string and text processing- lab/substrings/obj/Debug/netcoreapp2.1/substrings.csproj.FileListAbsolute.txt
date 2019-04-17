@@ -1,0 +1,11 @@
+D:\C#\Softuni\Homework\tech\string and text processing- lab\substrings\bin\Debug\netcoreapp2.1\substrings.deps.json
+D:\C#\Softuni\Homework\tech\string and text processing- lab\substrings\bin\Debug\netcoreapp2.1\substrings.runtimeconfig.json
+D:\C#\Softuni\Homework\tech\string and text processing- lab\substrings\bin\Debug\netcoreapp2.1\substrings.runtimeconfig.dev.json
+D:\C#\Softuni\Homework\tech\string and text processing- lab\substrings\bin\Debug\netcoreapp2.1\substrings.dll
+D:\C#\Softuni\Homework\tech\string and text processing- lab\substrings\bin\Debug\netcoreapp2.1\substrings.pdb
+D:\C#\Softuni\Homework\tech\string and text processing- lab\substrings\obj\Debug\netcoreapp2.1\substrings.csprojAssemblyReference.cache
+D:\C#\Softuni\Homework\tech\string and text processing- lab\substrings\obj\Debug\netcoreapp2.1\substrings.csproj.CoreCompileInputs.cache
+D:\C#\Softuni\Homework\tech\string and text processing- lab\substrings\obj\Debug\netcoreapp2.1\substrings.AssemblyInfoInputs.cache
+D:\C#\Softuni\Homework\tech\string and text processing- lab\substrings\obj\Debug\netcoreapp2.1\substrings.AssemblyInfo.cs
+D:\C#\Softuni\Homework\tech\string and text processing- lab\substrings\obj\Debug\netcoreapp2.1\substrings.dll
+D:\C#\Softuni\Homework\tech\string and text processing- lab\substrings\obj\Debug\netcoreapp2.1\substrings.pdb

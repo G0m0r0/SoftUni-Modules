@@ -1,0 +1,11 @@
+D:\Programming\Softuni\exams\retake final 2018\1.Vapor winter sale\1.Vapor winter sale\bin\Debug\netcoreapp2.1\1.Vapor winter sale.deps.json
+D:\Programming\Softuni\exams\retake final 2018\1.Vapor winter sale\1.Vapor winter sale\bin\Debug\netcoreapp2.1\1.Vapor winter sale.runtimeconfig.json
+D:\Programming\Softuni\exams\retake final 2018\1.Vapor winter sale\1.Vapor winter sale\bin\Debug\netcoreapp2.1\1.Vapor winter sale.runtimeconfig.dev.json
+D:\Programming\Softuni\exams\retake final 2018\1.Vapor winter sale\1.Vapor winter sale\bin\Debug\netcoreapp2.1\1.Vapor winter sale.dll
+D:\Programming\Softuni\exams\retake final 2018\1.Vapor winter sale\1.Vapor winter sale\bin\Debug\netcoreapp2.1\1.Vapor winter sale.pdb
+D:\Programming\Softuni\exams\retake final 2018\1.Vapor winter sale\1.Vapor winter sale\obj\Debug\netcoreapp2.1\1.Vapor winter sale.csprojAssemblyReference.cache
+D:\Programming\Softuni\exams\retake final 2018\1.Vapor winter sale\1.Vapor winter sale\obj\Debug\netcoreapp2.1\1.Vapor winter sale.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\exams\retake final 2018\1.Vapor winter sale\1.Vapor winter sale\obj\Debug\netcoreapp2.1\1.Vapor winter sale.AssemblyInfoInputs.cache
+D:\Programming\Softuni\exams\retake final 2018\1.Vapor winter sale\1.Vapor winter sale\obj\Debug\netcoreapp2.1\1.Vapor winter sale.AssemblyInfo.cs
+D:\Programming\Softuni\exams\retake final 2018\1.Vapor winter sale\1.Vapor winter sale\obj\Debug\netcoreapp2.1\1.Vapor winter sale.dll
+D:\Programming\Softuni\exams\retake final 2018\1.Vapor winter sale\1.Vapor winter sale\obj\Debug\netcoreapp2.1\1.Vapor winter sale.pdb
