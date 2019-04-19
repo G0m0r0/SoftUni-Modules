@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Softuniada\smallest three numbers\smallest three numbers\bin\Debug\netcoreapp2.1\smallest three numbers.deps.json
+D:\Programming\Softuni\Softuniada\smallest three numbers\smallest three numbers\bin\Debug\netcoreapp2.1\smallest three numbers.runtimeconfig.json
+D:\Programming\Softuni\Softuniada\smallest three numbers\smallest three numbers\bin\Debug\netcoreapp2.1\smallest three numbers.runtimeconfig.dev.json
+D:\Programming\Softuni\Softuniada\smallest three numbers\smallest three numbers\bin\Debug\netcoreapp2.1\smallest three numbers.dll
+D:\Programming\Softuni\Softuniada\smallest three numbers\smallest three numbers\bin\Debug\netcoreapp2.1\smallest three numbers.pdb
+D:\Programming\Softuni\Softuniada\smallest three numbers\smallest three numbers\obj\Debug\netcoreapp2.1\smallest three numbers.csprojAssemblyReference.cache
+D:\Programming\Softuni\Softuniada\smallest three numbers\smallest three numbers\obj\Debug\netcoreapp2.1\smallest three numbers.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Softuniada\smallest three numbers\smallest three numbers\obj\Debug\netcoreapp2.1\smallest three numbers.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Softuniada\smallest three numbers\smallest three numbers\obj\Debug\netcoreapp2.1\smallest three numbers.AssemblyInfo.cs
+D:\Programming\Softuni\Softuniada\smallest three numbers\smallest three numbers\obj\Debug\netcoreapp2.1\smallest three numbers.dll
+D:\Programming\Softuni\Softuniada\smallest three numbers\smallest three numbers\obj\Debug\netcoreapp2.1\smallest three numbers.pdb

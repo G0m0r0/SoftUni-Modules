@@ -1,15 +1,20 @@
-ctr+a         mark everything
-shit+del      delite line
-ctr+x         delete and copy line
-shift+arrows  mark
-ctr+c         copy all line
-ctr+h         to replace multiple same text
-Ctrl+k+d      arrange your code
-ctrl+f        to search text in google
-f2            change everywhere the text 
-ctr+r+r       change everywhere the text
-ctr+m+0       hiddes all the methods
-ctr+.         to view the system library
-ctr+k+u       anticomment multiline
-ctr+k+c       comment multiline
-ctr+a         copy everything
+ctrl+a         mark everything
+shit+del       delite line
+ctrl+x         delete and copy line
+shift+arrows   mark
+ctrl+c         copy all line
+ctrl+h         to replace multiple same text
+Ctrl+k+d       arrange your code
+ctrl+f         to search text in google
+f2             change everywhere the text 
+ctrl+r+r       change everywhere the text
+ctrl+m+0       hiddes all the methods
+ctrl+.         to view the system library
+ctrl+k+u       anticomment multiline
+ctrl+k+c       comment multiline
+ctrl+a         copy everything
+
+git bash-
+
+ctrl+o	      save 
+ctrl+x        close
