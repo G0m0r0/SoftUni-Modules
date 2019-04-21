@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Softuniada\Softuniada 2019\4\bin\Debug\netcoreapp2.1\4.deps.json
+D:\Programming\Softuni\Softuniada\Softuniada 2019\4\bin\Debug\netcoreapp2.1\4.runtimeconfig.json
+D:\Programming\Softuni\Softuniada\Softuniada 2019\4\bin\Debug\netcoreapp2.1\4.runtimeconfig.dev.json
+D:\Programming\Softuni\Softuniada\Softuniada 2019\4\bin\Debug\netcoreapp2.1\4.dll
+D:\Programming\Softuni\Softuniada\Softuniada 2019\4\bin\Debug\netcoreapp2.1\4.pdb
+D:\Programming\Softuni\Softuniada\Softuniada 2019\4\obj\Debug\netcoreapp2.1\4.csprojAssemblyReference.cache
+D:\Programming\Softuni\Softuniada\Softuniada 2019\4\obj\Debug\netcoreapp2.1\4.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Softuniada\Softuniada 2019\4\obj\Debug\netcoreapp2.1\4.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Softuniada\Softuniada 2019\4\obj\Debug\netcoreapp2.1\4.AssemblyInfo.cs
+D:\Programming\Softuni\Softuniada\Softuniada 2019\4\obj\Debug\netcoreapp2.1\4.dll
+D:\Programming\Softuni\Softuniada\Softuniada 2019\4\obj\Debug\netcoreapp2.1\4.pdb
