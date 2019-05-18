@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\2.Stack sum\bin\Debug\netcoreapp2.1\2.Stack sum.deps.json
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\2.Stack sum\bin\Debug\netcoreapp2.1\2.Stack sum.runtimeconfig.json
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\2.Stack sum\bin\Debug\netcoreapp2.1\2.Stack sum.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\2.Stack sum\bin\Debug\netcoreapp2.1\2.Stack sum.dll
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\2.Stack sum\bin\Debug\netcoreapp2.1\2.Stack sum.pdb
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\2.Stack sum\obj\Debug\netcoreapp2.1\2.Stack sum.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\2.Stack sum\obj\Debug\netcoreapp2.1\2.Stack sum.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\2.Stack sum\obj\Debug\netcoreapp2.1\2.Stack sum.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\2.Stack sum\obj\Debug\netcoreapp2.1\2.Stack sum.dll
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\2.Stack sum\obj\Debug\netcoreapp2.1\2.Stack sum.pdb

@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\6. Supermarket\bin\Debug\netcoreapp2.1\6. Supermarket.deps.json
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\6. Supermarket\bin\Debug\netcoreapp2.1\6. Supermarket.runtimeconfig.json
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\6. Supermarket\bin\Debug\netcoreapp2.1\6. Supermarket.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\6. Supermarket\bin\Debug\netcoreapp2.1\6. Supermarket.dll
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\6. Supermarket\bin\Debug\netcoreapp2.1\6. Supermarket.pdb
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\6. Supermarket\obj\Debug\netcoreapp2.1\6. Supermarket.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\6. Supermarket\obj\Debug\netcoreapp2.1\6. Supermarket.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\6. Supermarket\obj\Debug\netcoreapp2.1\6. Supermarket.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\6. Supermarket\obj\Debug\netcoreapp2.1\6. Supermarket.dll
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\6. Supermarket\obj\Debug\netcoreapp2.1\6. Supermarket.pdb

@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\Stack and Queue - lab\obj\Debug\netcoreapp2.1\1. Rverse String.csprojAssemblyReference.cache
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\Stack and Queue - lab\obj\Debug\netcoreapp2.1\1. Rverse String.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\Stack and Queue - lab\obj\Debug\netcoreapp2.1\1. Rverse String.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\Stack and Queue - lab\obj\Debug\netcoreapp2.1\1. Rverse String.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\Stack and Queue - lab\bin\Debug\netcoreapp2.1\1. Rverse String.deps.json
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\Stack and Queue - lab\bin\Debug\netcoreapp2.1\1. Rverse String.runtimeconfig.json
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\Stack and Queue - lab\bin\Debug\netcoreapp2.1\1. Rverse String.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\Stack and Queue - lab\bin\Debug\netcoreapp2.1\1. Rverse String.dll
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\Stack and Queue - lab\bin\Debug\netcoreapp2.1\1. Rverse String.pdb
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\Stack and Queue - lab\obj\Debug\netcoreapp2.1\1. Rverse String.dll
+D:\Programming\Softuni\Homework\C# Advance\Stack and Queue - lab\Stack and Queue - lab\obj\Debug\netcoreapp2.1\1. Rverse String.pdb
