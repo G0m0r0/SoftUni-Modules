@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp2.1\1 Basick operations.deps.json
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp2.1\1 Basick operations.runtimeconfig.json
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp2.1\1 Basick operations.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp2.1\1 Basick operations.dll
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp2.1\1 Basick operations.pdb
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp2.1\1 Basick operations.csprojAssemblyReference.cache
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp2.1\1 Basick operations.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp2.1\1 Basick operations.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp2.1\1 Basick operations.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp2.1\1 Basick operations.dll
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp2.1\1 Basick operations.pdb
