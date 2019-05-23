@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 Basick operations", "Stacks and Queues - Exercise\1 Basick operations.csproj", "{56027D57-FD79-475C-BCEC-7E7C55C6C9CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 Basick operations", "Stacks and Queues - Exercise\1 Basick operations.csproj", "{56027D57-FD79-475C-BCEC-7E7C55C6C9CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Basic Queue Operations", "2. Basic Queue Operations\2. Basic Queue Operations.csproj", "{4A31F626-0E8B-4189-9DE9-9F358E9BFB0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Basic Queue Operations", "2. Basic Queue Operations\2. Basic Queue Operations.csproj", "{4A31F626-0E8B-4189-9DE9-9F358E9BFB0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Maximum and Minimum Element", "3. Maximum and Minimum Element\3. Maximum and Minimum Element.csproj", "{FB28F83D-E5D3-48F4-9A4C-839286CECD0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Maximum and Minimum Element", "3. Maximum and Minimum Element\3. Maximum and Minimum Element.csproj", "{FB28F83D-E5D3-48F4-9A4C-839286CECD0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Fast Food", "4. Fast Food\4. Fast Food.csproj", "{01B86264-8250-4B62-8EA9-92264881F3D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Fast Food", "4. Fast Food\4. Fast Food.csproj", "{01B86264-8250-4B62-8EA9-92264881F3D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Fashion Boutique", "5. Fashion Boutique\5. Fashion Boutique.csproj", "{37A4251A-923B-44DE-A4FE-894E036E942E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.  Auto Repair and Service", "6.  Auto Repair and Service\6.  Auto Repair and Service.csproj", "{017DB212-2FCA-4A45-9E90-434071E45CD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Truck Tour", "7. Truck Tour\7. Truck Tour.csproj", "{76F1D1D0-DA5B-4A05-B9C2-0EFE2978CB18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{01B86264-8250-4B62-8EA9-92264881F3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01B86264-8250-4B62-8EA9-92264881F3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01B86264-8250-4B62-8EA9-92264881F3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A4251A-923B-44DE-A4FE-894E036E942E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A4251A-923B-44DE-A4FE-894E036E942E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A4251A-923B-44DE-A4FE-894E036E942E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A4251A-923B-44DE-A4FE-894E036E942E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017DB212-2FCA-4A45-9E90-434071E45CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017DB212-2FCA-4A45-9E90-434071E45CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017DB212-2FCA-4A45-9E90-434071E45CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017DB212-2FCA-4A45-9E90-434071E45CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F1D1D0-DA5B-4A05-B9C2-0EFE2978CB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F1D1D0-DA5B-4A05-B9C2-0EFE2978CB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F1D1D0-DA5B-4A05-B9C2-0EFE2978CB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F1D1D0-DA5B-4A05-B9C2-0EFE2978CB18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
