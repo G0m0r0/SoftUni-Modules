@@ -1,0 +1,11 @@
+E:\Delyan\Programing\Softuni\Lesons\C# Advance\Multidimensional arrays\matrix sum\bin\Debug\netcoreapp2.1\matrix sum.deps.json
+E:\Delyan\Programing\Softuni\Lesons\C# Advance\Multidimensional arrays\matrix sum\bin\Debug\netcoreapp2.1\matrix sum.runtimeconfig.json
+E:\Delyan\Programing\Softuni\Lesons\C# Advance\Multidimensional arrays\matrix sum\bin\Debug\netcoreapp2.1\matrix sum.runtimeconfig.dev.json
+E:\Delyan\Programing\Softuni\Lesons\C# Advance\Multidimensional arrays\matrix sum\bin\Debug\netcoreapp2.1\matrix sum.dll
+E:\Delyan\Programing\Softuni\Lesons\C# Advance\Multidimensional arrays\matrix sum\bin\Debug\netcoreapp2.1\matrix sum.pdb
+E:\Delyan\Programing\Softuni\Lesons\C# Advance\Multidimensional arrays\matrix sum\obj\Debug\netcoreapp2.1\matrix sum.csprojAssemblyReference.cache
+E:\Delyan\Programing\Softuni\Lesons\C# Advance\Multidimensional arrays\matrix sum\obj\Debug\netcoreapp2.1\matrix sum.csproj.CoreCompileInputs.cache
+E:\Delyan\Programing\Softuni\Lesons\C# Advance\Multidimensional arrays\matrix sum\obj\Debug\netcoreapp2.1\matrix sum.AssemblyInfoInputs.cache
+E:\Delyan\Programing\Softuni\Lesons\C# Advance\Multidimensional arrays\matrix sum\obj\Debug\netcoreapp2.1\matrix sum.AssemblyInfo.cs
+E:\Delyan\Programing\Softuni\Lesons\C# Advance\Multidimensional arrays\matrix sum\obj\Debug\netcoreapp2.1\matrix sum.dll
+E:\Delyan\Programing\Softuni\Lesons\C# Advance\Multidimensional arrays\matrix sum\obj\Debug\netcoreapp2.1\matrix sum.pdb
