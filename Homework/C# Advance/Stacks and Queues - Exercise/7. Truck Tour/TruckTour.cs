@@ -6,7 +6,7 @@ namespace _7._Truck_Tour
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }

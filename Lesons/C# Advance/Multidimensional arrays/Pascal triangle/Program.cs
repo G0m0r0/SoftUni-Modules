@@ -27,7 +27,7 @@ namespace Pascal_triangle
                     }
                 }
             }
-
+                
             foreach (var item in jaggedArray)
             {
                 Console.WriteLine(string.Join(" ",item));
