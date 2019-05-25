@@ -1,0 +1,11 @@
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\6. Bomb the Basement\bin\Debug\netcoreapp2.1\6. Bomb the Basement.deps.json
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\6. Bomb the Basement\bin\Debug\netcoreapp2.1\6. Bomb the Basement.runtimeconfig.json
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\6. Bomb the Basement\bin\Debug\netcoreapp2.1\6. Bomb the Basement.runtimeconfig.dev.json
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\6. Bomb the Basement\bin\Debug\netcoreapp2.1\6. Bomb the Basement.dll
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\6. Bomb the Basement\bin\Debug\netcoreapp2.1\6. Bomb the Basement.pdb
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\6. Bomb the Basement\obj\Debug\netcoreapp2.1\6. Bomb the Basement.csprojAssemblyReference.cache
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\6. Bomb the Basement\obj\Debug\netcoreapp2.1\6. Bomb the Basement.csproj.CoreCompileInputs.cache
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\6. Bomb the Basement\obj\Debug\netcoreapp2.1\6. Bomb the Basement.AssemblyInfoInputs.cache
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\6. Bomb the Basement\obj\Debug\netcoreapp2.1\6. Bomb the Basement.AssemblyInfo.cs
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\6. Bomb the Basement\obj\Debug\netcoreapp2.1\6. Bomb the Basement.dll
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\6. Bomb the Basement\obj\Debug\netcoreapp2.1\6. Bomb the Basement.pdb

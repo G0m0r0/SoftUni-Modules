@@ -1,0 +1,11 @@
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.deps.json
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.runtimeconfig.json
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.runtimeconfig.dev.json
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.dll
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.pdb
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.csprojAssemblyReference.cache
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.AssemblyInfoInputs.cache
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.AssemblyInfo.cs
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.dll
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Multidimensional arrays- exercise\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.pdb
