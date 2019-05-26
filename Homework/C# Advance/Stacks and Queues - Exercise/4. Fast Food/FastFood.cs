@@ -10,7 +10,7 @@ namespace _4.Fast_Food
         static void Main(string[] args)
         {
             int quantityFood = int.Parse(Console.ReadLine());
-            int[] quantityOrder = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            int[] quantityOrder = Console.ReadLine().Split(' ',StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
 
             Queue<int> orderQueue = new Queue<int>(quantityOrder);
 

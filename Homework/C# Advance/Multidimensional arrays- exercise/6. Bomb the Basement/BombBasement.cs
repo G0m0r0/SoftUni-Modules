@@ -20,7 +20,33 @@ namespace _6._Bomb_the_Basement
             {
                 for (int j = 0; j < basementMatrix.GetLength(1); j++)
                 {
+                    if((i-x)*(i-x)+(j-y)*(j-y)<=radius*radius)
+                    {
+                        basementMatrix[i, j] = 1;
+                    }
+                }
+            }
 
+            for (int i = 1; i < basementMatrix.GetLength(0); i++)
+            {
+                for (int j = 0; j < basementMatrix.GetLength(1); j++)
+                {
+                    if(basementMatrix[i-1,j]==0&&basementMatrix[i,j]==1)
+                    {
+                        basementMatrix[i - 1, j] = 1;
+                        basementMatrix[i, j] = 0;
+                    }
+                }
+            }
+            for (int i = 1; i < basementMatrix.GetLength(0); i++)
+            {
+                for (int j = 0; j < basementMatrix.GetLength(1); j++)
+                {
+                    if (basementMatrix[i - 1, j] == 0 && basementMatrix[i, j] == 1)
+                    {
+                        basementMatrix[i - 1, j] = 1;
+                        basementMatrix[i, j] = 0;
+                    }
                 }
             }
 
