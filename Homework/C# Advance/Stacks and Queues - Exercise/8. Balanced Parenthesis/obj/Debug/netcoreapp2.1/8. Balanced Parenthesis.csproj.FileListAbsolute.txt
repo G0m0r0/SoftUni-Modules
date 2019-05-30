@@ -1,0 +1,11 @@
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8. Balanced Parenthesis\bin\Debug\netcoreapp2.1\8. Balanced Parenthesis.deps.json
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8. Balanced Parenthesis\bin\Debug\netcoreapp2.1\8. Balanced Parenthesis.runtimeconfig.json
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8. Balanced Parenthesis\bin\Debug\netcoreapp2.1\8. Balanced Parenthesis.runtimeconfig.dev.json
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8. Balanced Parenthesis\bin\Debug\netcoreapp2.1\8. Balanced Parenthesis.dll
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8. Balanced Parenthesis\bin\Debug\netcoreapp2.1\8. Balanced Parenthesis.pdb
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\netcoreapp2.1\8. Balanced Parenthesis.csprojAssemblyReference.cache
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\netcoreapp2.1\8. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\netcoreapp2.1\8. Balanced Parenthesis.AssemblyInfoInputs.cache
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\netcoreapp2.1\8. Balanced Parenthesis.AssemblyInfo.cs
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\netcoreapp2.1\8. Balanced Parenthesis.dll
+E:\Delyan\Programing\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\netcoreapp2.1\8. Balanced Parenthesis.pdb
