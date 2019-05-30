@@ -13,6 +13,8 @@ ctrl+.         to view the system library
 ctrl+k+u       anticomment multiline
 ctrl+k+c       comment multiline
 ctrl+a         copy everything
+ctrl+k+c      comment
+ctrl+k+u      remove comment
 
 git bash-
 

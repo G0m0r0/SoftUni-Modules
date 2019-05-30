@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\C# Advance\Sets and dictionaries advance\bin\Debug\netcoreapp2.2\Store.deps.json
+D:\Programming\Softuni\Lesons\C# Advance\Sets and dictionaries advance\bin\Debug\netcoreapp2.2\Store.runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\Sets and dictionaries advance\bin\Debug\netcoreapp2.2\Store.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\Sets and dictionaries advance\bin\Debug\netcoreapp2.2\Store.dll
+D:\Programming\Softuni\Lesons\C# Advance\Sets and dictionaries advance\bin\Debug\netcoreapp2.2\Store.pdb
+D:\Programming\Softuni\Lesons\C# Advance\Sets and dictionaries advance\obj\Debug\netcoreapp2.2\Store.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\C# Advance\Sets and dictionaries advance\obj\Debug\netcoreapp2.2\Store.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\Sets and dictionaries advance\obj\Debug\netcoreapp2.2\Store.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\Sets and dictionaries advance\obj\Debug\netcoreapp2.2\Store.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\Sets and dictionaries advance\obj\Debug\netcoreapp2.2\Store.dll
+D:\Programming\Softuni\Lesons\C# Advance\Sets and dictionaries advance\obj\Debug\netcoreapp2.2\Store.pdb
