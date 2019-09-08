@@ -692,9 +692,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Softuni\\Lesons\\C# Advance\\Sets and dictionaries advance\\Store.csproj",
-      "projectName": "Store",
-      "projectPath": "D:\\Programming\\Softuni\\Lesons\\C# Advance\\Sets and dictionaries advance\\Store.csproj",
+      "projectUniqueName": "D:\\Programming\\Softuni\\Lesons\\C# Advance\\Sets and dictionaries advance\\2. Store.csproj",
+      "projectName": "2. Store",
+      "projectPath": "D:\\Programming\\Softuni\\Lesons\\C# Advance\\Sets and dictionaries advance\\2. Store.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
       "outputPath": "D:\\Programming\\Softuni\\Lesons\\C# Advance\\Sets and dictionaries advance\\obj\\",
       "projectStyle": "PackageReference",

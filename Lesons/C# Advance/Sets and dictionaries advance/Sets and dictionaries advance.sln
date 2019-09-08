@@ -3,9 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Store", "Store.csproj", "{3E22E54E-C74F-4202-B801-1D7D4C226D95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Store", "2. Store.csproj", "{3E22E54E-C74F-4202-B801-1D7D4C226D95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joint Dictionaries", "..\Joint Dictionaries\Joint Dictionaries.csproj", "{BA42A940-2961-4C65-B64D-474D3B7D71B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Joint Dictionaries", "..\Joint Dictionaries\1. Joint Dictionaries.csproj", "{BA42A940-2961-4C65-B64D-474D3B7D71B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. HashSetExample", "..\HashSetExample\3. HashSetExample.csproj", "{79DE8821-7FED-461B-9C8F-DBC32AFDDB82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. UniqueNames", "..\UniqieNames\4. UniqueNames.csproj", "{B0F87ED2-330D-4B9E-B551-9E1C137D747A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. SortedHashSet", "..\SortedHashSet\5. SortedHashSet.csproj", "{6E00C4B4-5101-48B4-85A7-5F7CDD732EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. ParkingLot", "..\6. ParkingLot\6. ParkingLot.csproj", "{91A80263-9B08-478C-B6D9-21D4FD29A5B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "..\test\test.csproj", "{F717265D-C343-4B93-9DC1-A145FB6E30AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +31,26 @@ Global
 		{BA42A940-2961-4C65-B64D-474D3B7D71B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA42A940-2961-4C65-B64D-474D3B7D71B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA42A940-2961-4C65-B64D-474D3B7D71B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79DE8821-7FED-461B-9C8F-DBC32AFDDB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DE8821-7FED-461B-9C8F-DBC32AFDDB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DE8821-7FED-461B-9C8F-DBC32AFDDB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DE8821-7FED-461B-9C8F-DBC32AFDDB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F87ED2-330D-4B9E-B551-9E1C137D747A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F87ED2-330D-4B9E-B551-9E1C137D747A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F87ED2-330D-4B9E-B551-9E1C137D747A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F87ED2-330D-4B9E-B551-9E1C137D747A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E00C4B4-5101-48B4-85A7-5F7CDD732EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E00C4B4-5101-48B4-85A7-5F7CDD732EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E00C4B4-5101-48B4-85A7-5F7CDD732EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E00C4B4-5101-48B4-85A7-5F7CDD732EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A80263-9B08-478C-B6D9-21D4FD29A5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A80263-9B08-478C-B6D9-21D4FD29A5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A80263-9B08-478C-B6D9-21D4FD29A5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A80263-9B08-478C-B6D9-21D4FD29A5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F717265D-C343-4B93-9DC1-A145FB6E30AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F717265D-C343-4B93-9DC1-A145FB6E30AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F717265D-C343-4B93-9DC1-A145FB6E30AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F717265D-C343-4B93-9DC1-A145FB6E30AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -18,7 +18,8 @@ namespace _4.Fast_Food
 
             while (orderQueue.Count>0)
             {
-                if (quantityFood > orderQueue.Peek())
+                int order = orderQueue.Peek();
+                if (quantityFood-order >= 0)
                 {
                     quantityFood -= orderQueue.Dequeue();
                 }
