@@ -8,3 +8,14 @@ E:\Delyan\Programing\Softuni\Lesons\C# Advance\stack and queues\Queue\obj\Debug\
 E:\Delyan\Programing\Softuni\Lesons\C# Advance\stack and queues\Queue\obj\Debug\netcoreapp2.1\Queue.AssemblyInfo.cs
 E:\Delyan\Programing\Softuni\Lesons\C# Advance\stack and queues\Queue\obj\Debug\netcoreapp2.1\Queue.dll
 E:\Delyan\Programing\Softuni\Lesons\C# Advance\stack and queues\Queue\obj\Debug\netcoreapp2.1\Queue.pdb
+D:\Programming\Softuni\Lesons\C# Advance\stack and queues\Queue\bin\Debug\netcoreapp2.1\Queue.deps.json
+D:\Programming\Softuni\Lesons\C# Advance\stack and queues\Queue\bin\Debug\netcoreapp2.1\Queue.runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\stack and queues\Queue\bin\Debug\netcoreapp2.1\Queue.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\stack and queues\Queue\bin\Debug\netcoreapp2.1\Queue.dll
+D:\Programming\Softuni\Lesons\C# Advance\stack and queues\Queue\bin\Debug\netcoreapp2.1\Queue.pdb
+D:\Programming\Softuni\Lesons\C# Advance\stack and queues\Queue\obj\Debug\netcoreapp2.1\Queue.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\C# Advance\stack and queues\Queue\obj\Debug\netcoreapp2.1\Queue.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\stack and queues\Queue\obj\Debug\netcoreapp2.1\Queue.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\stack and queues\Queue\obj\Debug\netcoreapp2.1\Queue.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\stack and queues\Queue\obj\Debug\netcoreapp2.1\Queue.dll
+D:\Programming\Softuni\Lesons\C# Advance\stack and queues\Queue\obj\Debug\netcoreapp2.1\Queue.pdb

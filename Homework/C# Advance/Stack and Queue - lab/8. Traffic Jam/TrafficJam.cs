@@ -13,18 +13,18 @@ namespace _8.Traffic_Jam
 
             string command = string.Empty;
             int counterPassing = 0;
-            while((command=Console.ReadLine())!="end")
+            while ((command = Console.ReadLine()) != "end")
             {
-                if(command=="green"&&carsQueue.Count>=0)
+                if (command == "green" && carsQueue.Count >= 0)
                 {
                     for (int i = 0; i < numberOfCarsPassing; i++)
                     {
-                       if(carsQueue.Count==0)
-                       {
-                           continue;
-                       }
-                        Console.WriteLine($"{carsQueue.Dequeue()} passed!");
-                        counterPassing++;
+                        if (carsQueue.Count > 0)
+                        {
+                            Console.WriteLine($"{carsQueue.Dequeue()} passed!");
+                            counterPassing++;
+                        }
+
                     }
                 }
                 else

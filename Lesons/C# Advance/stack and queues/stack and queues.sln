@@ -1,19 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.539
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse string", "stack and queues\Reverse string.csproj", "{C0FE6830-606D-4731-854E-A614C4DFD925}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{C9F8A8EC-00F7-46C3-88B1-3EEA111ECFD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack", "Stack\Stack.csproj", "{C9F8A8EC-00F7-46C3-88B1-3EEA111ECFD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension methods", "extension methods\Extension methods.csproj", "{3BD25379-89D6-4E53-81A8-16A8BA8A91BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extension methods", "extension methods\Extension methods.csproj", "{3BD25379-89D6-4E53-81A8-16A8BA8A91BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple calculatorr", "Simple calculatorr\Simple calculatorr.csproj", "{C6AF7FA5-4B1A-418B-AA3B-CDE349C0E431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple calculatorr", "Simple calculatorr\Simple calculatorr.csproj", "{C6AF7FA5-4B1A-418B-AA3B-CDE349C0E431}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingBrackets", "MatchingBrackets\MatchingBrackets.csproj", "{12F202BC-33EF-46AF-B0CC-B60425C2E48D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchingBrackets", "MatchingBrackets\MatchingBrackets.csproj", "{12F202BC-33EF-46AF-B0CC-B60425C2E48D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{BCF58A2F-AB41-4EF6-B855-37BDCB91DD9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue", "Queue\Queue.csproj", "{BCF58A2F-AB41-4EF6-B855-37BDCB91DD9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorAddRemove", "CalculatorAddRemove\CalculatorAddRemove.csproj", "{70A2CBED-2C3F-4097-92F0-34A593980FD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{EE02F381-9FF8-4713-8C6F-6F99EBBB34DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{BCF58A2F-AB41-4EF6-B855-37BDCB91DD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCF58A2F-AB41-4EF6-B855-37BDCB91DD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCF58A2F-AB41-4EF6-B855-37BDCB91DD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A2CBED-2C3F-4097-92F0-34A593980FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A2CBED-2C3F-4097-92F0-34A593980FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A2CBED-2C3F-4097-92F0-34A593980FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A2CBED-2C3F-4097-92F0-34A593980FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE02F381-9FF8-4713-8C6F-6F99EBBB34DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE02F381-9FF8-4713-8C6F-6F99EBBB34DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE02F381-9FF8-4713-8C6F-6F99EBBB34DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE02F381-9FF8-4713-8C6F-6F99EBBB34DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

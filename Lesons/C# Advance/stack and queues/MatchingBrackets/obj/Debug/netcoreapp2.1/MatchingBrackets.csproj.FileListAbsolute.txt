@@ -8,3 +8,4 @@ D:\Programming\Softuni\Lesons\C# Advance\stack and queues\MatchingBrackets\obj\D
 D:\Programming\Softuni\Lesons\C# Advance\stack and queues\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.AssemblyInfo.cs
 D:\Programming\Softuni\Lesons\C# Advance\stack and queues\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.dll
 D:\Programming\Softuni\Lesons\C# Advance\stack and queues\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.pdb
+D:\Programming\Softuni\Lesons\C# Advance\stack and queues\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.csprojAssemblyReference.cache
