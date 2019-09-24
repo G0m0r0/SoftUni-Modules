@@ -8,23 +8,57 @@ namespace _8._Balanced_Parenthesis
     {
         static void Main(string[] args)
         {
-            char[] parenthesis = Console.ReadLine().ToCharArray();
-            if(parenthesis.Length%2!=0)
+            char[] parentheses = Console.ReadLine().ToCharArray();
+            Stack<char> openingParentheses = new Stack<char>();
+
+            if (parentheses.Length % 2 != 0)
             {
                 Console.WriteLine("NO");
                 return;
             }
-            Stack<char> parenthesisStack = new Stack<char>(parenthesis.Length/2);
 
-            for (int i = 0; i < parenthesis.Length/2; i++)
+            for (int i = 0; i < parentheses.Length; i++)
             {
-                parenthesisStack.Push(parenthesis[i]);
+                switch (parentheses[i])
+                {
+                    case '(':
+                    case '[':
+                    case '{':
+                        openingParentheses.Push(parentheses[i]);
+                        break;
+                    case ')':
+                        MatchingClosingParentheses('(', openingParentheses);
+                        break;
+                    case ']':
+                        MatchingClosingParentheses('[', openingParentheses);
+                        break;
+                    case '}':
+                        MatchingClosingParentheses('{', openingParentheses);
+                        break;
+                }
             }
-
-            for (int i = 0; i < parenthesis.Length/2; i++)
+            if (openingParentheses.Count == 0)
             {
-
+                Console.WriteLine("YES");
+            }
+            else
+            {
+                Console.WriteLine("NO");
             }
         }
+        static void MatchingClosingParentheses(char ch,Stack<char> openingParentheses)
+        {
+            if (openingParentheses.Count == 0)
+            {
+                Console.WriteLine("NO");
+                return;
+            }
+            else if (openingParentheses.Pop() != ch)
+            {
+                Console.WriteLine("NO");
+                return;
+            }
+        }
+
     }
 }

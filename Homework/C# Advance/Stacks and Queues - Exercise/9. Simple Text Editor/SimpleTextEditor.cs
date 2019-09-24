@@ -14,32 +14,46 @@ namespace _9._Simple_Text_Editor
             Stack<string> textStack = new Stack<string>();
 
             StringBuilder text = new StringBuilder();
+
             for (int i = 0; i < numOfOperation; i++)
             {
-                string[] tokens = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).ToArray();
-
+                string tokens = Console.ReadLine();
+                string expansion = tokens.Remove(0, 1);
+                expansion = expansion.TrimStart();
                 switch (tokens[0])
                 {
-                    case "1":
-                        text.Append(tokens[1]);
+                    case '1':
+                        text.Append(expansion);
                         textStack.Push(text.ToString());
                         break;
-                    case "2":
-                        text.Remove(text.Length - int.Parse(tokens[1]), text.Length);
-                        textStack.Push(text.ToString());
+                    case '2':
+                        if (int.Parse(expansion) <= text.Length)
+                            text.Remove(text.Length - int.Parse(expansion), int.Parse(expansion));
+                        if (text.Length == 0)
+                        {
+                            textStack.Push(null);
+                        }
+                        else
+                        {
+                            textStack.Push(text.ToString());
+                        }
                         break;
-                    case "3":
-                        Console.WriteLine(text[int.Parse(tokens[1])-1]);
+                    case '3':
+                        if (text.Length > 0 && int.Parse(expansion) <= text.Length)
+                            Console.WriteLine(text[int.Parse(expansion) - 1]);
                         break;
-                    case "4":
-                        if(text.ToString()==textStack.Peek())
+                    case '4':
+                        text.Clear();
+                        if (textStack.Count > 0)
                         {
                             textStack.Pop();
+                            if (textStack.Count > 0)
+                                text.Append(textStack.Peek());
                         }
-                        text.Remove(0,text.Length);
-                        text.Append(textStack.Pop());
                         break;
                 }
+                //Console.WriteLine("text- " + text);
+               // Console.WriteLine("textStack- " + string.Join(" ", textStack));
             }
         }
     }
