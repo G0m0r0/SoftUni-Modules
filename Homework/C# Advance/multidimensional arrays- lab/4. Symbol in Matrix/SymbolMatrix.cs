@@ -18,13 +18,13 @@ namespace _4._Symbol_in_Matrix
                 }
             }
 
-            char elementToSerach =char.Parse( Console.ReadLine());
+            char elementToSerach = char.Parse(Console.ReadLine());
 
             for (int i = 0; i < matrixChar.GetLength(0); i++)
             {
                 for (int j = 0; j < matrixChar.GetLength(1); j++)
                 {
-                    if(elementToSerach==matrixChar[i,j])
+                    if (elementToSerach == matrixChar[i, j])
                     {
                         Console.WriteLine($"({i}, {j})");
                         return;
