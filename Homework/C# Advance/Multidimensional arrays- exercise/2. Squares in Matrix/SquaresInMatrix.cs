@@ -25,9 +25,10 @@ namespace _2._Squares_in_Matrix
             {
                 for (int j = 0; j < matrixChar.GetLength(1) - 1; j++)
                 {
-                    if (matrixChar[i, j] == matrixChar[i, j + 1] &&
-                        matrixChar[i, j] == matrixChar[i + 1, j + 1] &&
-                        matrixChar[i, j] == matrixChar[i + 1, j])
+                    char ch = matrixChar[i, j];
+                    if (ch == matrixChar[i, j + 1] &&
+                        ch == matrixChar[i + 1, j + 1] &&
+                        ch == matrixChar[i + 1, j])
                     {
                         countSquares2x2++;
                     }

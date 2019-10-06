@@ -1,25 +1,27 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.329
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Diagonal difference", "Multidimensional arrays- exercise\1. Diagonal difference.csproj", "{D23D089B-637B-432A-805C-7ECC65BD233D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Diagonal difference", "Multidimensional arrays- exercise\1. Diagonal difference.csproj", "{D23D089B-637B-432A-805C-7ECC65BD233D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Squares in Matrix", "2. Squares in Matrix\2. Squares in Matrix.csproj", "{AA667622-4DED-4E21-A94F-07663CEA3BAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Squares in Matrix", "2. Squares in Matrix\2. Squares in Matrix.csproj", "{AA667622-4DED-4E21-A94F-07663CEA3BAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Maximal Sum", "3. Maximal Sum\3. Maximal Sum.csproj", "{8C3BDB55-3355-4D66-A920-73FD5A50D6AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Maximal Sum", "3. Maximal Sum\3. Maximal Sum.csproj", "{8C3BDB55-3355-4D66-A920-73FD5A50D6AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Matrix Shuffling", "4. Matrix Shuffling\4. Matrix Shuffling.csproj", "{BA58CD52-FBE5-4E29-83AC-B94C64B02273}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Matrix Shuffling", "4. Matrix Shuffling\4. Matrix Shuffling.csproj", "{BA58CD52-FBE5-4E29-83AC-B94C64B02273}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{A0DAD94F-CF37-4C69-A47A-D2C5509D1BFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test", "test\test.csproj", "{A0DAD94F-CF37-4C69-A47A-D2C5509D1BFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Snake Moves", "5. Snake Moves\5. Snake Moves.csproj", "{7AE37FAF-E228-4779-8862-138407D1B933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Snake Moves", "5. Snake Moves\5. Snake Moves.csproj", "{7AE37FAF-E228-4779-8862-138407D1B933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Bomb the Basement", "6. Bomb the Basement\6. Bomb the Basement.csproj", "{2373E890-37F0-4AE0-BFE8-3EA83319BDD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Bomb the Basement", "6. Bomb the Basement\6. Bomb the Basement.csproj", "{2373E890-37F0-4AE0-BFE8-3EA83319BDD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Knight Game", "7. Knight Game\7. Knight Game.csproj", "{DDF52411-D6C9-45C0-AF34-83CFFE558745}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Knight Game", "7. Knight Game\7. Knight Game.csproj", "{DDF52411-D6C9-45C0-AF34-83CFFE558745}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Knight game 2", "7. Knight game 2\7. Knight game 2.csproj", "{96A9E16E-2FA2-4F8D-95F3-6E3E25FB4A01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Knight game 2", "7. Knight game 2\7. Knight game 2.csproj", "{96A9E16E-2FA2-4F8D-95F3-6E3E25FB4A01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Jagged Array Manipulator", "6. Jagged Array Manipulator\6. Jagged Array Manipulator.csproj", "{135770FC-9173-4C27-9E86-E27AEF234DD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{96A9E16E-2FA2-4F8D-95F3-6E3E25FB4A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96A9E16E-2FA2-4F8D-95F3-6E3E25FB4A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96A9E16E-2FA2-4F8D-95F3-6E3E25FB4A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135770FC-9173-4C27-9E86-E27AEF234DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135770FC-9173-4C27-9E86-E27AEF234DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135770FC-9173-4C27-9E86-E27AEF234DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135770FC-9173-4C27-9E86-E27AEF234DD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
