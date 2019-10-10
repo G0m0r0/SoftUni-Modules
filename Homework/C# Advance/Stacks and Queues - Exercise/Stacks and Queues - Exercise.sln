@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.  Cups and Bottles", "12
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Crossroads", "10. Crossroads\10. Crossroads.csproj", "{4EB5D0CF-C408-461E-9C39-89B9BEAD367D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.  Crossroads", "10.  Crossroads\10.  Crossroads.csproj", "{4D2DDDD8-4743-433B-A950-F8049383A757}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.  Crossroads", "10.  Crossroads\10.  Crossroads.csproj", "{4D2DDDD8-4743-433B-A950-F8049383A757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Key Revolver", "11. Key Revolver\11. Key Revolver.csproj", "{21B91CD6-91DC-4B7A-9005-84B1EEABBAC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{4D2DDDD8-4743-433B-A950-F8049383A757}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D2DDDD8-4743-433B-A950-F8049383A757}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D2DDDD8-4743-433B-A950-F8049383A757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B91CD6-91DC-4B7A-9005-84B1EEABBAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B91CD6-91DC-4B7A-9005-84B1EEABBAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B91CD6-91DC-4B7A-9005-84B1EEABBAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B91CD6-91DC-4B7A-9005-84B1EEABBAC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,23 +1,27 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.329
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empty multidimensional arrays", "Multidimensional arrays\Empty multidimensional arrays.csproj", "{CADB19D2-ACFC-442E-B425-64B05216C7F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Empty multidimensional arrays", "Multidimensional arrays\Empty multidimensional arrays.csproj", "{CADB19D2-ACFC-442E-B425-64B05216C7F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged arrays", "jagged arrays\Jagged arrays.csproj", "{23918349-3CED-458E-894A-AF1D16135DCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jagged arrays", "jagged arrays\Jagged arrays.csproj", "{23918349-3CED-458E-894A-AF1D16135DCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initialize", "Initialize\Initialize.csproj", "{5B480242-CB69-4EC1-A273-FDB0892A19F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Initialize", "Initialize\Initialize.csproj", "{5B480242-CB69-4EC1-A273-FDB0892A19F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix sum", "matrix sum\Matrix sum.csproj", "{653E616C-A2CF-4779-83C0-0DA92987BB38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrix sum", "matrix sum\Matrix sum.csproj", "{653E616C-A2CF-4779-83C0-0DA92987BB38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sub matrix", "Sub matrix\Sub matrix.csproj", "{F5AC9277-F4F5-445B-BA85-F6AE3E16BA18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sub matrix", "Sub matrix\Sub matrix.csproj", "{F5AC9277-F4F5-445B-BA85-F6AE3E16BA18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jagged array modification", "jagged array modification\jagged array modification.csproj", "{0F344E92-416D-4998-B828-4CBC82F4F5BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jagged array modification", "jagged array modification\jagged array modification.csproj", "{0F344E92-416D-4998-B828-4CBC82F4F5BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "group numbers", "group numbers\group numbers.csproj", "{C149539F-2534-48D1-9478-6FA3E1EFA71F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "group numbers", "group numbers\group numbers.csproj", "{C149539F-2534-48D1-9478-6FA3E1EFA71F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal triangle", "Pascal triangle\Pascal triangle.csproj", "{F83E87DB-93CA-416D-9258-EBE02954B655}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal triangle", "Pascal triangle\Pascal triangle.csproj", "{F83E87DB-93CA-416D-9258-EBE02954B655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeDimentionalArray", "ThreeDimentionalArray\ThreeDimentionalArray.csproj", "{810C91F7-97B8-4089-B05A-013C4394E729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DimJaggedArray", "3DimJaggedArray\3DimJaggedArray.csproj", "{D496471D-08DC-41D9-9333-0BD4BB52703E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{F83E87DB-93CA-416D-9258-EBE02954B655}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F83E87DB-93CA-416D-9258-EBE02954B655}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F83E87DB-93CA-416D-9258-EBE02954B655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{810C91F7-97B8-4089-B05A-013C4394E729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810C91F7-97B8-4089-B05A-013C4394E729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810C91F7-97B8-4089-B05A-013C4394E729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810C91F7-97B8-4089-B05A-013C4394E729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D496471D-08DC-41D9-9333-0BD4BB52703E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D496471D-08DC-41D9-9333-0BD4BB52703E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D496471D-08DC-41D9-9333-0BD4BB52703E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D496471D-08DC-41D9-9333-0BD4BB52703E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

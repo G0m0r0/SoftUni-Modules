@@ -13,9 +13,8 @@ namespace Initialize
             };
 
             //or
-            int[,] array = { { 1, 2 }, { 3, 4 } };
+            int[,] array = { { 1, 2 }, { 3, 4 } };           
 
-            
         }
     }
 }

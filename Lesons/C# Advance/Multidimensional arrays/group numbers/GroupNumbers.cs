@@ -28,7 +28,7 @@ namespace group_numbers
 
             foreach (int[] row in jaghedArray)
             {
-                Console.WriteLine(string.Join(' ',row));
+                Console.WriteLine(string.Join(' ', row));
             }
         }
     }
