@@ -19,88 +19,99 @@ namespace _7._Knight_Game
             }
 
             int counterRemovedKnights = 0;
-            for (int i = 0; i < matrix.GetLength(0); i++)
+            bool fight = true;
+            int x = -1, y = -1;
+
+            while (true)
             {
-                for (int j = 0; j < matrix.GetLength(1); j++)
+                //fight = false;
+                int maxCount = 0;
+                for (int i = 0; i < matrix.GetLength(0); i++)
                 {
-                    if (matrix[i, j] == 'K')
+                    for (int j = 0; j < matrix.GetLength(1); j++)
                     {
-                        if (ValidPosition(i - 2, j - 1, matrix))
+                        int count = 0;
+                        if (matrix[i, j] == 'K')
                         {
-                            if (matrix[i - 2, j - 1] == 'K')
+                            if (ValidPosition(i - 2, j - 1, matrix))
                             {
-                                matrix[i - 2, j - 1] = '0';
-                                counterRemovedKnights++;
+                                if (matrix[i - 2, j - 1] == 'K')
+                                { 
+                                    count++;
+                                }
+                            }
+                            if (ValidPosition(i - 2, j + 1, matrix))
+                            {
+                                if (matrix[i - 2, j + 1] == 'K')
+                                {
+                                    count++;
+                                }
+                            }
+                            if (ValidPosition(i - 1, j - 2, matrix))
+                            {
+                                if (matrix[i - 1, j - 2] == 'K')
+                                {
+                                    count++;
+                                }
+                            }
+                            if (ValidPosition(i - 1, j + 2, matrix))
+                            {
+                                if (matrix[i - 1, j + 2] == 'K')
+                                {
+                                    count++;
+                                }
+                            }
+                            if (ValidPosition(i + 1, j - 2, matrix))
+                            {
+                                if (matrix[i + 1, j - 2] == 'K')
+                                {
+                                    count++;
+                                }
+                            }
+                            if (ValidPosition(i + 1, j + 2, matrix))
+                            {
+                                if (matrix[i + 1, j + 2] == 'K')
+                                {
+                                    count++;
+                                }
+                            }
+                            if (ValidPosition(i + 2, j - 1, matrix))
+                            {
+                                if (matrix[i + 2, j - 1] == 'K')
+                                {
+                                    count++;
+                                }
+                            }
+                            if (ValidPosition(i + 2, j + 1, matrix))
+                            {
+                                if (matrix[i + 2, j + 1] == 'K')
+                                {
+                                    count++;
+                                }
                             }
                         }
-                        if (ValidPosition(i - 2, j + 1, matrix))
+                        if (maxCount < count)
                         {
-                            if (matrix[i - 2, j + 1] == 'K')
-                            {
-                                matrix[i - 2, j + 1] = '0';
-                                counterRemovedKnights++;
-                            }
-                        }
-                        if (ValidPosition(i - 1, j - 2, matrix))
-                        {
-                            if (matrix[i - 1, j - 2] == 'K')
-                            {
-                                matrix[i - 1, j - 2] = '0';
-                                counterRemovedKnights++;
-                            }
-                        }
-                        if (ValidPosition(i - 1, j + 2, matrix))
-                        {
-                            if (matrix[i - 1, j + 2] == 'K')
-                            {
-                                matrix[i - 1, j + 2] = '0';
-                                counterRemovedKnights++;
-                            }
-                        }
-                        if (ValidPosition(i + 1, j - 2, matrix))
-                        {
-                            if (matrix[i + 1, j - 2] == 'K')
-                            {
-                                matrix[i + 1, j - 2] = '0';
-                                counterRemovedKnights++;
-                            }
-                        }
-                        if (ValidPosition(i + 1, j + 2, matrix))
-                        {
-                            if (matrix[i + 1, j + 2] == 'K')
-                            {
-                                matrix[i + 1, j + 2] = '0';
-                                counterRemovedKnights++;
-                            }
-                        }
-                        if (ValidPosition(i + 2, j - 1, matrix))
-                        {
-                            if (matrix[i + 2, j - 1] == 'K')
-                            {
-                                matrix[i + 2, j - 1] = '0';
-                                counterRemovedKnights++;
-                            }
-                        }
-                        if (ValidPosition(i + 2, j + 1, matrix))
-                        {
-                            if (matrix[i + 2, j + 1] == 'K')
-                            {
-                                matrix[i + 2, j + 1] = '0';
-                                counterRemovedKnights++;
-                            }
+                            maxCount = count;
+                            x = i;
+                            y = j;
+                            //fight = true;
                         }
                     }
                 }
+                //if (fight == true)
+                if(maxCount>0)
+                {
+                    matrix[x, y] = '0';
+                    counterRemovedKnights++;
+                }
+                else
+                {
+                    Console.WriteLine(counterRemovedKnights);
+                    return;
+                }
             }
-            Console.WriteLine(counterRemovedKnights);
-           // for (int i = 0; i < matrix.GetLength(0); i++)
-           // {
-           //     for (int j = 0; j < matrix.GetLength(1); j++)
-           //     {
-           //         Console.Write(matrix[i,j]);
-           //     }
-           //     Console.WriteLine();
-           // }
+
         }
 
         private static bool ValidPosition(int x, int y, char[,] matrix)

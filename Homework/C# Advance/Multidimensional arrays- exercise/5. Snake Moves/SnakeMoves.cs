@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Text;
 
 namespace _5._Snake_Moves
 {
@@ -9,19 +10,32 @@ namespace _5._Snake_Moves
         {
             int[] size = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
             char[] snake = Console.ReadLine().ToCharArray();
-            string[,] snakeMatrix = new string[size[0], size[1]];
+            char[,] snakeMatrix = new char[size[0], size[1]];
 
             int num = 0;
             for (int i = 0; i < snakeMatrix.GetLength(0); i++)
             {
-                for (int j = 0; j < snakeMatrix.GetLength(1); j++)
+                if (i % 2 == 0)
                 {
-                    if(num>snake.Length-1)
+                    for (int j = 0; j < snakeMatrix.GetLength(1); j++)
                     {
-                        num = 0;
+                        if (num == snake.Length)
+                        {
+                            num = 0;
+                        }
+                        snakeMatrix[i, j] = snake[num++ ];
                     }
-                    snakeMatrix[i, j] = snake[num].ToString();
-                    num++;
+                }
+                else
+                {
+                    for (int j = snakeMatrix.GetLength(1) - 1; j >= 0; j--)
+                    {
+                        if (num > snake.Length - 1)
+                        {
+                            num = 0;
+                        }
+                        snakeMatrix[i, j] = snake[num++];
+                    }
                 }
             }
 
@@ -29,7 +43,7 @@ namespace _5._Snake_Moves
             {
                 for (int j = 0; j < snakeMatrix.GetLength(1); j++)
                 {
-                    Console.Write(snakeMatrix[i,j]);
+                    Console.Write(snakeMatrix[i, j]);
                 }
                 Console.WriteLine();
             }

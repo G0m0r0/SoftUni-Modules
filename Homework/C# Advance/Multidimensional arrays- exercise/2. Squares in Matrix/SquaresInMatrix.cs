@@ -17,7 +17,7 @@ namespace _2._Squares_in_Matrix
                 for (int j = 0; j < matrixChar.GetLength(1); j++)
                 {
                     matrixChar[i, j] = rowInput[j];
-                }
+                } 
             }
 
             int countSquares2x2 = 0;

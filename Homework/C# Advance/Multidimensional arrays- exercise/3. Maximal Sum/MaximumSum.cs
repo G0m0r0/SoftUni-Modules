@@ -32,7 +32,7 @@ namespace _3._Maximal_Sum
                     if (maxSum < sum)
                     {
                         maxSum = sum;
-                        index1 = i;
+                        index1 = i; 
                         index2 = j;
                     }
                 }
