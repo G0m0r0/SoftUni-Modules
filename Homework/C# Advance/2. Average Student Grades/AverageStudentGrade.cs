@@ -33,6 +33,7 @@ namespace _2._Average_Student_Grades
                     Console.Write($"{item:f2} ");
                 }
                 Console.WriteLine($"(avg: {kvp.Value.Average():f2})");
+                Console.WriteLine($"avg: {kvp.Value.Select(x=>x.ToString("F2"))}");
             }
         }
     }
