@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Homework\C# Advance\3. Product Shop\bin\Debug\netcoreapp2.2\3. Product Shop.deps.json
+D:\Programming\Softuni\Homework\C# Advance\3. Product Shop\bin\Debug\netcoreapp2.2\3. Product Shop.runtimeconfig.json
+D:\Programming\Softuni\Homework\C# Advance\3. Product Shop\bin\Debug\netcoreapp2.2\3. Product Shop.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\C# Advance\3. Product Shop\bin\Debug\netcoreapp2.2\3. Product Shop.dll
+D:\Programming\Softuni\Homework\C# Advance\3. Product Shop\bin\Debug\netcoreapp2.2\3. Product Shop.pdb
+D:\Programming\Softuni\Homework\C# Advance\3. Product Shop\obj\Debug\netcoreapp2.2\3. Product Shop.csprojAssemblyReference.cache
+D:\Programming\Softuni\Homework\C# Advance\3. Product Shop\obj\Debug\netcoreapp2.2\3. Product Shop.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\3. Product Shop\obj\Debug\netcoreapp2.2\3. Product Shop.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\3. Product Shop\obj\Debug\netcoreapp2.2\3. Product Shop.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\C# Advance\3. Product Shop\obj\Debug\netcoreapp2.2\3. Product Shop.dll
+D:\Programming\Softuni\Homework\C# Advance\3. Product Shop\obj\Debug\netcoreapp2.2\3. Product Shop.pdb

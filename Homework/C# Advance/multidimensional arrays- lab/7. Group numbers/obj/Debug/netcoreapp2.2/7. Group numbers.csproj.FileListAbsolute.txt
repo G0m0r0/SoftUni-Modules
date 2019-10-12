@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Group numbers\bin\Debug\netcoreapp2.2\7. Group numbers.deps.json
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Group numbers\bin\Debug\netcoreapp2.2\7. Group numbers.runtimeconfig.json
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Group numbers\bin\Debug\netcoreapp2.2\7. Group numbers.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Group numbers\bin\Debug\netcoreapp2.2\7. Group numbers.dll
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Group numbers\bin\Debug\netcoreapp2.2\7. Group numbers.pdb
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Group numbers\obj\Debug\netcoreapp2.2\7. Group numbers.csprojAssemblyReference.cache
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Group numbers\obj\Debug\netcoreapp2.2\7. Group numbers.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Group numbers\obj\Debug\netcoreapp2.2\7. Group numbers.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Group numbers\obj\Debug\netcoreapp2.2\7. Group numbers.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Group numbers\obj\Debug\netcoreapp2.2\7. Group numbers.dll
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Group numbers\obj\Debug\netcoreapp2.2\7. Group numbers.pdb

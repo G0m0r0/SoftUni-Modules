@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Lesons\C# Advance\HashSetExample\bin\Debug\netcoreapp2.2\HashSetExample.deps.json
+D:\Programming\Softuni\Lesons\C# Advance\HashSetExample\bin\Debug\netcoreapp2.2\HashSetExample.runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\HashSetExample\bin\Debug\netcoreapp2.2\HashSetExample.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\HashSetExample\bin\Debug\netcoreapp2.2\HashSetExample.dll
+D:\Programming\Softuni\Lesons\C# Advance\HashSetExample\bin\Debug\netcoreapp2.2\HashSetExample.pdb
+D:\Programming\Softuni\Lesons\C# Advance\HashSetExample\obj\Debug\netcoreapp2.2\HashSetExample.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\HashSetExample\obj\Debug\netcoreapp2.2\HashSetExample.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\HashSetExample\obj\Debug\netcoreapp2.2\HashSetExample.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\HashSetExample\obj\Debug\netcoreapp2.2\HashSetExample.dll
+D:\Programming\Softuni\Lesons\C# Advance\HashSetExample\obj\Debug\netcoreapp2.2\HashSetExample.pdb

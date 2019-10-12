@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Problem 2. Basic Queue Operationss\bin\Debug\netcoreapp2.2\Problem 2. Basic Queue Operationss.deps.json
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Problem 2. Basic Queue Operationss\bin\Debug\netcoreapp2.2\Problem 2. Basic Queue Operationss.runtimeconfig.json
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Problem 2. Basic Queue Operationss\bin\Debug\netcoreapp2.2\Problem 2. Basic Queue Operationss.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Problem 2. Basic Queue Operationss\bin\Debug\netcoreapp2.2\Problem 2. Basic Queue Operationss.dll
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Problem 2. Basic Queue Operationss\bin\Debug\netcoreapp2.2\Problem 2. Basic Queue Operationss.pdb
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Problem 2. Basic Queue Operationss\obj\Debug\netcoreapp2.2\Problem 2. Basic Queue Operationss.csprojAssemblyReference.cache
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Problem 2. Basic Queue Operationss\obj\Debug\netcoreapp2.2\Problem 2. Basic Queue Operationss.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Problem 2. Basic Queue Operationss\obj\Debug\netcoreapp2.2\Problem 2. Basic Queue Operationss.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Problem 2. Basic Queue Operationss\obj\Debug\netcoreapp2.2\Problem 2. Basic Queue Operationss.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Problem 2. Basic Queue Operationss\obj\Debug\netcoreapp2.2\Problem 2. Basic Queue Operationss.dll
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\Problem 2. Basic Queue Operationss\obj\Debug\netcoreapp2.2\Problem 2. Basic Queue Operationss.pdb

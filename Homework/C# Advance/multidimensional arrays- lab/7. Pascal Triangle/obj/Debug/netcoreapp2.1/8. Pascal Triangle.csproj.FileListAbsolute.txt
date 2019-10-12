@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Pascal Triangle\bin\Debug\netcoreapp2.1\8. Pascal Triangle.deps.json
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Pascal Triangle\bin\Debug\netcoreapp2.1\8. Pascal Triangle.runtimeconfig.json
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Pascal Triangle\bin\Debug\netcoreapp2.1\8. Pascal Triangle.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Pascal Triangle\bin\Debug\netcoreapp2.1\8. Pascal Triangle.dll
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Pascal Triangle\bin\Debug\netcoreapp2.1\8. Pascal Triangle.pdb
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Pascal Triangle\obj\Debug\netcoreapp2.1\8. Pascal Triangle.csprojAssemblyReference.cache
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Pascal Triangle\obj\Debug\netcoreapp2.1\8. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Pascal Triangle\obj\Debug\netcoreapp2.1\8. Pascal Triangle.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Pascal Triangle\obj\Debug\netcoreapp2.1\8. Pascal Triangle.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Pascal Triangle\obj\Debug\netcoreapp2.1\8. Pascal Triangle.dll
+D:\Programming\Softuni\Homework\C# Advance\multidimensional arrays- lab\7. Pascal Triangle\obj\Debug\netcoreapp2.1\8. Pascal Triangle.pdb

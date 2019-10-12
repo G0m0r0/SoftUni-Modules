@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programming\\Softuni\\Lesons\\C# Advance\\7.1 SoftUni Party\\7.1 SoftUni Party.csproj": {}
+  },
+  "projects": {
+    "D:\\Programming\\Softuni\\Lesons\\C# Advance\\7.1 SoftUni Party\\7.1 SoftUni Party.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Softuni\\Lesons\\C# Advance\\7.1 SoftUni Party\\7.1 SoftUni Party.csproj",
+        "projectName": "7.1 SoftUni Party",
+        "projectPath": "D:\\Programming\\Softuni\\Lesons\\C# Advance\\7.1 SoftUni Party\\7.1 SoftUni Party.csproj",
+        "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Softuni\\Lesons\\C# Advance\\7.1 SoftUni Party\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

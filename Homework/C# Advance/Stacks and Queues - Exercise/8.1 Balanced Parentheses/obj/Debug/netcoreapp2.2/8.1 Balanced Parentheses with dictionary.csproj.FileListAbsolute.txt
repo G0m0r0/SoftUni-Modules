@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8.1 Balanced Parentheses\bin\Debug\netcoreapp2.2\8.1 Balanced Parentheses with dictionary.deps.json
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8.1 Balanced Parentheses\bin\Debug\netcoreapp2.2\8.1 Balanced Parentheses with dictionary.runtimeconfig.json
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8.1 Balanced Parentheses\bin\Debug\netcoreapp2.2\8.1 Balanced Parentheses with dictionary.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8.1 Balanced Parentheses\bin\Debug\netcoreapp2.2\8.1 Balanced Parentheses with dictionary.dll
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8.1 Balanced Parentheses\bin\Debug\netcoreapp2.2\8.1 Balanced Parentheses with dictionary.pdb
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8.1 Balanced Parentheses\obj\Debug\netcoreapp2.2\8.1 Balanced Parentheses with dictionary.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8.1 Balanced Parentheses\obj\Debug\netcoreapp2.2\8.1 Balanced Parentheses with dictionary.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8.1 Balanced Parentheses\obj\Debug\netcoreapp2.2\8.1 Balanced Parentheses with dictionary.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8.1 Balanced Parentheses\obj\Debug\netcoreapp2.2\8.1 Balanced Parentheses with dictionary.dll
+D:\Programming\Softuni\Homework\C# Advance\Stacks and Queues - Exercise\8.1 Balanced Parentheses\obj\Debug\netcoreapp2.2\8.1 Balanced Parentheses with dictionary.pdb
