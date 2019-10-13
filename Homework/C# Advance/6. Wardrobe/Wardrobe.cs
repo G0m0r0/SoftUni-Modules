@@ -14,15 +14,21 @@ namespace _6._Wardrobe
 
             for (int i = 0; i < numOfClothes; i++)
             {
-                char[] spliters = { ' ', ',' };
-                string[] clothes = Console.ReadLine().Split(spliters, StringSplitOptions.RemoveEmptyEntries).ToArray();
-                string color = clothes[0];
-                for (int j = 2; j < clothes.Length; j++)
+                string[] tokens = Console.ReadLine()
+                    .Split(" -> ", StringSplitOptions.RemoveEmptyEntries)
+                    .ToArray();
+                string color = tokens[0];
+                string[] clothes = tokens[1]
+                    .Split(',', StringSplitOptions.RemoveEmptyEntries)
+                    .ToArray();
+
+                if (!wardrobe.ContainsKey(color))
                 {
-                    if (!wardrobe.ContainsKey(color))
-                    {
-                        wardrobe[color] = new Dictionary<string, int>();
-                    }
+                    wardrobe[color] = new Dictionary<string, int>();
+                }
+
+                for (int j = 0; j < clothes.Length; j++)
+                {                    
                     if (!wardrobe[color].ContainsKey(clothes[j]))
                     {
                         wardrobe[color][clothes[j]] = 0;
@@ -31,23 +37,31 @@ namespace _6._Wardrobe
                 }
             }
 
-            string[] search = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).ToArray();
+            string[] search = Console.ReadLine()
+                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                .ToArray();
             string searchColor = search[0];
             string searchCloth = search[1];
 
-            foreach (var section in wardrobe)
+            foreach (var (color,clothes) in wardrobe)
             {
-                Console.WriteLine($"{section.Key} clothes:");
-                foreach (var item in section.Value)
+                Console.WriteLine($"{color} clothes:");
+                foreach (var (clothing, count) in clothes)
                 {
-                    if (!(searchColor == section.Key && searchCloth == item.Key))
+                    //if (!(searchColor == section.Key && searchCloth == item.Key))
+                    //{
+                    //    Console.WriteLine($"* {item.Key} - {item.Value}");
+                    //}
+                    //else
+                    //{
+                    //    Console.WriteLine($"* {item.Key} - {item.Value} (found!)");
+                    //}
+                    Console.Write($"* {clothing} - {count}");
+                    if(color==searchColor&&clothing==searchCloth)
                     {
-                        Console.WriteLine($"* {item.Key} - {item.Value}");
+                        Console.Write(" (found!)");
                     }
-                    else
-                    {
-                        Console.WriteLine($"* {item.Key} - {item.Value} (found!)");
-                    }
+                    Console.WriteLine();
                 }
             }
         }
