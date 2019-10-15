@@ -1,0 +1,12 @@
+D:\Programming\Softuni\Lesons\C# Advance\using()\bin\Debug\netcoreapp3.0\using().exe
+D:\Programming\Softuni\Lesons\C# Advance\using()\bin\Debug\netcoreapp3.0\using().deps.json
+D:\Programming\Softuni\Lesons\C# Advance\using()\bin\Debug\netcoreapp3.0\using().runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\using()\bin\Debug\netcoreapp3.0\using().runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\using()\bin\Debug\netcoreapp3.0\using().dll
+D:\Programming\Softuni\Lesons\C# Advance\using()\bin\Debug\netcoreapp3.0\using().pdb
+D:\Programming\Softuni\Lesons\C# Advance\using()\obj\Debug\netcoreapp3.0\using().csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\C# Advance\using()\obj\Debug\netcoreapp3.0\using().AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\using()\obj\Debug\netcoreapp3.0\using().AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\using()\obj\Debug\netcoreapp3.0\using().dll
+D:\Programming\Softuni\Lesons\C# Advance\using()\obj\Debug\netcoreapp3.0\using().pdb
+D:\Programming\Softuni\Lesons\C# Advance\using()\bin\Debug\netcoreapp3.0\lines.txt

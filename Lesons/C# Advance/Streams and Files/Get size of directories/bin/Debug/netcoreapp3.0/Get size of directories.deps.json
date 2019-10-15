@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Get size of directories/1.0.0": {
+        "runtime": {
+          "Get size of directories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Get size of directories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

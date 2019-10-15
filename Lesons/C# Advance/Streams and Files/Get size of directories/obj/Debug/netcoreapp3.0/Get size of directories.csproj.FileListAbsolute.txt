@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Lesons\C# Advance\Streams and Files\Get size of directories\bin\Debug\netcoreapp3.0\Get size of directories.exe
+D:\Programming\Softuni\Lesons\C# Advance\Streams and Files\Get size of directories\bin\Debug\netcoreapp3.0\Get size of directories.deps.json
+D:\Programming\Softuni\Lesons\C# Advance\Streams and Files\Get size of directories\bin\Debug\netcoreapp3.0\Get size of directories.runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\Streams and Files\Get size of directories\bin\Debug\netcoreapp3.0\Get size of directories.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\Streams and Files\Get size of directories\bin\Debug\netcoreapp3.0\Get size of directories.dll
+D:\Programming\Softuni\Lesons\C# Advance\Streams and Files\Get size of directories\bin\Debug\netcoreapp3.0\Get size of directories.pdb
+D:\Programming\Softuni\Lesons\C# Advance\Streams and Files\Get size of directories\obj\Debug\netcoreapp3.0\Get size of directories.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\Streams and Files\Get size of directories\obj\Debug\netcoreapp3.0\Get size of directories.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\Streams and Files\Get size of directories\obj\Debug\netcoreapp3.0\Get size of directories.dll
+D:\Programming\Softuni\Lesons\C# Advance\Streams and Files\Get size of directories\obj\Debug\netcoreapp3.0\Get size of directories.pdb

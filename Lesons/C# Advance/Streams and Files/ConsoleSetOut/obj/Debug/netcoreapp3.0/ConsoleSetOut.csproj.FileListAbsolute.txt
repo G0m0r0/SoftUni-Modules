@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\C# Advance\ConsoleSetOut\bin\Debug\netcoreapp3.0\ConsoleSetOut.exe
+D:\Programming\Softuni\Lesons\C# Advance\ConsoleSetOut\bin\Debug\netcoreapp3.0\TextFile3.txt
+D:\Programming\Softuni\Lesons\C# Advance\ConsoleSetOut\bin\Debug\netcoreapp3.0\ConsoleSetOut.deps.json
+D:\Programming\Softuni\Lesons\C# Advance\ConsoleSetOut\bin\Debug\netcoreapp3.0\ConsoleSetOut.runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\ConsoleSetOut\bin\Debug\netcoreapp3.0\ConsoleSetOut.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\ConsoleSetOut\bin\Debug\netcoreapp3.0\ConsoleSetOut.dll
+D:\Programming\Softuni\Lesons\C# Advance\ConsoleSetOut\bin\Debug\netcoreapp3.0\ConsoleSetOut.pdb
+D:\Programming\Softuni\Lesons\C# Advance\ConsoleSetOut\obj\Debug\netcoreapp3.0\ConsoleSetOut.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\ConsoleSetOut\obj\Debug\netcoreapp3.0\ConsoleSetOut.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\ConsoleSetOut\obj\Debug\netcoreapp3.0\ConsoleSetOut.dll
+D:\Programming\Softuni\Lesons\C# Advance\ConsoleSetOut\obj\Debug\netcoreapp3.0\ConsoleSetOut.pdb

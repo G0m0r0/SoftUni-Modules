@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\C# Advance\ReadOddLines\bin\Debug\netcoreapp3.0\ReadOddLines.exe
+D:\Programming\Softuni\Lesons\C# Advance\ReadOddLines\bin\Debug\netcoreapp3.0\TextFile1.txt
+D:\Programming\Softuni\Lesons\C# Advance\ReadOddLines\bin\Debug\netcoreapp3.0\ReadOddLines.deps.json
+D:\Programming\Softuni\Lesons\C# Advance\ReadOddLines\bin\Debug\netcoreapp3.0\ReadOddLines.runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\ReadOddLines\bin\Debug\netcoreapp3.0\ReadOddLines.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\ReadOddLines\bin\Debug\netcoreapp3.0\ReadOddLines.dll
+D:\Programming\Softuni\Lesons\C# Advance\ReadOddLines\bin\Debug\netcoreapp3.0\ReadOddLines.pdb
+D:\Programming\Softuni\Lesons\C# Advance\ReadOddLines\obj\Debug\netcoreapp3.0\ReadOddLines.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\ReadOddLines\obj\Debug\netcoreapp3.0\ReadOddLines.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\ReadOddLines\obj\Debug\netcoreapp3.0\ReadOddLines.dll
+D:\Programming\Softuni\Lesons\C# Advance\ReadOddLines\obj\Debug\netcoreapp3.0\ReadOddLines.pdb
