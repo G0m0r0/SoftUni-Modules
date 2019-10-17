@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Class car and engine\bin\Debug\netcoreapp3.0\Class car and engine.exe
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Class car and engine\bin\Debug\netcoreapp3.0\Class car and engine.deps.json
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Class car and engine\bin\Debug\netcoreapp3.0\Class car and engine.runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Class car and engine\bin\Debug\netcoreapp3.0\Class car and engine.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Class car and engine\bin\Debug\netcoreapp3.0\Class car and engine.dll
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Class car and engine\bin\Debug\netcoreapp3.0\Class car and engine.pdb
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Class car and engine\obj\Debug\netcoreapp3.0\Class car and engine.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Class car and engine\obj\Debug\netcoreapp3.0\Class car and engine.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Class car and engine\obj\Debug\netcoreapp3.0\Class car and engine.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Class car and engine\obj\Debug\netcoreapp3.0\Class car and engine.dll
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Class car and engine\obj\Debug\netcoreapp3.0\Class car and engine.pdb

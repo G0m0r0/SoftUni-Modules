@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\CustomParsingFunction\bin\Debug\netcoreapp3.0\CustomParsingFunction.exe
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\CustomParsingFunction\bin\Debug\netcoreapp3.0\CustomParsingFunction.deps.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\CustomParsingFunction\bin\Debug\netcoreapp3.0\CustomParsingFunction.runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\CustomParsingFunction\bin\Debug\netcoreapp3.0\CustomParsingFunction.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\CustomParsingFunction\bin\Debug\netcoreapp3.0\CustomParsingFunction.dll
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\CustomParsingFunction\bin\Debug\netcoreapp3.0\CustomParsingFunction.pdb
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\CustomParsingFunction\obj\Debug\netcoreapp3.0\CustomParsingFunction.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\CustomParsingFunction\obj\Debug\netcoreapp3.0\CustomParsingFunction.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\CustomParsingFunction\obj\Debug\netcoreapp3.0\CustomParsingFunction.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\CustomParsingFunction\obj\Debug\netcoreapp3.0\CustomParsingFunction.dll
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\CustomParsingFunction\obj\Debug\netcoreapp3.0\CustomParsingFunction.pdb

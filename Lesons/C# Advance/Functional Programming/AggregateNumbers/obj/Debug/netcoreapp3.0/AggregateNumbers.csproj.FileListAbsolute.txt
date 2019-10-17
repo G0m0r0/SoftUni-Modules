@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\AggregateNumbers\bin\Debug\netcoreapp3.0\AggregateNumbers.exe
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\AggregateNumbers\bin\Debug\netcoreapp3.0\AggregateNumbers.deps.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\AggregateNumbers\bin\Debug\netcoreapp3.0\AggregateNumbers.runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\AggregateNumbers\bin\Debug\netcoreapp3.0\AggregateNumbers.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\AggregateNumbers\bin\Debug\netcoreapp3.0\AggregateNumbers.dll
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\AggregateNumbers\bin\Debug\netcoreapp3.0\AggregateNumbers.pdb
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\AggregateNumbers\obj\Debug\netcoreapp3.0\AggregateNumbers.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\AggregateNumbers\obj\Debug\netcoreapp3.0\AggregateNumbers.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\AggregateNumbers\obj\Debug\netcoreapp3.0\AggregateNumbers.dll
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\AggregateNumbers\obj\Debug\netcoreapp3.0\AggregateNumbers.pdb

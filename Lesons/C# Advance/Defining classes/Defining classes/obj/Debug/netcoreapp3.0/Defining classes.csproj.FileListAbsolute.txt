@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Defining classes\bin\Debug\netcoreapp3.0\Defining classes.exe
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Defining classes\bin\Debug\netcoreapp3.0\Defining classes.deps.json
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Defining classes\bin\Debug\netcoreapp3.0\Defining classes.runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Defining classes\bin\Debug\netcoreapp3.0\Defining classes.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Defining classes\bin\Debug\netcoreapp3.0\Defining classes.dll
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Defining classes\bin\Debug\netcoreapp3.0\Defining classes.pdb
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Defining classes\obj\Debug\netcoreapp3.0\Defining classes.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Defining classes\obj\Debug\netcoreapp3.0\Defining classes.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Defining classes\obj\Debug\netcoreapp3.0\Defining classes.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Defining classes\obj\Debug\netcoreapp3.0\Defining classes.dll
+D:\Programming\Softuni\Lesons\C# Advance\Defining classes\Defining classes\obj\Debug\netcoreapp3.0\Defining classes.pdb

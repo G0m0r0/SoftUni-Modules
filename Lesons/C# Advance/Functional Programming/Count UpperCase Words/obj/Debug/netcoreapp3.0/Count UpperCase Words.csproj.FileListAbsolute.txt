@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Count UpperCase Words\bin\Debug\netcoreapp3.0\Count UpperCase Words.exe
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Count UpperCase Words\bin\Debug\netcoreapp3.0\Count UpperCase Words.deps.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Count UpperCase Words\bin\Debug\netcoreapp3.0\Count UpperCase Words.runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Count UpperCase Words\bin\Debug\netcoreapp3.0\Count UpperCase Words.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Count UpperCase Words\bin\Debug\netcoreapp3.0\Count UpperCase Words.dll
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Count UpperCase Words\bin\Debug\netcoreapp3.0\Count UpperCase Words.pdb
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Count UpperCase Words\obj\Debug\netcoreapp3.0\Count UpperCase Words.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Count UpperCase Words\obj\Debug\netcoreapp3.0\Count UpperCase Words.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Count UpperCase Words\obj\Debug\netcoreapp3.0\Count UpperCase Words.dll
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Count UpperCase Words\obj\Debug\netcoreapp3.0\Count UpperCase Words.pdb

@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Homework\C# Advance\2. Sum Numbers\bin\Debug\netcoreapp3.0\2. Sum Numbers.exe
+D:\Programming\Softuni\Homework\C# Advance\2. Sum Numbers\bin\Debug\netcoreapp3.0\2. Sum Numbers.deps.json
+D:\Programming\Softuni\Homework\C# Advance\2. Sum Numbers\bin\Debug\netcoreapp3.0\2. Sum Numbers.runtimeconfig.json
+D:\Programming\Softuni\Homework\C# Advance\2. Sum Numbers\bin\Debug\netcoreapp3.0\2. Sum Numbers.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\C# Advance\2. Sum Numbers\bin\Debug\netcoreapp3.0\2. Sum Numbers.dll
+D:\Programming\Softuni\Homework\C# Advance\2. Sum Numbers\bin\Debug\netcoreapp3.0\2. Sum Numbers.pdb
+D:\Programming\Softuni\Homework\C# Advance\2. Sum Numbers\obj\Debug\netcoreapp3.0\2. Sum Numbers.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\2. Sum Numbers\obj\Debug\netcoreapp3.0\2. Sum Numbers.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\C# Advance\2. Sum Numbers\obj\Debug\netcoreapp3.0\2. Sum Numbers.dll
+D:\Programming\Softuni\Homework\C# Advance\2. Sum Numbers\obj\Debug\netcoreapp3.0\2. Sum Numbers.pdb

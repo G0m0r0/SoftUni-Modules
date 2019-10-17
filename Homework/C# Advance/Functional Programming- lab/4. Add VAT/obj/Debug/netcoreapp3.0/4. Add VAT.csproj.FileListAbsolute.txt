@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Homework\C# Advance\Functional Programming- lab\4. Add VAT\bin\Debug\netcoreapp3.0\4. Add VAT.exe
+D:\Programming\Softuni\Homework\C# Advance\Functional Programming- lab\4. Add VAT\bin\Debug\netcoreapp3.0\4. Add VAT.deps.json
+D:\Programming\Softuni\Homework\C# Advance\Functional Programming- lab\4. Add VAT\bin\Debug\netcoreapp3.0\4. Add VAT.runtimeconfig.json
+D:\Programming\Softuni\Homework\C# Advance\Functional Programming- lab\4. Add VAT\bin\Debug\netcoreapp3.0\4. Add VAT.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\C# Advance\Functional Programming- lab\4. Add VAT\bin\Debug\netcoreapp3.0\4. Add VAT.dll
+D:\Programming\Softuni\Homework\C# Advance\Functional Programming- lab\4. Add VAT\bin\Debug\netcoreapp3.0\4. Add VAT.pdb
+D:\Programming\Softuni\Homework\C# Advance\Functional Programming- lab\4. Add VAT\obj\Debug\netcoreapp3.0\4. Add VAT.csprojAssemblyReference.cache
+D:\Programming\Softuni\Homework\C# Advance\Functional Programming- lab\4. Add VAT\obj\Debug\netcoreapp3.0\4. Add VAT.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\Functional Programming- lab\4. Add VAT\obj\Debug\netcoreapp3.0\4. Add VAT.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\C# Advance\Functional Programming- lab\4. Add VAT\obj\Debug\netcoreapp3.0\4. Add VAT.dll
+D:\Programming\Softuni\Homework\C# Advance\Functional Programming- lab\4. Add VAT\obj\Debug\netcoreapp3.0\4. Add VAT.pdb

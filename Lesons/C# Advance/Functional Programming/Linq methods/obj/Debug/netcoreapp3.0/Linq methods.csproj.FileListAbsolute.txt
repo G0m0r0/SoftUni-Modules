@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq methods\bin\Debug\netcoreapp3.0\Linq methods.exe
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq methods\bin\Debug\netcoreapp3.0\Linq methods.deps.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq methods\bin\Debug\netcoreapp3.0\Linq methods.runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq methods\bin\Debug\netcoreapp3.0\Linq methods.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq methods\bin\Debug\netcoreapp3.0\Linq methods.dll
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq methods\bin\Debug\netcoreapp3.0\Linq methods.pdb
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq methods\obj\Debug\netcoreapp3.0\Linq methods.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq methods\obj\Debug\netcoreapp3.0\Linq methods.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq methods\obj\Debug\netcoreapp3.0\Linq methods.dll
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq methods\obj\Debug\netcoreapp3.0\Linq methods.pdb

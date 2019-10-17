@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq with parameters\bin\Debug\netcoreapp3.0\Linq with parameters.exe
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq with parameters\bin\Debug\netcoreapp3.0\Linq with parameters.deps.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq with parameters\bin\Debug\netcoreapp3.0\Linq with parameters.runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq with parameters\bin\Debug\netcoreapp3.0\Linq with parameters.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq with parameters\bin\Debug\netcoreapp3.0\Linq with parameters.dll
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq with parameters\bin\Debug\netcoreapp3.0\Linq with parameters.pdb
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq with parameters\obj\Debug\netcoreapp3.0\Linq with parameters.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq with parameters\obj\Debug\netcoreapp3.0\Linq with parameters.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq with parameters\obj\Debug\netcoreapp3.0\Linq with parameters.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq with parameters\obj\Debug\netcoreapp3.0\Linq with parameters.dll
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\Linq with parameters\obj\Debug\netcoreapp3.0\Linq with parameters.pdb

@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\LambdaExpressions\bin\Debug\netcoreapp3.0\LambdaExpressions.exe
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\LambdaExpressions\bin\Debug\netcoreapp3.0\LambdaExpressions.deps.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\LambdaExpressions\bin\Debug\netcoreapp3.0\LambdaExpressions.runtimeconfig.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\LambdaExpressions\bin\Debug\netcoreapp3.0\LambdaExpressions.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\LambdaExpressions\bin\Debug\netcoreapp3.0\LambdaExpressions.dll
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\LambdaExpressions\bin\Debug\netcoreapp3.0\LambdaExpressions.pdb
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\LambdaExpressions\obj\Debug\netcoreapp3.0\LambdaExpressions.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\LambdaExpressions\obj\Debug\netcoreapp3.0\LambdaExpressions.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\LambdaExpressions\obj\Debug\netcoreapp3.0\LambdaExpressions.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\LambdaExpressions\obj\Debug\netcoreapp3.0\LambdaExpressions.dll
+D:\Programming\Softuni\Lesons\C# Advance\Functional Programming\LambdaExpressions\obj\Debug\netcoreapp3.0\LambdaExpressions.pdb
