@@ -20,3 +20,4 @@ git bash-
 
 ctrl+o	      save 
 ctrl+x        close
+ctr+shit+space to look on overloads
