@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Homework\C# Advance\Definning classes-  exercise\8. Car Salesman\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.deps.json
+D:\Programming\Softuni\Homework\C# Advance\Definning classes-  exercise\8. Car Salesman\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.json
+D:\Programming\Softuni\Homework\C# Advance\Definning classes-  exercise\8. Car Salesman\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\C# Advance\Definning classes-  exercise\8. Car Salesman\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.dll
+D:\Programming\Softuni\Homework\C# Advance\Definning classes-  exercise\8. Car Salesman\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.pdb
+D:\Programming\Softuni\Homework\C# Advance\Definning classes-  exercise\8. Car Salesman\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.csprojAssemblyReference.cache
+D:\Programming\Softuni\Homework\C# Advance\Definning classes-  exercise\8. Car Salesman\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\C# Advance\Definning classes-  exercise\8. Car Salesman\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\C# Advance\Definning classes-  exercise\8. Car Salesman\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.dll
+D:\Programming\Softuni\Homework\C# Advance\Definning classes-  exercise\8. Car Salesman\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.pdb
