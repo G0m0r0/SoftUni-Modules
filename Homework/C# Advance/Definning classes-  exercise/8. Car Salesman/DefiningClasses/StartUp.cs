@@ -17,8 +17,7 @@ namespace DefiningClasses
                 string efficiency = string.Empty;
 
                 string[] tokens = Console.ReadLine()
-                    .Split(' ', StringSplitOptions.RemoveEmptyEntries)
-                    .ToArray();
+                    .Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
                 string model = tokens[0];
                 int power = int.Parse(tokens[1]);
@@ -46,8 +45,7 @@ namespace DefiningClasses
                 int weight = 0;
                 string color = string.Empty;
                 string[] tokens = Console.ReadLine()
-                     .Split(' ', StringSplitOptions.RemoveEmptyEntries)
-                     .ToArray();
+                     .Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
                 string model = tokens[0];
                 string engine = tokens[1];
@@ -89,7 +87,6 @@ namespace DefiningClasses
                     Console.WriteLine($"  Color: {car.Color}");
                 else
                     Console.WriteLine("  Color: n/a");
-
             }
         }
     }
