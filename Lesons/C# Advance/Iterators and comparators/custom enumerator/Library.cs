@@ -37,37 +37,38 @@ namespace custom_enumerator
             throw new NotImplementedException();
         }
     }
-  //  public class LibraryEnumerator : IEnumerator<Book>
-   // {
-   //
-   //     private readonly List<Book> books;
-   //
-   //     private int currentIndex = -1;
-   //     public LibraryEnumerator(List<Book> books)
-   //     {
-   //         this.books = books;
-   //     }
-   //     public Book Current =>this.books[currentIndex] ;
-   //
-   //     object IEnumerator.Current => this.Current;
-   //
-   //    public void Dispose()
-   //    {
-   //    }
-   //
-   //     public bool MoveNext()
-   //     {
-   //         this.currentIndex++;
-   //         if(this.currentIndex>= this.books.Count)
-   //         {
-   //             return false;
-   //         }
-   //         return true;
-   //     }
-   //
-   //     public void Reset()
-   //     {
-   //         currentIndex = -1;
-   //     }
-   // }
+    //  public class LibraryEnumerator : IEnumerator<Book>
+    // {
+    //
+    //     private readonly List<Book> books;
+    //     public Book Current => this.books[currentIndex];
+    //
+    //     private int currentIndex = -1;
+    //     public LibraryEnumerator(List<Book> books)
+    //     {
+    //         this.books = books;
+    //     }
+    // 
+    //
+    //     object IEnumerator.Current => this.Current;
+    //
+    //    public void Dispose()
+    //    {
+    //    }
+    //
+    //     public bool MoveNext()
+    //     {
+    //         this.currentIndex++;
+    //         if(this.currentIndex>= this.books.Count)
+    //         {
+    //             return false;
+    //         }
+    //         return true;
+    //     }
+    //
+    //     public void Reset()
+    //     {
+    //         currentIndex = -1;
+    //     }
+    // }
 }
