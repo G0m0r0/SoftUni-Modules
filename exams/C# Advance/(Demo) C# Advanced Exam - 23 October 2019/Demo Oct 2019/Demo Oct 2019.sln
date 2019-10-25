@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo Oct 2019", "Demo Oct 2019.csproj", "{49D61758-0216-405F-B354-D0A6FBCD81C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Make a salad", "..\2. Make a salad\2. Make a salad.csproj", "{23441804-8ADF-4CE8-A3F2-D79651044719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D61758-0216-405F-B354-D0A6FBCD81C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D61758-0216-405F-B354-D0A6FBCD81C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D61758-0216-405F-B354-D0A6FBCD81C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D61758-0216-405F-B354-D0A6FBCD81C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23441804-8ADF-4CE8-A3F2-D79651044719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23441804-8ADF-4CE8-A3F2-D79651044719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23441804-8ADF-4CE8-A3F2-D79651044719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23441804-8ADF-4CE8-A3F2-D79651044719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB395225-641F-46CB-BF0B-1C2E23160390}
+	EndGlobalSection
+EndGlobal

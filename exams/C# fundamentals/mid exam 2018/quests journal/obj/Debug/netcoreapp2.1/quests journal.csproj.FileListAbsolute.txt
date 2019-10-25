@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\mid exam 2018\quests journal\obj\Debug\netcoreapp2.1\quests journal.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\mid exam 2018\quests journal\obj\Debug\netcoreapp2.1\quests journal.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\mid exam 2018\quests journal\obj\Debug\netcoreapp2.1\quests journal.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\mid exam 2018\quests journal\obj\Debug\netcoreapp2.1\quests journal.AssemblyInfo.cs
+C:\Users\dimit\Desktop\mid exam 2018\quests journal\bin\Debug\netcoreapp2.1\quests journal.deps.json
+C:\Users\dimit\Desktop\mid exam 2018\quests journal\bin\Debug\netcoreapp2.1\quests journal.runtimeconfig.json
+C:\Users\dimit\Desktop\mid exam 2018\quests journal\bin\Debug\netcoreapp2.1\quests journal.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\mid exam 2018\quests journal\bin\Debug\netcoreapp2.1\quests journal.dll
+C:\Users\dimit\Desktop\mid exam 2018\quests journal\bin\Debug\netcoreapp2.1\quests journal.pdb
+C:\Users\dimit\Desktop\mid exam 2018\quests journal\obj\Debug\netcoreapp2.1\quests journal.dll
+C:\Users\dimit\Desktop\mid exam 2018\quests journal\obj\Debug\netcoreapp2.1\quests journal.pdb

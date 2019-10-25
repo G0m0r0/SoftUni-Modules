@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\demo mid password\cooking factory\bin\Debug\netcoreapp2.1\cooking factory.deps.json
+C:\Users\dimit\Desktop\demo mid password\cooking factory\bin\Debug\netcoreapp2.1\cooking factory.runtimeconfig.json
+C:\Users\dimit\Desktop\demo mid password\cooking factory\bin\Debug\netcoreapp2.1\cooking factory.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\demo mid password\cooking factory\bin\Debug\netcoreapp2.1\cooking factory.dll
+C:\Users\dimit\Desktop\demo mid password\cooking factory\bin\Debug\netcoreapp2.1\cooking factory.pdb
+C:\Users\dimit\Desktop\demo mid password\cooking factory\obj\Debug\netcoreapp2.1\cooking factory.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\demo mid password\cooking factory\obj\Debug\netcoreapp2.1\cooking factory.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\demo mid password\cooking factory\obj\Debug\netcoreapp2.1\cooking factory.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\demo mid password\cooking factory\obj\Debug\netcoreapp2.1\cooking factory.AssemblyInfo.cs
+C:\Users\dimit\Desktop\demo mid password\cooking factory\obj\Debug\netcoreapp2.1\cooking factory.dll
+C:\Users\dimit\Desktop\demo mid password\cooking factory\obj\Debug\netcoreapp2.1\cooking factory.pdb

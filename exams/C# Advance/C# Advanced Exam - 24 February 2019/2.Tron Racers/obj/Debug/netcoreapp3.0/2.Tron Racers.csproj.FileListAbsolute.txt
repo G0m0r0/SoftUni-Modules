@@ -1,0 +1,11 @@
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 24 February 2019\2.Tron Racers\bin\Debug\netcoreapp3.0\2.Tron Racers.exe
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 24 February 2019\2.Tron Racers\bin\Debug\netcoreapp3.0\2.Tron Racers.deps.json
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 24 February 2019\2.Tron Racers\bin\Debug\netcoreapp3.0\2.Tron Racers.runtimeconfig.json
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 24 February 2019\2.Tron Racers\bin\Debug\netcoreapp3.0\2.Tron Racers.runtimeconfig.dev.json
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 24 February 2019\2.Tron Racers\bin\Debug\netcoreapp3.0\2.Tron Racers.dll
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 24 February 2019\2.Tron Racers\bin\Debug\netcoreapp3.0\2.Tron Racers.pdb
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 24 February 2019\2.Tron Racers\obj\Debug\netcoreapp3.0\2.Tron Racers.csprojAssemblyReference.cache
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 24 February 2019\2.Tron Racers\obj\Debug\netcoreapp3.0\2.Tron Racers.AssemblyInfoInputs.cache
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 24 February 2019\2.Tron Racers\obj\Debug\netcoreapp3.0\2.Tron Racers.AssemblyInfo.cs
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 24 February 2019\2.Tron Racers\obj\Debug\netcoreapp3.0\2.Tron Racers.dll
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 24 February 2019\2.Tron Racers\obj\Debug\netcoreapp3.0\2.Tron Racers.pdb

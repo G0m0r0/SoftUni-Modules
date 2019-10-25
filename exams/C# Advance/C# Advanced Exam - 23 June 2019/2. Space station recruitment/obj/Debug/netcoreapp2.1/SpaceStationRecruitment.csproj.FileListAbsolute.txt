@@ -1,0 +1,10 @@
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\2. Space station recruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.deps.json
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\2. Space station recruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.json
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\2. Space station recruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.dev.json
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\2. Space station recruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\2. Space station recruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\2. Space station recruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csprojAssemblyReference.cache
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\2. Space station recruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfoInputs.cache
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\2. Space station recruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfo.cs
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\2. Space station recruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\2. Space station recruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb

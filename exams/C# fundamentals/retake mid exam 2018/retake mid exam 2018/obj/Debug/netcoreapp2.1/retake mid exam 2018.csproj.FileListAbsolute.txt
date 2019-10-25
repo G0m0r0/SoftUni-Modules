@@ -1,0 +1,11 @@
+C:\Users\dimit\Desktop\retake mid exam 2018\retake mid exam 2018\bin\Debug\netcoreapp2.1\retake mid exam 2018.deps.json
+C:\Users\dimit\Desktop\retake mid exam 2018\retake mid exam 2018\bin\Debug\netcoreapp2.1\retake mid exam 2018.runtimeconfig.json
+C:\Users\dimit\Desktop\retake mid exam 2018\retake mid exam 2018\bin\Debug\netcoreapp2.1\retake mid exam 2018.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\retake mid exam 2018\retake mid exam 2018\bin\Debug\netcoreapp2.1\retake mid exam 2018.dll
+C:\Users\dimit\Desktop\retake mid exam 2018\retake mid exam 2018\bin\Debug\netcoreapp2.1\retake mid exam 2018.pdb
+C:\Users\dimit\Desktop\retake mid exam 2018\retake mid exam 2018\obj\Debug\netcoreapp2.1\retake mid exam 2018.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\retake mid exam 2018\retake mid exam 2018\obj\Debug\netcoreapp2.1\retake mid exam 2018.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\retake mid exam 2018\retake mid exam 2018\obj\Debug\netcoreapp2.1\retake mid exam 2018.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\retake mid exam 2018\retake mid exam 2018\obj\Debug\netcoreapp2.1\retake mid exam 2018.AssemblyInfo.cs
+C:\Users\dimit\Desktop\retake mid exam 2018\retake mid exam 2018\obj\Debug\netcoreapp2.1\retake mid exam 2018.dll
+C:\Users\dimit\Desktop\retake mid exam 2018\retake mid exam 2018\obj\Debug\netcoreapp2.1\retake mid exam 2018.pdb

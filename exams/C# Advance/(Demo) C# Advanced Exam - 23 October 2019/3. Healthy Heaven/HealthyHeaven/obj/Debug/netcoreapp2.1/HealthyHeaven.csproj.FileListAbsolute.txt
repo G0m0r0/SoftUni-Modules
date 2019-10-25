@@ -1,0 +1,20 @@
+D:\Programming\Softuni\exams\C# Advance\3. Healthy Heaven\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.deps.json
+D:\Programming\Softuni\exams\C# Advance\3. Healthy Heaven\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.json
+D:\Programming\Softuni\exams\C# Advance\3. Healthy Heaven\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.dev.json
+D:\Programming\Softuni\exams\C# Advance\3. Healthy Heaven\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.dll
+D:\Programming\Softuni\exams\C# Advance\3. Healthy Heaven\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.pdb
+D:\Programming\Softuni\exams\C# Advance\3. Healthy Heaven\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.csprojAssemblyReference.cache
+D:\Programming\Softuni\exams\C# Advance\3. Healthy Heaven\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfoInputs.cache
+D:\Programming\Softuni\exams\C# Advance\3. Healthy Heaven\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfo.cs
+D:\Programming\Softuni\exams\C# Advance\3. Healthy Heaven\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.dll
+D:\Programming\Softuni\exams\C# Advance\3. Healthy Heaven\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.pdb
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 23 October 2019\3. Healthy Heaven\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.deps.json
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 23 October 2019\3. Healthy Heaven\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.json
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 23 October 2019\3. Healthy Heaven\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.dev.json
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 23 October 2019\3. Healthy Heaven\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.dll
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 23 October 2019\3. Healthy Heaven\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.pdb
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 23 October 2019\3. Healthy Heaven\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.csprojAssemblyReference.cache
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 23 October 2019\3. Healthy Heaven\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfoInputs.cache
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 23 October 2019\3. Healthy Heaven\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfo.cs
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 23 October 2019\3. Healthy Heaven\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.dll
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 23 October 2019\3. Healthy Heaven\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.pdb

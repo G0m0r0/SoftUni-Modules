@@ -1,0 +1,11 @@
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\1. Spaceship Crafting\bin\Debug\netcoreapp3.0\1. Spaceship Crafting.exe
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\1. Spaceship Crafting\bin\Debug\netcoreapp3.0\1. Spaceship Crafting.deps.json
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\1. Spaceship Crafting\bin\Debug\netcoreapp3.0\1. Spaceship Crafting.runtimeconfig.json
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\1. Spaceship Crafting\bin\Debug\netcoreapp3.0\1. Spaceship Crafting.runtimeconfig.dev.json
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\1. Spaceship Crafting\bin\Debug\netcoreapp3.0\1. Spaceship Crafting.dll
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\1. Spaceship Crafting\bin\Debug\netcoreapp3.0\1. Spaceship Crafting.pdb
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\1. Spaceship Crafting\obj\Debug\netcoreapp3.0\1. Spaceship Crafting.csprojAssemblyReference.cache
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\1. Spaceship Crafting\obj\Debug\netcoreapp3.0\1. Spaceship Crafting.AssemblyInfoInputs.cache
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\1. Spaceship Crafting\obj\Debug\netcoreapp3.0\1. Spaceship Crafting.AssemblyInfo.cs
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\1. Spaceship Crafting\obj\Debug\netcoreapp3.0\1. Spaceship Crafting.dll
+D:\Programming\Softuni\exams\C# Advance\C# Advanced Exam - 23 June 2019\1. Spaceship Crafting\obj\Debug\netcoreapp3.0\1. Spaceship Crafting.pdb
