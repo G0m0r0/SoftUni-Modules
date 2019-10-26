@@ -1,0 +1,21 @@
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\3. Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\3. Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\3. Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\3. Repository\bin\Debug\netcoreapp2.1\Repository.dll
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\3. Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\3. Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\3. Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\3. Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\3. Repository\obj\Debug\netcoreapp2.1\Repository.dll
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\3. Repository\obj\Debug\netcoreapp2.1\Repository.pdb

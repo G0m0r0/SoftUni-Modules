@@ -1,0 +1,11 @@
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\Socks\bin\Debug\netcoreapp3.0\Socks.exe
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\Socks\bin\Debug\netcoreapp3.0\Socks.deps.json
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\Socks\bin\Debug\netcoreapp3.0\Socks.runtimeconfig.json
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\Socks\bin\Debug\netcoreapp3.0\Socks.runtimeconfig.dev.json
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\Socks\bin\Debug\netcoreapp3.0\Socks.dll
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\Socks\bin\Debug\netcoreapp3.0\Socks.pdb
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\Socks\obj\Debug\netcoreapp3.0\Socks.csprojAssemblyReference.cache
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\Socks\obj\Debug\netcoreapp3.0\Socks.AssemblyInfoInputs.cache
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\Socks\obj\Debug\netcoreapp3.0\Socks.AssemblyInfo.cs
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\Socks\obj\Debug\netcoreapp3.0\Socks.dll
+D:\Programming\Softuni\exams\C# Advance\(Demo) C# Advanced Exam - 17 Feb 2019\Socks\obj\Debug\netcoreapp3.0\Socks.pdb

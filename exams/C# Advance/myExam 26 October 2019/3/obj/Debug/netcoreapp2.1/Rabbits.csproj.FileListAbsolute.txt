@@ -1,0 +1,10 @@
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\3\bin\Debug\netcoreapp2.1\Rabbits.deps.json
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\3\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.json
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\3\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.dev.json
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\3\bin\Debug\netcoreapp2.1\Rabbits.dll
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\3\bin\Debug\netcoreapp2.1\Rabbits.pdb
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\3\obj\Debug\netcoreapp2.1\Rabbits.csprojAssemblyReference.cache
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\3\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfoInputs.cache
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\3\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfo.cs
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\3\obj\Debug\netcoreapp2.1\Rabbits.dll
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\3\obj\Debug\netcoreapp2.1\Rabbits.pdb

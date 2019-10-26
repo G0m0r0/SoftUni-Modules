@@ -1,0 +1,11 @@
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\1\bin\Debug\netcoreapp3.0\1.exe
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\1\bin\Debug\netcoreapp3.0\1.deps.json
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\1\bin\Debug\netcoreapp3.0\1.runtimeconfig.json
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\1\bin\Debug\netcoreapp3.0\1.runtimeconfig.dev.json
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\1\bin\Debug\netcoreapp3.0\1.dll
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\1\bin\Debug\netcoreapp3.0\1.pdb
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\1\obj\Debug\netcoreapp3.0\1.csprojAssemblyReference.cache
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\1\obj\Debug\netcoreapp3.0\1.AssemblyInfoInputs.cache
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\1\obj\Debug\netcoreapp3.0\1.AssemblyInfo.cs
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\1\obj\Debug\netcoreapp3.0\1.dll
+D:\Programming\Softuni\exams\C# Advance\myExam 26 October 2019\1\obj\Debug\netcoreapp3.0\1.pdb
