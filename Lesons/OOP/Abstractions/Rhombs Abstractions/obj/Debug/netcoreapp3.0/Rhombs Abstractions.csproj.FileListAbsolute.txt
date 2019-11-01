@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Rhombs Abstractions\bin\Debug\netcoreapp3.0\Rhombs Abstractions.exe
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Rhombs Abstractions\bin\Debug\netcoreapp3.0\Rhombs Abstractions.deps.json
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Rhombs Abstractions\bin\Debug\netcoreapp3.0\Rhombs Abstractions.runtimeconfig.json
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Rhombs Abstractions\bin\Debug\netcoreapp3.0\Rhombs Abstractions.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Rhombs Abstractions\bin\Debug\netcoreapp3.0\Rhombs Abstractions.dll
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Rhombs Abstractions\bin\Debug\netcoreapp3.0\Rhombs Abstractions.pdb
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Rhombs Abstractions\obj\Debug\netcoreapp3.0\Rhombs Abstractions.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Rhombs Abstractions\obj\Debug\netcoreapp3.0\Rhombs Abstractions.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Rhombs Abstractions\obj\Debug\netcoreapp3.0\Rhombs Abstractions.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Rhombs Abstractions\obj\Debug\netcoreapp3.0\Rhombs Abstractions.dll
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Rhombs Abstractions\obj\Debug\netcoreapp3.0\Rhombs Abstractions.pdb

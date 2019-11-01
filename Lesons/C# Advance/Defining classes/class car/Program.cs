@@ -14,9 +14,9 @@ namespace class_car
         public double FuelQuantity { get; set; }
         public double FuelConsumption { get; set; }
 
-        public Car(string name,string model)
+        public Car(string make,string model)
         {
-            this.Make = Make;
+            this.Make = make;
             this.Model = model;
             this.FuelConsumption = 12;
         }
