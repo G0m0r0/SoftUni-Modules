@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Enumerations\bin\Debug\netcoreapp3.0\Enumerations.exe
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Enumerations\bin\Debug\netcoreapp3.0\Enumerations.deps.json
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Enumerations\bin\Debug\netcoreapp3.0\Enumerations.runtimeconfig.json
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Enumerations\bin\Debug\netcoreapp3.0\Enumerations.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Enumerations\bin\Debug\netcoreapp3.0\Enumerations.dll
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Enumerations\bin\Debug\netcoreapp3.0\Enumerations.pdb
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Enumerations\obj\Debug\netcoreapp3.0\Enumerations.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Enumerations\obj\Debug\netcoreapp3.0\Enumerations.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Enumerations\obj\Debug\netcoreapp3.0\Enumerations.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Enumerations\obj\Debug\netcoreapp3.0\Enumerations.dll
+D:\Programming\Softuni\Lesons\OOP\Abstractions\Enumerations\obj\Debug\netcoreapp3.0\Enumerations.pdb
