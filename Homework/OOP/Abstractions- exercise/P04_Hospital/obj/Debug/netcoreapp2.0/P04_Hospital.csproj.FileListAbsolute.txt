@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.deps.json
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.json
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.dll
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.pdb
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csprojAssemblyReference.cache
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.dll
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.pdb

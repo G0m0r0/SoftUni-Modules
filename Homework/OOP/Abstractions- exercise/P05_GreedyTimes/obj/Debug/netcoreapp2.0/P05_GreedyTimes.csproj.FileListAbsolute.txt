@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.deps.json
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.runtimeconfig.json
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.dll
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.pdb
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.csprojAssemblyReference.cache
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.dll
+D:\Programming\Softuni\Homework\OOP\Abstractions- exercise\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.pdb
