@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\OOP\Inheritance\Polymorphism\bin\Debug\netcoreapp3.0\Inheritance folder.exe
+D:\Programming\Softuni\Lesons\OOP\Inheritance\Polymorphism\bin\Debug\netcoreapp3.0\Inheritance folder.deps.json
+D:\Programming\Softuni\Lesons\OOP\Inheritance\Polymorphism\bin\Debug\netcoreapp3.0\Inheritance folder.runtimeconfig.json
+D:\Programming\Softuni\Lesons\OOP\Inheritance\Polymorphism\bin\Debug\netcoreapp3.0\Inheritance folder.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\OOP\Inheritance\Polymorphism\bin\Debug\netcoreapp3.0\Inheritance folder.dll
+D:\Programming\Softuni\Lesons\OOP\Inheritance\Polymorphism\bin\Debug\netcoreapp3.0\Inheritance folder.pdb
+D:\Programming\Softuni\Lesons\OOP\Inheritance\Polymorphism\obj\Debug\netcoreapp3.0\Inheritance folder.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\OOP\Inheritance\Polymorphism\obj\Debug\netcoreapp3.0\Inheritance folder.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\OOP\Inheritance\Polymorphism\obj\Debug\netcoreapp3.0\Inheritance folder.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\OOP\Inheritance\Polymorphism\obj\Debug\netcoreapp3.0\Inheritance folder.dll
+D:\Programming\Softuni\Lesons\OOP\Inheritance\Polymorphism\obj\Debug\netcoreapp3.0\Inheritance folder.pdb

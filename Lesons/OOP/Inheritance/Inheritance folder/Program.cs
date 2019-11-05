@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Inheritance_folder.Animals;
+using System;
 
 namespace Inheritance_folder
 {
@@ -6,7 +7,15 @@ namespace Inheritance_folder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Animal animal = new Dog();
+            animal.Eat(); //we can access only eat
+           (animal as Dog).Bark(); //we can access and bark
+
+            Puppy animal2 = new Puppy();
+            animal2.Bark();
+
+            Cat animal3 = new Cat();
+            animal3.Meow();
         }
     }
 }

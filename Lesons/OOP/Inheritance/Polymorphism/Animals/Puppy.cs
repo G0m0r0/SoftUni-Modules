@@ -10,5 +10,9 @@ namespace Inheritance_folder.Animals
         {
 
         }
+        public override void Eat()
+        {
+            Console.WriteLine("Puppy is eating");
+        }
     }
 }

@@ -2,9 +2,15 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Inheritance_folder.Animal
+namespace Inheritance_folder.Animals
 {
-    class Animal
+    public class Animal
     {
+        public void Eat()
+        {
+
+        }
+            
+
     }
 }

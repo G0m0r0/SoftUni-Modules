@@ -4,11 +4,13 @@ using System.Text;
 
 namespace Inheritance_folder.Animals
 {
-    class Cat:Animal
+    public class Animal
     {
-        public void Meow()
+        public virtual void Eat()
         {
-
+            Console.WriteLine("Animal is eating");
         }
+            
+
     }
 }
