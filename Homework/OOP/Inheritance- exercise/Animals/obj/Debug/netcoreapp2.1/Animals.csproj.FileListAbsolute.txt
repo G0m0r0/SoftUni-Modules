@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Homework\OOP\Inheritance- exercise\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+D:\Programming\Softuni\Homework\OOP\Inheritance- exercise\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+D:\Programming\Softuni\Homework\OOP\Inheritance- exercise\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\OOP\Inheritance- exercise\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+D:\Programming\Softuni\Homework\OOP\Inheritance- exercise\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+D:\Programming\Softuni\Homework\OOP\Inheritance- exercise\Animals\obj\Debug\netcoreapp2.1\Animals.csprojAssemblyReference.cache
+D:\Programming\Softuni\Homework\OOP\Inheritance- exercise\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\OOP\Inheritance- exercise\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\OOP\Inheritance- exercise\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+D:\Programming\Softuni\Homework\OOP\Inheritance- exercise\Animals\obj\Debug\netcoreapp2.1\Animals.pdb
