@@ -4,11 +4,10 @@ using System.Text;
 
 namespace PlayersAndMonsters
 {
-    public class Knight:Hero
+    public class Knight : Hero
     {
-        public Knight(string name,int level):base(name,level)
+        public Knight(string username, int level) : base(username, level)
         {
-
         }
     }
 }
