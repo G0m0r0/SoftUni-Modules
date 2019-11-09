@@ -1,0 +1,11 @@
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- lab\1. PersonsInfo\PersonsInfo\bin\Debug\netcoreapp3.0\PersonsInfo.exe
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- lab\1. PersonsInfo\PersonsInfo\bin\Debug\netcoreapp3.0\PersonsInfo.deps.json
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- lab\1. PersonsInfo\PersonsInfo\bin\Debug\netcoreapp3.0\PersonsInfo.runtimeconfig.json
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- lab\1. PersonsInfo\PersonsInfo\bin\Debug\netcoreapp3.0\PersonsInfo.runtimeconfig.dev.json
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- lab\1. PersonsInfo\PersonsInfo\bin\Debug\netcoreapp3.0\PersonsInfo.dll
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- lab\1. PersonsInfo\PersonsInfo\bin\Debug\netcoreapp3.0\PersonsInfo.pdb
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- lab\1. PersonsInfo\PersonsInfo\obj\Debug\netcoreapp3.0\PersonsInfo.csprojAssemblyReference.cache
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- lab\1. PersonsInfo\PersonsInfo\obj\Debug\netcoreapp3.0\PersonsInfo.AssemblyInfoInputs.cache
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- lab\1. PersonsInfo\PersonsInfo\obj\Debug\netcoreapp3.0\PersonsInfo.AssemblyInfo.cs
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- lab\1. PersonsInfo\PersonsInfo\obj\Debug\netcoreapp3.0\PersonsInfo.dll
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- lab\1. PersonsInfo\PersonsInfo\obj\Debug\netcoreapp3.0\PersonsInfo.pdb

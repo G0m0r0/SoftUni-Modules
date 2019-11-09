@@ -1,0 +1,11 @@
+E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\CapsulateCollection\bin\Debug\netcoreapp2.1\CapsulateCollection.deps.json
+E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\CapsulateCollection\bin\Debug\netcoreapp2.1\CapsulateCollection.runtimeconfig.json
+E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\CapsulateCollection\bin\Debug\netcoreapp2.1\CapsulateCollection.runtimeconfig.dev.json
+E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\CapsulateCollection\bin\Debug\netcoreapp2.1\CapsulateCollection.dll
+E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\CapsulateCollection\bin\Debug\netcoreapp2.1\CapsulateCollection.pdb
+E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\CapsulateCollection\obj\Debug\netcoreapp2.1\CapsulateCollection.csprojAssemblyReference.cache
+E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\CapsulateCollection\obj\Debug\netcoreapp2.1\CapsulateCollection.csproj.CoreCompileInputs.cache
+E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\CapsulateCollection\obj\Debug\netcoreapp2.1\CapsulateCollection.AssemblyInfoInputs.cache
+E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\CapsulateCollection\obj\Debug\netcoreapp2.1\CapsulateCollection.AssemblyInfo.cs
+E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\CapsulateCollection\obj\Debug\netcoreapp2.1\CapsulateCollection.dll
+E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\CapsulateCollection\obj\Debug\netcoreapp2.1\CapsulateCollection.pdb

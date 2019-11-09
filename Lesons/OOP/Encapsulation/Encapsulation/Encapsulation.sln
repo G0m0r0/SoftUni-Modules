@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29424.173
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation.csproj", "{E0F00662-67CB-403C-91A3-F88A19302080}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation.csproj", "{E0F00662-67CB-403C-91A3-F88A19302080}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "..\ClassLibrary1\ClassLibrary1.csproj", "{146CA72F-A748-42CD-815E-A56DD679AFA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary1", "..\ClassLibrary1\ClassLibrary1.csproj", "{146CA72F-A748-42CD-815E-A56DD679AFA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapsulateCollection", "..\CapsulateCollection\CapsulateCollection.csproj", "{8E12DF23-3279-4A47-A8FC-895CBA904AA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{146CA72F-A748-42CD-815E-A56DD679AFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{146CA72F-A748-42CD-815E-A56DD679AFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{146CA72F-A748-42CD-815E-A56DD679AFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E12DF23-3279-4A47-A8FC-895CBA904AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E12DF23-3279-4A47-A8FC-895CBA904AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E12DF23-3279-4A47-A8FC-895CBA904AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E12DF23-3279-4A47-A8FC-895CBA904AA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
