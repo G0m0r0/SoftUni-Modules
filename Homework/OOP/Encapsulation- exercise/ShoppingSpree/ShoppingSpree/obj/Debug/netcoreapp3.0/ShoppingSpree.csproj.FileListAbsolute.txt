@@ -1,0 +1,11 @@
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ShoppingSpree\ShoppingSpree\bin\Debug\netcoreapp3.0\ShoppingSpree.exe
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ShoppingSpree\ShoppingSpree\bin\Debug\netcoreapp3.0\ShoppingSpree.deps.json
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ShoppingSpree\ShoppingSpree\bin\Debug\netcoreapp3.0\ShoppingSpree.runtimeconfig.json
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ShoppingSpree\ShoppingSpree\bin\Debug\netcoreapp3.0\ShoppingSpree.runtimeconfig.dev.json
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ShoppingSpree\ShoppingSpree\bin\Debug\netcoreapp3.0\ShoppingSpree.dll
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ShoppingSpree\ShoppingSpree\bin\Debug\netcoreapp3.0\ShoppingSpree.pdb
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ShoppingSpree\ShoppingSpree\obj\Debug\netcoreapp3.0\ShoppingSpree.csprojAssemblyReference.cache
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ShoppingSpree\ShoppingSpree\obj\Debug\netcoreapp3.0\ShoppingSpree.AssemblyInfoInputs.cache
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ShoppingSpree\ShoppingSpree\obj\Debug\netcoreapp3.0\ShoppingSpree.AssemblyInfo.cs
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ShoppingSpree\ShoppingSpree\obj\Debug\netcoreapp3.0\ShoppingSpree.dll
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ShoppingSpree\ShoppingSpree\obj\Debug\netcoreapp3.0\ShoppingSpree.pdb

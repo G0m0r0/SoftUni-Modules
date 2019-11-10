@@ -1,0 +1,11 @@
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.exe
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.deps.json
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.runtimeconfig.json
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.runtimeconfig.dev.json
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.dll
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.pdb
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.csprojAssemblyReference.cache
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.AssemblyInfoInputs.cache
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.AssemblyInfo.cs
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.dll
+E:\Delyan\Programing\Softuni\Homework\OOP\Encapsulation- exercise\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.pdb
