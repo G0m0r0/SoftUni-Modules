@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Homework\OOP\Encapsulation- exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.exe
+D:\Programming\Softuni\Homework\OOP\Encapsulation- exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.deps.json
+D:\Programming\Softuni\Homework\OOP\Encapsulation- exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.runtimeconfig.json
+D:\Programming\Softuni\Homework\OOP\Encapsulation- exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\OOP\Encapsulation- exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.dll
+D:\Programming\Softuni\Homework\OOP\Encapsulation- exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.pdb
+D:\Programming\Softuni\Homework\OOP\Encapsulation- exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.csprojAssemblyReference.cache
+D:\Programming\Softuni\Homework\OOP\Encapsulation- exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\OOP\Encapsulation- exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\OOP\Encapsulation- exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.dll
+D:\Programming\Softuni\Homework\OOP\Encapsulation- exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.pdb
