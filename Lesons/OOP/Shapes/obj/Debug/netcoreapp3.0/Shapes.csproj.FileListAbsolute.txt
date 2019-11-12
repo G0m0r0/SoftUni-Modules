@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\OOP\Shapes\bin\Debug\netcoreapp3.0\Shapes.exe
+D:\Programming\Softuni\Lesons\OOP\Shapes\bin\Debug\netcoreapp3.0\Shapes.deps.json
+D:\Programming\Softuni\Lesons\OOP\Shapes\bin\Debug\netcoreapp3.0\Shapes.runtimeconfig.json
+D:\Programming\Softuni\Lesons\OOP\Shapes\bin\Debug\netcoreapp3.0\Shapes.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\OOP\Shapes\bin\Debug\netcoreapp3.0\Shapes.dll
+D:\Programming\Softuni\Lesons\OOP\Shapes\bin\Debug\netcoreapp3.0\Shapes.pdb
+D:\Programming\Softuni\Lesons\OOP\Shapes\obj\Debug\netcoreapp3.0\Shapes.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\OOP\Shapes\obj\Debug\netcoreapp3.0\Shapes.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\OOP\Shapes\obj\Debug\netcoreapp3.0\Shapes.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\OOP\Shapes\obj\Debug\netcoreapp3.0\Shapes.dll
+D:\Programming\Softuni\Lesons\OOP\Shapes\obj\Debug\netcoreapp3.0\Shapes.pdb
