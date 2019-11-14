@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Softuni\\Homework\\C# Advance\\interators and comparators- exercise\\1. ListyIterator\\InteratorsAndComperators\\InteratorsAndComperators.csproj",
+      "projectUniqueName": "D:\\Programming\\Softuni\\Homework\\C# Advance\\Interators and comparators- exercise\\1,2. ListyIterator\\InteratorsAndComperators\\InteratorsAndComperators.csproj",
       "projectName": "InteratorsAndComperators",
-      "projectPath": "D:\\Programming\\Softuni\\Homework\\C# Advance\\interators and comparators- exercise\\1. ListyIterator\\InteratorsAndComperators\\InteratorsAndComperators.csproj",
+      "projectPath": "D:\\Programming\\Softuni\\Homework\\C# Advance\\Interators and comparators- exercise\\1,2. ListyIterator\\InteratorsAndComperators\\InteratorsAndComperators.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Softuni\\Homework\\C# Advance\\interators and comparators- exercise\\1. ListyIterator\\InteratorsAndComperators\\obj\\",
+      "outputPath": "D:\\Programming\\Softuni\\Homework\\C# Advance\\Interators and comparators- exercise\\1,2. ListyIterator\\InteratorsAndComperators\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
