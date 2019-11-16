@@ -4,14 +4,17 @@ using System.Text;
 
 namespace BorderControl
 {
-    public class Person : IPerson
+    public class Person : ICitizen
     {
-        public Person(string name,int age)
+        public Person(string name,int age,string id)
         {
             this.Name = name;
             this.Age = age;
+            this.ID = id;
         }
-        public string Name { get; set; }
-        public int Age { get; set; }
+        public string Name { get;  }
+        public int Age { get;  }
+
+        public string ID { get; }
     }
 }

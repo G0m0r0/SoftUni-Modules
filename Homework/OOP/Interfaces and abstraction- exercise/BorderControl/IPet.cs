@@ -4,10 +4,7 @@ using System.Text;
 
 namespace BorderControl
 {
-    public interface IPerson:ICitizen
+    interface IPet
     {
-        public string Name { get;  }
-        public int Age { get;  }
-
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace BorderControl
 {
@@ -7,6 +8,7 @@ namespace BorderControl
         public static void Main(string[] args)
         {
             string input = string.Empty;
+
             Citizen citizen = new Citizen();
             while ((input=Console.ReadLine())!="End")
             {
@@ -15,21 +17,22 @@ namespace BorderControl
                 {
                     string model = tokens[0];
                     string id = tokens[1];
-                    Robot robot = new Robot(model, id);
-                    citizen.AddRobot(robot);
+                    ICitizen robot = new Robot(model, id);
+                    citizen.AddCitizen(robot);
+
                 }
                 else
                 {
                     string name = tokens[0];
                     int age = int.Parse(tokens[1]);
                     string id = tokens[2];
-                    Person person = new Person(name, age, id);
-                    citizen.AddPerson(person);
+                    ICitizen person = new Person(name, age, id);
+                    citizen.AddCitizen(person);
                 }
             }
 
             string idToDetaind = Console.ReadLine();
-            citizen.PrintDetainCitizen(idToDetaind);
+            citizen.PrintDetainedIds(idToDetaind);
         }
     }
 }

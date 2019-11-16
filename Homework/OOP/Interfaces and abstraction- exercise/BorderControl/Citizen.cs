@@ -7,37 +7,23 @@ namespace BorderControl
 {
     public class Citizen
     {
-        public Citizen(string id)
+        public Citizen()
         {
-            this.Persons = new List<Person>();
-            this.Robots = new List<Robot>();
-            this.Id = id;
+            this.Citizens = new List<ICitizen>();
         }
-        private List<Person> Persons;
-        private List<Robot> Robots;
-        public string Id { get; set; }
+        private List<ICitizen> Citizens;
 
-        public void AddPerson(Person person)
+        public void AddCitizen(ICitizen citizen)
         {
-            this.Persons.Add(person);
-        }
-        public void AddRobot(Robot robot)
-        {
-            this.Robots.Add(robot);
+            this.Citizens.Add(citizen);
         }
 
-        public void PrintDetainCitizen(string id)
+        public void PrintDetainedIds(string id)
         {
-            foreach (var person in this.Persons)
+            foreach (var citizen in this.Citizens)
             {
-                if (person.Id.EndsWith(id))
-                    Console.WriteLine(person.Id);
-            }
-
-            foreach (var robot in this.Robots)
-            {
-                if(robot.Id.EndsWith(id))
-                    Console.WriteLine(robot.Id);
+                if(citizen.ID.EndsWith(id))
+                Console.WriteLine(citizen.ID);
             }
         }
     }

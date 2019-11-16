@@ -4,9 +4,9 @@ using System.Text;
 
 namespace BorderControl
 {
-    public interface IRobot
+    public interface IRobot:ICitizen
     {
-        public string Model { get; set; }
+        public string Model { get;  }
 
     }
 }

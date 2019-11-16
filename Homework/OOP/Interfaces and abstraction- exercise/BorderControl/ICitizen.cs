@@ -4,10 +4,8 @@ using System.Text;
 
 namespace BorderControl
 {
-    public interface IPerson:ICitizen
+    public interface ICitizen
     {
-        public string Name { get;  }
-        public int Age { get;  }
-
+        public string ID { get; }
     }
 }

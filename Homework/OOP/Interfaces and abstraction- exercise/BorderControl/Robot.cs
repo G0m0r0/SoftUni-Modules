@@ -6,10 +6,13 @@ namespace BorderControl
 {
     public class Robot:IRobot
     {
-        public Robot(string model)
+        public Robot(string model,string id)
         {
             this.Model = model;
-    }
-        public string Model { get; set; }
+            this.ID = id;
+        }
+        public string Model { get; }
+
+        public string ID { get; }
     }
 }
