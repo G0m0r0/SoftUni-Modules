@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Softuni\\Homework\\C# Advance\\Generics- exercise\\1. Generic Box of String\\Genericsa\\Genericsa.csproj": {}
+    "D:\\Programming\\Softuni\\Homework\\C# Advance\\Generics- exercise\\1,2 Generic Box of String and int\\Genericsa\\Genericsa.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Softuni\\Homework\\C# Advance\\Generics- exercise\\1. Generic Box of String\\Genericsa\\Genericsa.csproj": {
+    "D:\\Programming\\Softuni\\Homework\\C# Advance\\Generics- exercise\\1,2 Generic Box of String and int\\Genericsa\\Genericsa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Softuni\\Homework\\C# Advance\\Generics- exercise\\1. Generic Box of String\\Genericsa\\Genericsa.csproj",
+        "projectUniqueName": "D:\\Programming\\Softuni\\Homework\\C# Advance\\Generics- exercise\\1,2 Generic Box of String and int\\Genericsa\\Genericsa.csproj",
         "projectName": "Genericsa",
-        "projectPath": "D:\\Programming\\Softuni\\Homework\\C# Advance\\Generics- exercise\\1. Generic Box of String\\Genericsa\\Genericsa.csproj",
+        "projectPath": "D:\\Programming\\Softuni\\Homework\\C# Advance\\Generics- exercise\\1,2 Generic Box of String and int\\Genericsa\\Genericsa.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Softuni\\Homework\\C# Advance\\Generics- exercise\\1. Generic Box of String\\Genericsa\\obj\\",
+        "outputPath": "D:\\Programming\\Softuni\\Homework\\C# Advance\\Generics- exercise\\1,2 Generic Box of String and int\\Genericsa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
