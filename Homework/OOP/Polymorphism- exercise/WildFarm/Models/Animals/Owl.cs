@@ -15,5 +15,9 @@ namespace WildFarm.Models.Animals
         {
             Console.WriteLine("Hoot Hoot");
         }
+        public override void EatFood(Food food)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

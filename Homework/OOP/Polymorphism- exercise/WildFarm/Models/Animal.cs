@@ -20,5 +20,7 @@ namespace WildFarm.Models
         {
             Console.WriteLine("Animal ask for food");
         }
+
+        public abstract void EatFood(Food food);
     }
 }

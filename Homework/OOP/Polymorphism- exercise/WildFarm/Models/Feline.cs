@@ -12,5 +12,6 @@ namespace WildFarm.Models
             this.Breed = breed;
         }
         protected string Breed { get; set; }
+
     }
 }

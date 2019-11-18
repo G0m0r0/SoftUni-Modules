@@ -12,6 +12,6 @@ namespace WildFarm.Models
         }
 
         public double WingSize { get; set; }
-
+       
     }
 }
