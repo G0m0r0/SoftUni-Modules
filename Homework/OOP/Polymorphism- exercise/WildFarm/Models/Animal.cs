@@ -6,21 +6,21 @@ namespace WildFarm.Models
 {
     public abstract class Animal
     {
-        public Animal(string name,double weight,int foodEaten)
+        public Animal(string name,double weight)
         {
             this.Name = name;
             this.Weight = weight;
-            this.FoodEaten = foodEaten;
+            this.FoodEaten = 0;
         }
         protected string Name { get; set; }
         protected double Weight { get; set; }
         protected int FoodEaten { get; set; }
 
-        public virtual void AskForFood()
-        {
-            Console.WriteLine("Animal ask for food");
-        }
+        public abstract void AskForFood();
 
-        public abstract void EatFood(Food food);
+        protected abstract double WeightMultiplier { get; }
+        protected abstract ICollection<string> AllowedFood { get; }
+        public abstract void Eat(Food food);
+         
     }
 }

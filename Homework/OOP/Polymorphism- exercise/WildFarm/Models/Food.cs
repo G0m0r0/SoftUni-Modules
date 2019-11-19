@@ -10,6 +10,6 @@ namespace WildFarm.Models
         {
             this.Quantity = quantity;
         }
-        protected int Quantity { get; set; }
+        public int Quantity { get;set; }
     }
 }

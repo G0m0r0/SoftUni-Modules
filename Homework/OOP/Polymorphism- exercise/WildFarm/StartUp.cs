@@ -50,33 +50,34 @@ namespace WildFarm
                 {
                     case "Owl":
                         double wingsSize = double.Parse(args[3]);
-                        animal = new Owl(name, weight, foodQuanity, wingsSize);
+                        animal = new Owl(name, weight, wingsSize);
                         break;
                     case "Hen":
                         wingsSize = double.Parse(args[3]);
-                        animal = new Hen(name, weight, foodQuanity, wingsSize);
+                        animal = new Hen(name, weight, wingsSize);
                         break;
                     case "Mouse":
                         string livingRegion = args[3];
-                        animal = new Mouse(name, weight, foodQuanity, livingRegion);
+                        animal = new Mouse(name, weight, livingRegion);
                         break;
                     case "Dog":
                         livingRegion = args[3];
-                        animal = new Dog(name, weight, foodQuanity, livingRegion);
+                        animal = new Dog(name, weight, livingRegion);
                         break;
                     case "Cat":
                         livingRegion = args[3];
                         string breed = args[4];
-                        animal = new Cat(name, weight, foodQuanity, livingRegion, breed);
+                        animal = new Cat(name, weight, livingRegion, breed);
                         break;
                     case "Tiger":
                         livingRegion = args[3];
                         breed = args[4];
-                        animal = new Tiger(name, weight, foodQuanity, livingRegion, breed);
+                        animal = new Tiger(name, weight, livingRegion, breed);
                         break;
                 }
 
-                animal.EatFood(food);
+                animal.Eat(food);
+                Console.WriteLine();
                 animals.Add(animal);
             }
         }

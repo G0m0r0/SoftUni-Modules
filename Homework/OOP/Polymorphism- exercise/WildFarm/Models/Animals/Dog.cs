@@ -6,19 +6,33 @@ namespace WildFarm.Models.Animals
 {
     public class Dog : Mammal
     {
-        public Dog(string name, double weight, int foodEaten, string livingRegion) 
-            : base(name, weight, foodEaten, livingRegion)
+        private const double DogWeight = 0.4;
+        public Dog(string name, double weight, string livingRegion) 
+            : base(name, weight, livingRegion)
         {
+            this.AllowedFood = new List<string>
+            {
+                "Meat"
+            };
         }
+
+        protected override double WeightMultiplier => DogWeight;
+
+        protected override ICollection<string> AllowedFood { get; }
 
         public override void AskForFood()
         {
             Console.WriteLine("Woof!");
         }
 
-        public override void EatFood(Food food)
+        public override void Eat(Food food)
         {
-            throw new NotImplementedException();
+            if (!this.AllowedFood.Contains(food.GetType().Name))
+            {
+                throw new Exception($"{nameof(Dog)} does not eat {typeof(Food)}!");
+            }
+
+            this.Weight += this.WeightMultiplier * food.Quantity;
         }
     }
 }
