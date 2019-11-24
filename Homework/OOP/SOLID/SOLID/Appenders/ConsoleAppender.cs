@@ -6,18 +6,20 @@ using System.Text;
 
 namespace SOLID.Appenders
 {
-    class ConsoleAppender : IAppender
+    class ConsoleAppender : Appender
     {
         public ConsoleAppender(ILayout layout)
+            :base(layout)
         {
-            this.Layout = layout;
         }
 
-        public ILayout Layout { get; }
-
-        public void Append(string dateTime,LogLevel logLevel,string message)
+        public override void Append(string dateTime, ReportLevel reportLevel, string message)
         {
-            Console.WriteLine(this.Layout.Format,dateTime,logLevel,message);
+            if (reportLevel >= this.ReportLevel)
+            {
+                Console.WriteLine(this.Layout.Format, dateTime, reportLevel, message);
+                this.counter++;
+            }
         }
     }
 }

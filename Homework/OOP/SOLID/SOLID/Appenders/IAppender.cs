@@ -7,6 +7,8 @@ namespace SOLID.Appenders
     {
         public ILayout Layout { get; }
 
-        void Append(string dateTime,LogLevel logLevel, string message);
+        void Append(string dateTime,ReportLevel reportLevel, string message);
+
+        public ReportLevel ReportLevel { get; set; }
     }
 }

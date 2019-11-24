@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Delyan\\Programing\\Softuni\\Homework\\OOP\\Encapsulation- lab\\2. Salary\\PersonsInfo\\PersonsInfo.csproj": {}
+    "D:\\Programming\\Softuni\\Homework\\OOP\\Encapsulation- lab\\2. Salary\\PersonsInfo\\PersonsInfo.csproj": {}
   },
   "projects": {
-    "E:\\Delyan\\Programing\\Softuni\\Homework\\OOP\\Encapsulation- lab\\2. Salary\\PersonsInfo\\PersonsInfo.csproj": {
+    "D:\\Programming\\Softuni\\Homework\\OOP\\Encapsulation- lab\\2. Salary\\PersonsInfo\\PersonsInfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Delyan\\Programing\\Softuni\\Homework\\OOP\\Encapsulation- lab\\2. Salary\\PersonsInfo\\PersonsInfo.csproj",
+        "projectUniqueName": "D:\\Programming\\Softuni\\Homework\\OOP\\Encapsulation- lab\\2. Salary\\PersonsInfo\\PersonsInfo.csproj",
         "projectName": "PersonsInfo",
-        "projectPath": "E:\\Delyan\\Programing\\Softuni\\Homework\\OOP\\Encapsulation- lab\\2. Salary\\PersonsInfo\\PersonsInfo.csproj",
+        "projectPath": "D:\\Programming\\Softuni\\Homework\\OOP\\Encapsulation- lab\\2. Salary\\PersonsInfo\\PersonsInfo.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "E:\\Delyan\\Programing\\Softuni\\Homework\\OOP\\Encapsulation- lab\\2. Salary\\PersonsInfo\\obj\\",
+        "outputPath": "D:\\Programming\\Softuni\\Homework\\OOP\\Encapsulation- lab\\2. Salary\\PersonsInfo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

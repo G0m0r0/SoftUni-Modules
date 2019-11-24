@@ -17,6 +17,7 @@ namespace SOLID.Loggers
 
         public int Size => File
             .ReadAllText(LogFilePath)
+            .Replace(" ", "")
             .Where(c => char.IsLetter(c))
             .Sum(x => x);
 

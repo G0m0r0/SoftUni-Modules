@@ -4,20 +4,28 @@ using SOLID.Loggers;
 
 namespace SOLID.Appenders
 {
-    class FileAppender:IAppender
+    class FileAppender : Appender
     {
-        public FileAppender(ILayout layout,LogFile logFile)
+        public FileAppender(ILayout layout, ILogFile logFile):base(layout)
         {
-            this.Layout = layout;
             this.LogFile = logFile;
         }
 
-        public ILayout Layout { get; }
         public ILogFile LogFile { get; }
+       // public ReportLevel ReportLevel { get; set; }
 
-        public void Append(string dateTime, LogLevel logLevel, string message)
+        public override void Append(string dateTime, ReportLevel reportLevel, string message)
         {
-            this.LogFile.Write(string.Format(this.Layout.Format,dateTime,logLevel,message));
+            if (reportLevel >= this.ReportLevel)
+            {
+                this.LogFile.Write(string.Format(this.Layout.Format, dateTime, reportLevel, message));
+                this.counter++;
+            }
+        }
+
+        public override string ToString()
+        {
+            return base.ToString()+ $" File size: {this.LogFile.Size}";
         }
     }
 }

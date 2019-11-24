@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Delyan\\Programing\\Softuni\\Homework\\OOP\\Encapsulation- exercise\\ClassBoxData\\ClassBoxData\\ClassBoxData.csproj",
+      "projectUniqueName": "D:\\Programming\\Softuni\\Homework\\OOP\\Encapsulation- exercise\\ClassBoxData\\ClassBoxData\\ClassBoxData.csproj",
       "projectName": "ClassBoxData",
-      "projectPath": "E:\\Delyan\\Programing\\Softuni\\Homework\\OOP\\Encapsulation- exercise\\ClassBoxData\\ClassBoxData\\ClassBoxData.csproj",
+      "projectPath": "D:\\Programming\\Softuni\\Homework\\OOP\\Encapsulation- exercise\\ClassBoxData\\ClassBoxData\\ClassBoxData.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "E:\\Delyan\\Programing\\Softuni\\Homework\\OOP\\Encapsulation- exercise\\ClassBoxData\\ClassBoxData\\obj\\",
+      "outputPath": "D:\\Programming\\Softuni\\Homework\\OOP\\Encapsulation- exercise\\ClassBoxData\\ClassBoxData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
