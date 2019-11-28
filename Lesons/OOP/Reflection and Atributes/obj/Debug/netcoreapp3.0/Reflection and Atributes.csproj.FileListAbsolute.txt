@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\OOP\Reflection and Atributes\bin\Debug\netcoreapp3.0\Reflection and Atributes.exe
+D:\Programming\Softuni\Lesons\OOP\Reflection and Atributes\bin\Debug\netcoreapp3.0\Reflection and Atributes.deps.json
+D:\Programming\Softuni\Lesons\OOP\Reflection and Atributes\bin\Debug\netcoreapp3.0\Reflection and Atributes.runtimeconfig.json
+D:\Programming\Softuni\Lesons\OOP\Reflection and Atributes\bin\Debug\netcoreapp3.0\Reflection and Atributes.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\OOP\Reflection and Atributes\bin\Debug\netcoreapp3.0\Reflection and Atributes.dll
+D:\Programming\Softuni\Lesons\OOP\Reflection and Atributes\bin\Debug\netcoreapp3.0\Reflection and Atributes.pdb
+D:\Programming\Softuni\Lesons\OOP\Reflection and Atributes\obj\Debug\netcoreapp3.0\Reflection and Atributes.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\OOP\Reflection and Atributes\obj\Debug\netcoreapp3.0\Reflection and Atributes.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\OOP\Reflection and Atributes\obj\Debug\netcoreapp3.0\Reflection and Atributes.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\OOP\Reflection and Atributes\obj\Debug\netcoreapp3.0\Reflection and Atributes.dll
+D:\Programming\Softuni\Lesons\OOP\Reflection and Atributes\obj\Debug\netcoreapp3.0\Reflection and Atributes.pdb
