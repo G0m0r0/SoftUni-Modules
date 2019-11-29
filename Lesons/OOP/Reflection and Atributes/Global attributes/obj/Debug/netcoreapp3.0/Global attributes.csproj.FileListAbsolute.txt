@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\OOP\Global attributes\obj\Debug\netcoreapp3.0\Global attributes.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\OOP\Global attributes\obj\Debug\netcoreapp3.0\Global attributes.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\OOP\Global attributes\obj\Debug\netcoreapp3.0\Global attributes.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\OOP\Global attributes\bin\Debug\netcoreapp3.0\Global attributes.exe
+D:\Programming\Softuni\Lesons\OOP\Global attributes\bin\Debug\netcoreapp3.0\Global attributes.deps.json
+D:\Programming\Softuni\Lesons\OOP\Global attributes\bin\Debug\netcoreapp3.0\Global attributes.runtimeconfig.json
+D:\Programming\Softuni\Lesons\OOP\Global attributes\bin\Debug\netcoreapp3.0\Global attributes.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\OOP\Global attributes\bin\Debug\netcoreapp3.0\Global attributes.dll
+D:\Programming\Softuni\Lesons\OOP\Global attributes\bin\Debug\netcoreapp3.0\Global attributes.pdb
+D:\Programming\Softuni\Lesons\OOP\Global attributes\obj\Debug\netcoreapp3.0\Global attributes.dll
+D:\Programming\Softuni\Lesons\OOP\Global attributes\obj\Debug\netcoreapp3.0\Global attributes.pdb
