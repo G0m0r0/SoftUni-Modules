@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Lesons\OOP\Debugging techniques\bin\Debug\netcoreapp3.0\Debugging techniques.exe
+D:\Programming\Softuni\Lesons\OOP\Debugging techniques\bin\Debug\netcoreapp3.0\Debugging techniques.deps.json
+D:\Programming\Softuni\Lesons\OOP\Debugging techniques\bin\Debug\netcoreapp3.0\Debugging techniques.runtimeconfig.json
+D:\Programming\Softuni\Lesons\OOP\Debugging techniques\bin\Debug\netcoreapp3.0\Debugging techniques.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\OOP\Debugging techniques\bin\Debug\netcoreapp3.0\Debugging techniques.dll
+D:\Programming\Softuni\Lesons\OOP\Debugging techniques\bin\Debug\netcoreapp3.0\Debugging techniques.pdb
+D:\Programming\Softuni\Lesons\OOP\Debugging techniques\obj\Debug\netcoreapp3.0\Debugging techniques.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\OOP\Debugging techniques\obj\Debug\netcoreapp3.0\Debugging techniques.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\OOP\Debugging techniques\obj\Debug\netcoreapp3.0\Debugging techniques.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\OOP\Debugging techniques\obj\Debug\netcoreapp3.0\Debugging techniques.dll
+D:\Programming\Softuni\Lesons\OOP\Debugging techniques\obj\Debug\netcoreapp3.0\Debugging techniques.pdb

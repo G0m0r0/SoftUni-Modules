@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Debugging techniques 2/1.0.0": {
+        "runtime": {
+          "Debugging techniques 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Debugging techniques 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
