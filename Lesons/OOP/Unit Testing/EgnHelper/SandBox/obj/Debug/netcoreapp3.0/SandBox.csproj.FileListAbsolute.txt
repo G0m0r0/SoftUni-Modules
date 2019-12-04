@@ -1,0 +1,14 @@
+D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\SandBox\bin\Debug\netcoreapp3.0\SandBox.exe
+D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\SandBox\bin\Debug\netcoreapp3.0\SandBox.deps.json
+D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\SandBox\bin\Debug\netcoreapp3.0\SandBox.runtimeconfig.json
+D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\SandBox\bin\Debug\netcoreapp3.0\SandBox.runtimeconfig.dev.json
+D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\SandBox\bin\Debug\netcoreapp3.0\SandBox.dll
+D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\SandBox\bin\Debug\netcoreapp3.0\SandBox.pdb
+D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\SandBox\bin\Debug\netcoreapp3.0\EgnHelper.dll
+D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\SandBox\bin\Debug\netcoreapp3.0\EgnHelper.pdb
+D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\SandBox\obj\Debug\netcoreapp3.0\SandBox.csprojAssemblyReference.cache
+D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\SandBox\obj\Debug\netcoreapp3.0\SandBox.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\SandBox\obj\Debug\netcoreapp3.0\SandBox.AssemblyInfo.cs
+D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\SandBox\obj\Debug\netcoreapp3.0\SandBox.csproj.CopyComplete
+D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\SandBox\obj\Debug\netcoreapp3.0\SandBox.dll
+D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\SandBox\obj\Debug\netcoreapp3.0\SandBox.pdb
