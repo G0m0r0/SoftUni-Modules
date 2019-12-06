@@ -1,0 +1,16 @@
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.deps.json
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.runtimeconfig.json
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.runtimeconfig.dev.json
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.dll
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.pdb
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.csprojAssemblyReference.cache
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.AssemblyInfo.cs
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.dll
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.pdb
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.dll
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.pdb
+D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.csproj.CopyComplete

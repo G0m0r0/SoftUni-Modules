@@ -3,5 +3,5 @@
     int AttackPoints { get; }
     int DurabilityPoints { get; }
 
-    void Attack(Dummy target);
+    void Attack(ITarget target);
 }

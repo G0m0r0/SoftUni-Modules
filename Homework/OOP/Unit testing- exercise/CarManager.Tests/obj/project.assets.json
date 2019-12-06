@@ -1640,6 +1640,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "CarManager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/CarManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarManager.dll": {}
+        }
       }
     }
   },
@@ -5750,10 +5760,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "CarManager/1.0.0": {
+      "type": "project",
+      "path": "../CarManager/CarManager.csproj",
+      "msbuildProject": "../CarManager/CarManager.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "CarManager >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "NUnit3TestAdapter >= 3.9.0",
@@ -5789,7 +5805,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Programming\\Softuni\\Homework\\OOP\\Unit testing- exercise\\CarManager\\CarManager.csproj": {
+              "projectPath": "D:\\Programming\\Softuni\\Homework\\OOP\\Unit testing- exercise\\CarManager\\CarManager.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1640,6 +1640,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "DatabaseExtended/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/DatabaseExtended.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DatabaseExtended.dll": {}
+        }
       }
     }
   },
@@ -5750,10 +5760,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "DatabaseExtended/1.0.0": {
+      "type": "project",
+      "path": "../DatabaseExtended/DatabaseExtended.csproj",
+      "msbuildProject": "../DatabaseExtended/DatabaseExtended.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "DatabaseExtended >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "NUnit3TestAdapter >= 3.9.0",
@@ -5789,7 +5805,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Programming\\Softuni\\Homework\\OOP\\Unit testing- exercise\\DatabaseExtended\\DatabaseExtended.csproj": {
+              "projectPath": "D:\\Programming\\Softuni\\Homework\\OOP\\Unit testing- exercise\\DatabaseExtended\\DatabaseExtended.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
