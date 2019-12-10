@@ -54,27 +54,71 @@ namespace Tests
         }
 
         [Test]
-        public void ThrowExceptionForAttackingUnderMinimumHP()
+        public void ThrowExceptionForAttackingUnderMinimumHPFirstWorrior()          
         {
-            var name = "Ivan";
-            var damage = 100;
-            var hp = 10;
+            var warrior1 = new Warrior("Ivan1", 10, 10);
+            var warrior2 = new Warrior("Ivan2", 50, 50);
+            //Assert.Multiple(() =>
+            //{
+            //    Assert.AreEqual(5.2, result.RealPart, "Real part");
+            //    Assert.AreEqual(3.9, result.ImaginaryPart, "Imaginary part");
+            //});
+            Assert.Throws<InvalidOperationException>(() => warrior1.Attack(warrior2));
+        }
+        [Test]
+        public void ThrowExceptionForAttackingUnderMinimumHPSecondWorrior()
+        {
+            var warrior1 = new Warrior("Ivan1", 50, 50);
+            var warrior2 = new Warrior("Ivan2", 50, 10);
 
-            var warrior = new Warrior(name, damage, hp);
-
-            Assert.Throws<InvalidOperationException>(() => warrior.Attack(warrior));
+            Assert.Throws<InvalidOperationException>(() => warrior1.Attack(warrior2));
         }
 
-      //[Test]
-      //public void ThrowExceptionForAttackingEnemyUnderMinimumHP()
-      //{
-      //    var name = "me";
-      //    var damage = 10;
-      //    var hp = 100;
-      //
-      //    var warrior = new Warrior(name, damage, hp);
-      //
-      //    Assert.Throws<InvalidOperationException>(() => warrior.Attack(warrior));
-      //}
+        [Test]
+        public void TestIfWorriorFirstHpIsLessThanWorriorHpSecond()
+        {
+            var warrior1 = new Warrior("Ivan1", 50, 50);
+            var warrior2 = new Warrior("Ivan2", 500, 50);
+
+            Assert.Throws<InvalidOperationException>(() => warrior1.Attack(warrior2));
+        }
+
+        [Test]
+        public void ValidAttackTest()
+        {
+            var warrior1 = new Warrior("Ivan1", 50, 5000);
+            var warrior2 = new Warrior("Ivan2", 500, 50);
+
+            warrior1.Attack(warrior2);
+            var expectedHP = 4500;
+            var warrior1HP = warrior1.HP;
+
+            Assert.IsTrue(expectedHP == warrior1HP);
+        }
+        [Test]
+        public void ValidAttackTestSecondWorriorIfFirstWarriorHaveMoreDamage()
+        {
+            var warrior1 = new Warrior("Ivan1", 60, 5000);
+            var warrior2 = new Warrior("Ivan2", 500, 50);
+
+            warrior1.Attack(warrior2);
+            var expectedHP = 0;
+            var warrior2HP = warrior2.HP;
+
+            Assert.IsTrue(expectedHP == warrior2HP);
+        }
+
+        [Test]
+        public void ValidAttackTestSecondWorriorIfSecondWorrierHaveMoreHp()
+        {
+            var warrior1 = new Warrior("Ivan1", 40, 5000);
+            var warrior2 = new Warrior("Ivan2", 500, 50);
+
+            warrior1.Attack(warrior2);
+            var expectedHP = 10;
+            var warrior2HP = warrior2.HP;
+
+            Assert.IsTrue(expectedHP == warrior2HP);
+        }
     }
 }

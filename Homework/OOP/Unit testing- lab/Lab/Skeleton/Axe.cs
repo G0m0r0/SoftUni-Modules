@@ -32,4 +32,9 @@ public class Axe : IWeapon
         target.TakeAttack(this.attackPoints);
         this.durabilityPoints -= 1;
     }
+
+    public override string ToString()
+    {
+        return "Axe";
+    }
 }

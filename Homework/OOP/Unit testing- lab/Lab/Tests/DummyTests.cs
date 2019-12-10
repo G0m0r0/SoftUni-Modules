@@ -52,5 +52,25 @@ namespace Tests
 
             Assert.That(() => dummy.GiveExperience(), Throws.InvalidOperationException,"Dummy shouldnt give exp");
         }
+
+        [Test]
+        public void TestWhenDummyIsDead()
+        {
+            //public bool IsDead()
+            //{
+            //    return this.health <= 0;
+            //}
+            var dummy = new Dummy(-10, 10);
+
+            Assert.IsTrue(dummy.IsDead());
+        }
+
+        [Test]
+        public void TestIfDummyIsAlive()
+        {
+            var dummy = new Dummy(10, 10);
+
+            Assert.IsTrue(!dummy.IsDead());
+        }
     }
 }

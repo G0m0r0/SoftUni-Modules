@@ -21,7 +21,7 @@
         get { return this.experience; }
     }
 
-    public Axe Weapon
+    public IWeapon Weapon
     {
         get { return this.weapon; }
     }
