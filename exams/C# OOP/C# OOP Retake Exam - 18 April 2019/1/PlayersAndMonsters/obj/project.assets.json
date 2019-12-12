@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Softuni\\exams\\C# OOP\\C# OOP Retake Exam - 18 April 2019\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+      "projectUniqueName": "D:\\Programming\\Softuni\\exams\\C# OOP\\C# OOP Retake Exam - 18 April 2019\\1\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
       "projectName": "PlayersAndMonsters",
-      "projectPath": "D:\\Programming\\Softuni\\exams\\C# OOP\\C# OOP Retake Exam - 18 April 2019\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+      "projectPath": "D:\\Programming\\Softuni\\exams\\C# OOP\\C# OOP Retake Exam - 18 April 2019\\1\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Softuni\\exams\\C# OOP\\C# OOP Retake Exam - 18 April 2019\\PlayersAndMonsters\\obj\\",
+      "outputPath": "D:\\Programming\\Softuni\\exams\\C# OOP\\C# OOP Retake Exam - 18 April 2019\\1\\PlayersAndMonsters\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
