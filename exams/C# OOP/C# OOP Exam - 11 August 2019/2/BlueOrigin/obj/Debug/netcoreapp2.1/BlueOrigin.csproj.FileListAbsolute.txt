@@ -1,0 +1,10 @@
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 11 August 2019\2\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.deps.json
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 11 August 2019\2\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.json
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 11 August 2019\2\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.dev.json
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 11 August 2019\2\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 11 August 2019\2\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.pdb
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 11 August 2019\2\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.csprojAssemblyReference.cache
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 11 August 2019\2\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfoInputs.cache
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 11 August 2019\2\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfo.cs
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 11 August 2019\2\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 11 August 2019\2\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.pdb

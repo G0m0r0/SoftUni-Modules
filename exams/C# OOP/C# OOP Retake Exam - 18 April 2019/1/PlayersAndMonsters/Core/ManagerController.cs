@@ -1,40 +1,47 @@
-﻿namespace PlayersAndMonsters.Core
+﻿using PlayersAndMonsters.Common;
+using PlayersAndMonsters.Core.Factories.Contracts;
+using PlayersAndMonsters.Models.BattleFields.Contracts;
+using PlayersAndMonsters.Repositories.Contracts;
+using System.Text;
+
+namespace PlayersAndMonsters.Core
 {
-    using System;
-    using System.Text;
     using Contracts;
-    using PlayersAndMonsters.Common;
-    using PlayersAndMonsters.Core.Factories.Contracts;
-    using PlayersAndMonsters.Models.BattleFields;
-    using PlayersAndMonsters.Models.BattleFields.Contracts;
-    using PlayersAndMonsters.Repositories.Contracts;
 
     public class ManagerController : IManagerController
     {
         private IPlayerRepository playerRepository;
         private ICardRepository cardRepository;
 
+        private IPlayerFactory playerFactory;
         private ICardFactory cardFactory;
-        private IPlayerFactory playerfactory;
 
-        private IBattleField battlefield;
+        private IBattleField battleField;
 
-        public ManagerController(IPlayerRepository playerRepository, IPlayerFactory playerfactory, ICardFactory cardFactory, ICardRepository cardRepository, IBattleField battlefield)
+        public ManagerController(
+            IPlayerRepository playerRepository,
+            IPlayerFactory playerFactory,
+            ICardFactory cardFactory,
+            ICardRepository cardRepository,
+            IBattleField battleField)
         {
             this.playerRepository = playerRepository;
-            this.cardRepository = cardRepository;
+            this.playerFactory = playerFactory;
             this.cardFactory = cardFactory;
-            this.playerfactory = playerfactory;
-            this.battlefield = battlefield;
+            this.cardRepository = cardRepository;
+            this.battleField = battleField;
         }
 
         public string AddPlayer(string type, string username)
         {
-            var player = this.playerfactory.CreatePlayer(type, username);
+            var player = this.playerFactory.CreatePlayer(type, username);
 
             this.playerRepository.Add(player);
 
-            return string.Format(ConstantMessages.SuccessfullyAddedPlayer,type,username);
+            return string.Format(
+                ConstantMessages.SuccessfullyAddedPlayer,
+                type,
+                username);
         }
 
         public string AddCard(string type, string name)
@@ -43,7 +50,10 @@
 
             this.cardRepository.Add(card);
 
-            return string.Format(ConstantMessages.SuccessfullyAddedCard, type, name);
+            return string.Format(
+                ConstantMessages.SuccessfullyAddedCard,
+                type,
+                name);
         }
 
         public string AddPlayerCard(string username, string cardName)
@@ -53,7 +63,10 @@
 
             user.CardRepository.Add(card);
 
-            return string.Format(ConstantMessages.SuccessfullyAddedPlayerWithCards, username, cardName);
+            return string.Format(
+                ConstantMessages.SuccessfullyAddedPlayerWithCards,
+                cardName,
+                username);
         }
 
         public string Fight(string attackUser, string enemyUser)
@@ -61,9 +74,12 @@
             var attacker = this.playerRepository.Find(attackUser);
             var enemy = this.playerRepository.Find(enemyUser);
 
-            this.battlefield.Fight(attacker, enemy);
+            this.battleField.Fight(attacker, enemy);
 
-            return string.Format(ConstantMessages.FightInfo, attacker.Health, enemy.Health);
+            return string.Format(
+                ConstantMessages.FightInfo,
+                attacker.Health,
+                enemy.Health);
         }
 
         public string Report()
@@ -72,12 +88,23 @@
 
             foreach (var player in playerRepository.Players)
             {
-                sb.AppendLine(string.Format(ConstantMessages.PlayerReportInfo,player.Username,player.Health,player.CardRepository.Count));
+                sb.AppendLine(
+                    string.Format(
+                        ConstantMessages.PlayerReportInfo,
+                        player.Username,
+                        player.Health,
+                        player.CardRepository.Count));
+
                 foreach (var card in player.CardRepository.Cards)
                 {
-                    sb.AppendLine(string.Format(ConstantMessages.CardReportInfo, card.Name, card.DamagePoints));
+                    sb.AppendLine(
+                        string.Format(
+                            ConstantMessages.CardReportInfo,
+                            card.Name,
+                            card.DamagePoints));
                 }
-                sb.AppendLine(string.Format(ConstantMessages.DefaultReportSeparator));
+
+                sb.AppendLine(ConstantMessages.DefaultReportSeparator);
             }
 
             return sb.ToString().TrimEnd();

@@ -1,12 +1,11 @@
-﻿using System.Text;
-using PlayersAndMonsters.Common;
+﻿using PlayersAndMonsters.Common;
 using PlayersAndMonsters.Core.Factories.Contracts;
 using PlayersAndMonsters.Models.BattleFields.Contracts;
 using PlayersAndMonsters.Repositories.Contracts;
+using System.Text;
 
 namespace PlayersAndMonsters.Core
 {
-    using System;
 
     using Contracts;
 

@@ -1,0 +1,10 @@
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 14 April 2019\2\Telecom\bin\Debug\netcoreapp2.1\Telecom.deps.json
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 14 April 2019\2\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.json
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 14 April 2019\2\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.dev.json
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 14 April 2019\2\Telecom\bin\Debug\netcoreapp2.1\Telecom.dll
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 14 April 2019\2\Telecom\bin\Debug\netcoreapp2.1\Telecom.pdb
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 14 April 2019\2\Telecom\obj\Debug\netcoreapp2.1\Telecom.csprojAssemblyReference.cache
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 14 April 2019\2\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfoInputs.cache
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 14 April 2019\2\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfo.cs
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 14 April 2019\2\Telecom\obj\Debug\netcoreapp2.1\Telecom.dll
+D:\Programming\Softuni\exams\C# OOP\C# OOP Exam - 14 April 2019\2\Telecom\obj\Debug\netcoreapp2.1\Telecom.pdb
