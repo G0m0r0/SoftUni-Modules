@@ -1,0 +1,10 @@
+D:\Programming\Softuni\exams\C# OOP\C# OOP Retake Exam - 15 August 2019\1\bin\Debug\netcoreapp2.1\SpaceStation.deps.json
+D:\Programming\Softuni\exams\C# OOP\C# OOP Retake Exam - 15 August 2019\1\bin\Debug\netcoreapp2.1\SpaceStation.runtimeconfig.json
+D:\Programming\Softuni\exams\C# OOP\C# OOP Retake Exam - 15 August 2019\1\bin\Debug\netcoreapp2.1\SpaceStation.runtimeconfig.dev.json
+D:\Programming\Softuni\exams\C# OOP\C# OOP Retake Exam - 15 August 2019\1\bin\Debug\netcoreapp2.1\SpaceStation.dll
+D:\Programming\Softuni\exams\C# OOP\C# OOP Retake Exam - 15 August 2019\1\bin\Debug\netcoreapp2.1\SpaceStation.pdb
+D:\Programming\Softuni\exams\C# OOP\C# OOP Retake Exam - 15 August 2019\1\obj\Debug\netcoreapp2.1\SpaceStation.csprojAssemblyReference.cache
+D:\Programming\Softuni\exams\C# OOP\C# OOP Retake Exam - 15 August 2019\1\obj\Debug\netcoreapp2.1\SpaceStation.AssemblyInfoInputs.cache
+D:\Programming\Softuni\exams\C# OOP\C# OOP Retake Exam - 15 August 2019\1\obj\Debug\netcoreapp2.1\SpaceStation.AssemblyInfo.cs
+D:\Programming\Softuni\exams\C# OOP\C# OOP Retake Exam - 15 August 2019\1\obj\Debug\netcoreapp2.1\SpaceStation.dll
+D:\Programming\Softuni\exams\C# OOP\C# OOP Retake Exam - 15 August 2019\1\obj\Debug\netcoreapp2.1\SpaceStation.pdb
