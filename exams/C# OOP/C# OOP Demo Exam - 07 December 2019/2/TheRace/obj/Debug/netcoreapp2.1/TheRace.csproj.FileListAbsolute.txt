@@ -1,0 +1,8 @@
+D:\Programming\Softuni\exams\C# OOP\C# OOP Demo Exam - 07 December 2019\2\TheRace\bin\Debug\netcoreapp2.1\TheRace.deps.json
+D:\Programming\Softuni\exams\C# OOP\C# OOP Demo Exam - 07 December 2019\2\TheRace\bin\Debug\netcoreapp2.1\TheRace.dll
+D:\Programming\Softuni\exams\C# OOP\C# OOP Demo Exam - 07 December 2019\2\TheRace\bin\Debug\netcoreapp2.1\TheRace.pdb
+D:\Programming\Softuni\exams\C# OOP\C# OOP Demo Exam - 07 December 2019\2\TheRace\obj\Debug\netcoreapp2.1\TheRace.csprojAssemblyReference.cache
+D:\Programming\Softuni\exams\C# OOP\C# OOP Demo Exam - 07 December 2019\2\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfoInputs.cache
+D:\Programming\Softuni\exams\C# OOP\C# OOP Demo Exam - 07 December 2019\2\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfo.cs
+D:\Programming\Softuni\exams\C# OOP\C# OOP Demo Exam - 07 December 2019\2\TheRace\obj\Debug\netcoreapp2.1\TheRace.dll
+D:\Programming\Softuni\exams\C# OOP\C# OOP Demo Exam - 07 December 2019\2\TheRace\obj\Debug\netcoreapp2.1\TheRace.pdb
