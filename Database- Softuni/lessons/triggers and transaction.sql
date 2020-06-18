@@ -93,4 +93,11 @@ CREATE TABLE Logs
 	UpdatedBy nvarchar(max),
 )
 
-CREATE TRIGGER tr_AddToLogsOnAccountUpdate ON Accounts
+CREATE OR ALTER TRIGGER tr_AddToLogsOnAccountUpdate ON Accounts FOR UPDATE
+AS
+	INSERT INTO Logs (AccountId,OldAmount,NewAmount,UpdatedOn,UpdatedBy)
+	SELECT i.Id,d.Balance ,i.Balance,GETDATE(), CURRENT_USER FROM inserted AS i
+		JOIN deleted AS d ON i.Id=d.Id
+			WHERE i.Balance!=d.Balance
+
+GO
