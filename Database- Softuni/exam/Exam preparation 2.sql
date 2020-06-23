@@ -140,3 +140,71 @@ SELECT
 	LEFT JOIN StudentsSubjects AS ss ON ss.StudentId=s.Id
 	WHERE ss.StudentId IS NULL
 	ORDER BY [Full Name]
+
+
+--10
+USE School
+SELECT s.Name,AVG(Grade) AS AverageGrade FROM Subjects AS s
+	JOIN StudentsSubjects AS ss ON s.Id=ss.SubjectId
+	GROUP BY s.id,s.Name
+	ORDER BY s.Id
+
+--11
+GO
+CREATE OR ALTER FUNCTION udf_ExamGradesToUpdate(@studentId INT, @grade DECIMAL(4,2))
+RETURNS VARCHAR(100)
+AS
+	BEGIN
+		DECLARE @Student INT=(SELECT COUNT(*) FROM Students WHERE id=@studentId)
+		IF(@Student=0)
+			RETURN 'The student with provided id does not exist in the school!';
+		IF(@grade>6.00)
+			RETURN 'Grade cannot be above 6.00!                                  '
+
+		DECLARE @CountOfGrades INT=(
+									SELECT COUNT(*) FROM StudentsExams AS se
+												JOIN Students AS s ON se.StudentId = s.Id
+												WHERE s.id=@studentId AND (se.Grade>=@grade AND se.Grade<=@grade+0.50)
+									)
+		DECLARE @StudentsFirstName VARCHAR(50)= (SELECT FirstName FROM Students WHERE id=@studentId)
+		RETURN CONCAT('You have to update ',@CountOfGrades,' grades for the student ',@StudentsFirstName )
+	END
+GO
+
+SELECT dbo.udf_ExamGradesToUpdate(12, 6.20)
+--Grade cannot be above 6.00!
+		
+SELECT dbo.udf_ExamGradesToUpdate(12, 5.50)
+--You have to update 2 grades for the student Agace
+
+SELECT dbo.udf_ExamGradesToUpdate(121, 5.50)
+--The student with provided id does not exist in the school!
+
+
+--12
+GO
+CREATE PROCEDURE usp_ExcludeFromSchool(@StudentId INT)
+AS
+	BEGIN
+		DECLARE @Student INT=(SELECT COUNT(*) FROM Students WHERE Id=@StudentId)
+		if(@Student=0)
+			THROW 50001, 'This school has no student with the provided id!',1
+
+		DELETE FROM StudentsTeachers
+			WHERE StudentId=@StudentId
+
+		DELETE FROM StudentsSubjects
+			WHERE StudentId=@StudentId
+
+		DELETE FROM StudentsExams
+			WHERE StudentId=@StudentId
+
+		DELETE FROM Students
+			WHERE id=@StudentId
+	END
+GO
+
+EXEC usp_ExcludeFromSchool 1
+SELECT COUNT(*) FROM Students
+
+EXEC usp_ExcludeFromSchool 301
