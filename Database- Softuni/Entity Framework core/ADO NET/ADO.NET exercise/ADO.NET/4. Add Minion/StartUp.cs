@@ -30,6 +30,12 @@ namespace _4._Add_Minion
             string townId = EnsureExists(sqlConnection, minionTown,sb);
 
             string villains = EnsureVillain(sqlConnection, villainName, sb);
+
+            string insertMinionsQueryText = @"INSERT INTO Minions([Name],Age,TownId) VALUES (@minionName,@minionAge,@townId)";
+
+            using SqlCommand insertMinion = new SqlCommand(insertMinionsQueryText, sqlConnection);
+            insertMinion.Parameters.AddRange(new[] {new SqlParameter("@minionName",minionName),
+
         }
 
         private static string EnsureVillain(SqlConnection sqlConnection, string villainName, StringBuilder sb)
@@ -47,8 +53,19 @@ namespace _4._Add_Minion
                 using var getFactorId = new SqlCommand(getFactorIdQueryText, sqlConnection);
 
                 string factorId = getFactorId.ExecuteScalar()?.ToString();
-                using var insertVillain = new SqlCommand(insertVillain, sqlConnection);
+                string insertVillainQuerytext = @"INSERT INTO Villains([Name],EvilnessFactorId) VALUES (@villainName,@factorId)";
+                using var insertVillain = new SqlCommand(insertVillainQuerytext, sqlConnection);
+                insertVillain.Parameters.AddWithValue("@villainName", villainName);
+                insertVillain.Parameters.AddWithValue("factorId", factorId);
+
+                insertVillain.ExecuteNonQuery();
+
+                villainId = getVillainId.ExecuteScalar().ToString();
+
+                sb.AppendLine($"Villain {villainName} was added to the database.");
             }
+
+            return villainId;
         }
 
         private static string EnsureExists(SqlConnection sqlConnection, string minionTown,StringBuilder sb)

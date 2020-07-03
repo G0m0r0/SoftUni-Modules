@@ -50,6 +50,7 @@ AS
                                 ORDER BY m.Name
 	END
 GO
+USE MinionsDB
 EXECUTE [dbo].[usp_Vill] 1
 
 SELECT TOP(1) * FROM MinionsVillains AS mv
@@ -71,6 +72,11 @@ INSERT INTO Minions (Name, Age, TownId) VALUES (@nam, @age, @townId)
 INSERT INTO Towns (Name) VALUES (@townName)
 SELECT Id FROM Towns WHERE Name = @townName
 
+
+SELECT Id FROM Villains 
+	WHERE Name ='Gru'
+
+SELECT TOP(1) Name FROM Minions Where [Name]='Bob'
 --Problem 05
 UPDATE Towns
    SET Name = UPPER(Name)

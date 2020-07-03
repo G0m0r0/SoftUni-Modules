@@ -1,0 +1,20 @@
+--buil project after every install
+
+-1.install dotnet tool install --global dotnet-ef __from the terminal
+0.install Microsoft.EntityFrameworkCore.SqlServer from nuget
+0.1. install Microsoft.EntityFrameworkCore.Design from nuget
+1.shift+right m key to open windows powershell into the folder where is the csproj and cs files
+2.all commands starts with dotnet
+3.for entityframework they starts with dont ef
+4.generate db context dotnet ef dbcontext
+5.dotnet ef dbcontext scaffold "Server=.;Database=Softuni;Integrated security=true;"  Microsoft.EntityFrameworkCore.SqlServer(provider) -o Models(Folder name in vs)
+
+
+6.install from package console or powershell Microsofy.EntityframeworkCore.Tools
+7.install from package console or powershell Microsoft.EntityFrameworkCore.Design
+8.for info -- dotnet ef dbcontext info
+9.to override existing classes -- dotnet ef dbcontext scaffold "Server=.;Database=Softuni;Integrated security=true;"  Microsoft.EntityFrameworkCore.SqlServer -o Models -f
+10.to have constraints as attributes -d
+11.to display logges queries on console install -- Microsoft.Extensions.Logging.Console from nugget
+12.add migration -- powershell -- dotnet ef migrations add (name)
+
