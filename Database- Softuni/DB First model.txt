@@ -3,7 +3,7 @@
 -1.install dotnet tool install --global dotnet-ef __from the terminal
 0.install Microsoft.EntityFrameworkCore.SqlServer from nuget
 0.1. install Microsoft.EntityFrameworkCore.Design from nuget
-1.shift+right m key to open windows powershell into the folder where is the csproj and cs files
+1.shift+right mouse key to open windows powershell into the folder where is the csproj and cs files
 2.all commands starts with dotnet
 3.for entityframework they starts with dont ef
 4.generate db context dotnet ef dbcontext
