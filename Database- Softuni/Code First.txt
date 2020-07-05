@@ -1,0 +1,4 @@
+0.Create classes and DbContext set options
+1.install EntityFrameworkCore.Sql from nuget
+2.install EntityFrameworkCore.Design from nuget
+3.dotnet ef migrations add InitialCreate(myName)
