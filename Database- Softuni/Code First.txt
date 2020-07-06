@@ -1,4 +1,12 @@
+-1.if we use package manager look at default project to be located where is db set project
 0.Create classes and DbContext set options
 1.install EntityFrameworkCore.Sql from nuget
 2.install EntityFrameworkCore.Design from nuget
 3.dotnet ef migrations add InitialCreate(myName)
+
+
+package manager 
+Add-Migration InitialSetUp
+Update-Database
+OnDelete for cascade delete is by default turn on so we need to add restrictions in dbcontext
+Remove-Migration 
