@@ -2,26 +2,27 @@
 {
     using System;
     using System.Collections.Generic;
-    using System.ComponentModel;
     using System.ComponentModel.DataAnnotations;
 
     public class Student
     {
         public Student()
         {
-            Courses = new HashSet<Course>();
-            HomeworkSubmissions = new HashSet<HomeworkSubmission>();
-            StudentCourses = new HashSet<StudentCourse>();
+            HomeworkSubmissions = new HashSet<Homework>();
+            CourseEnrollments = new HashSet<StudentCourse>();
         }
+        [Key]
         public int StudentId { get; set; }
+        [Required]
+        [MaxLength(100)]
         public string Name { get; set; }
+        [StringLength(10)]
         public string PhoneNumber { get; set; }
         [Required]
         public DateTime RegisteredOn { get; set; }
-        [Required]
-        public DateTime Birthdate { get; set; }
-        public virtual ICollection<Course> Courses { get; set; }
-        public virtual ICollection<HomeworkSubmission> HomeworkSubmissions { get; set; }
-        public virtual ICollection<StudentCourse> StudentCourses { get; set; }
+        public DateTime? Birthday { get; set; }
+
+        public virtual ICollection<Homework> HomeworkSubmissions { get; set; }
+        public virtual ICollection<StudentCourse> CourseEnrollments { get; set; }
     }
 }

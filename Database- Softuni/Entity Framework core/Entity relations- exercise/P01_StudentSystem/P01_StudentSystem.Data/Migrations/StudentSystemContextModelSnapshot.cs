@@ -27,8 +27,8 @@ namespace P01_StudentSystem.Data.Migrations
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("Description")
-                        .HasColumnType("nvarchar(max)")
-                        .IsUnicode(true);
+                        .HasColumnType("varchar(max)")
+                        .IsUnicode(false);
 
                     b.Property<DateTime>("EndDate")
                         .HasColumnType("datetime2");
@@ -36,8 +36,7 @@ namespace P01_StudentSystem.Data.Migrations
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(80)")
-                        .HasMaxLength(80)
-                        .IsUnicode(true);
+                        .HasMaxLength(80);
 
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
@@ -45,12 +44,7 @@ namespace P01_StudentSystem.Data.Migrations
                     b.Property<DateTime>("StartDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<int?>("StudentId")
-                        .HasColumnType("int");
-
                     b.HasKey("CourseId");
-
-                    b.HasIndex("StudentId");
 
                     b.ToTable("Courses");
                 });
@@ -63,9 +57,7 @@ namespace P01_StudentSystem.Data.Migrations
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("Content")
-                        .IsRequired()
-                        .HasColumnType("varchar(max)")
-                        .IsUnicode(false);
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("ContentType")
                         .HasColumnType("int");
@@ -76,8 +68,8 @@ namespace P01_StudentSystem.Data.Migrations
                     b.Property<int>("StudentId")
                         .HasColumnType("int");
 
-                    b.Property<double>("SubmissionTime")
-                        .HasColumnType("float");
+                    b.Property<bool>("SubmissionTime")
+                        .HasColumnType("bit");
 
                     b.HasKey("HomeworkId");
 
@@ -90,26 +82,29 @@ namespace P01_StudentSystem.Data.Migrations
 
             modelBuilder.Entity("P01_StudentSystem.Data.Models.Resource", b =>
                 {
+                    b.Property<int>("ResourceId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
                     b.Property<int>("CourseId")
                         .HasColumnType("int");
 
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(50)")
-                        .HasMaxLength(50)
-                        .IsUnicode(true);
-
-                    b.Property<int>("ResourceId")
-                        .HasColumnType("int");
+                        .HasMaxLength(50);
 
                     b.Property<int>("ResourceType")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Url")
-                        .HasColumnType("varchar(max)")
+                        .HasColumnType("int")
                         .IsUnicode(false);
 
-                    b.HasKey("CourseId");
+                    b.Property<string>("Url")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ResourceId");
+
+                    b.HasIndex("CourseId");
 
                     b.ToTable("Resources");
                 });
@@ -122,17 +117,16 @@ namespace P01_StudentSystem.Data.Migrations
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<DateTime>("Birthdate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .IsUnicode(false);
 
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(100)")
-                        .HasMaxLength(100)
-                        .IsUnicode(true);
+                        .HasMaxLength(100);
 
                     b.Property<string>("PhoneNumber")
-                        .HasColumnType("char(10)")
-                        .IsFixedLength(true)
+                        .HasColumnType("varchar(10)")
                         .HasMaxLength(10)
                         .IsUnicode(false);
 
@@ -157,13 +151,6 @@ namespace P01_StudentSystem.Data.Migrations
                     b.HasIndex("StudentId");
 
                     b.ToTable("StudentCourses");
-                });
-
-            modelBuilder.Entity("P01_StudentSystem.Data.Models.Course", b =>
-                {
-                    b.HasOne("P01_StudentSystem.Data.Models.Student", null)
-                        .WithMany("Courses")
-                        .HasForeignKey("StudentId");
                 });
 
             modelBuilder.Entity("P01_StudentSystem.Data.Models.HomeworkSubmission", b =>
@@ -195,13 +182,13 @@ namespace P01_StudentSystem.Data.Migrations
                     b.HasOne("P01_StudentSystem.Data.Models.Course", "Course")
                         .WithMany("StudentCourses")
                         .HasForeignKey("CourseId")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("P01_StudentSystem.Data.Models.Student", "Student")
                         .WithMany("StudentCourses")
                         .HasForeignKey("StudentId")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
 #pragma warning restore 612, 618
