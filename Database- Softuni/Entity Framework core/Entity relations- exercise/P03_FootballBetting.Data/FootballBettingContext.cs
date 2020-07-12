@@ -67,6 +67,7 @@
                 .HasForeignKey(t => t.SecondaryKitColorId)
                 .OnDelete(DeleteBehavior.Restrict);
 
+                //here
                 entity.HasOne(t => t.Town)
                 .WithMany(to => to.Teams)
                 .HasForeignKey(t => t.TownId);
