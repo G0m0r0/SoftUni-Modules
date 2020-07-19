@@ -22,6 +22,7 @@
             this.CreateMap<Position, PositionsAllViewModel>()
                 .ForMember(x => x.Name, y => y.MapFrom(s => s.Name));
 
+            //category
             CreateMap<CreateCategoryInputModel, Category>()
                 .ForMember(x => x.Name, y => y.MapFrom(s => s.CategoryName));
 
@@ -30,21 +31,22 @@
             //Employee
             CreateMap<Position, RegisterEmployeeViewModel>()
                 .ForMember(x => x.PositionId, y => y.MapFrom(x => x.Id))
-                .ForMember(x=>x.PositionName,y=>y.MapFrom(x=>x.Name));
+                .ForMember(x => x.PositionName, y => y.MapFrom(x => x.Name));
 
             CreateMap<RegisterEmployeeInputModel, Employee>();
+
             CreateMap<Employee, EmployeesAllViewModel>()
                 .ForMember(x => x.Position, y => y.MapFrom(x => x.Position.Name));
 
             //Items
             CreateMap<Category, CreateItemViewModel>()
                 .ForMember(x => x.CategoryId, y => y.MapFrom(x => x.Id))
-                .ForMember(x=>x.CategoryName,y=>y.MapFrom(x=>x.Name));
+                .ForMember(x => x.CategoryName, y => y.MapFrom(x => x.Name));
 
             CreateMap<CreateCategoryInputModel, Item>();
 
             CreateMap<Item, ItemsAllViewModels>()
-                .ForMember(x=>x.Category,y=>y.MapFrom(x=>x.Category.Name));
+                .ForMember(x => x.Category, y => y.MapFrom(x => x.Category.Name));
 
             //orders
             CreateMap<Item, CreateOrderItemViewModel>()
@@ -61,12 +63,12 @@
 
             CreateMap<CreateOrderInputModel, OrderItem>()
                 .ForMember(x => x.ItemId, y => y.MapFrom(x => x.ItemId))
-                .ForMember(x=>x.Quantity,y=>y.MapFrom(x=>x.Quantity));
+                .ForMember(x => x.Quantity, y => y.MapFrom(x => x.Quantity));
 
             CreateMap<Order, OrderAllViewModel>()
                 .ForMember(x => x.Employee, y => y.MapFrom(x => x.Employee.Name))
                 .ForMember(x => x.DateTime, y => y.MapFrom(x => x.DateTime.ToString("D", CultureInfo.InvariantCulture)))
-                .ForMember(x=>x.OrderId,y=>y.MapFrom(x=>x.Id));
+                .ForMember(x => x.OrderId, y => y.MapFrom(x => x.Id));
         }
     }
 }
