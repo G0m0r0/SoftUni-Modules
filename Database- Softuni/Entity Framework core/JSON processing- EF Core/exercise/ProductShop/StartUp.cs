@@ -40,11 +40,11 @@
             //05
             //Console.WriteLine(GetProductsInRange(db));
             //06
-            Console.WriteLine(GetSoldProducts(db));
+            //Console.WriteLine(GetSoldProducts(db));
             //07
             //Console.WriteLine(GetCategoriesByProductsCount(db));
             //08
-            //Console.WriteLine(GetUsersWithProducts(db));
+            Console.WriteLine(GetUsersWithProducts(db));
 
         }
         private static void ResetDatabase(ProductShopContext db)
@@ -255,40 +255,46 @@
         //08
         public static string GetUsersWithProducts(ProductShopContext context)
         {
-            var users = context.Users
-                .Where(u => u.ProductsSold.Any(p => p.Buyer != null))
-                .Select(x => new
-                {
-                    lastName = x.LastName,
-                    age = x.Age,
-                    soldProducts = new
-                    {
-                        count = x.ProductsSold.Where(p => p.Buyer != null).Count(),
-                        products = x.ProductsSold.Where(p => p.Buyer != null).Select(y => new
-                        {
-                            name = y.Name,
-                            price = y.Price
-                        }).ToArray()
+            var curentUsers = context.Users
+                             .AsEnumerable()
+                             .Where(p => p.ProductsSold.Any(b => b.Buyer != null))
+                             .OrderByDescending(p => p.ProductsSold.Count(c => c.Buyer != null))
+                             .Select(c => new
+                             {
+                                 firstName = c.FirstName,
+                                 lastName = c.LastName,
+                                 age = c.Age,
+                                 soldProducts = new
+                                 {
+                                     count = c.ProductsSold.Count(b => b.Buyer != null),
+                                     products = c.ProductsSold
+                                                 .Where(x => x.Buyer != null)
+                                                 .Select(y => new
+                                                 {
+                                                     name = y.Name,
+                                                     price = y.Price
+                                                 })
+                                                 .ToList()
+                                 }
+                             })
+                             .ToList();
 
-                    }
-                }).OrderByDescending(x => x.soldProducts.count)
-                .ToArray();
-
-            var resultObj = new
+            var usersWithCoiunt = new
             {
-                usersCount=users.Length,
-                users=users
+                usersCount = curentUsers.Count,
+                users = curentUsers
             };
 
-            var settings = new JsonSerializerSettings
+            var setingJSON = new JsonSerializerSettings
             {
-                NullValueHandling = NullValueHandling.Ignore,
-                Formatting = Formatting.Indented
+                Formatting = Formatting.Indented,
+                NullValueHandling = NullValueHandling.Ignore
             };
+            var usersToJSON = JsonConvert.SerializeObject(usersWithCoiunt, setingJSON);
 
-            var usersJson = JsonConvert.SerializeObject(users,settings);
+            return usersToJSON;
 
-            return usersJson;
+
         }
     }
 }
