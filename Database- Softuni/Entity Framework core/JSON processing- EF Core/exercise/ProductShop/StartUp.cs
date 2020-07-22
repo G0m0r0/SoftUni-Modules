@@ -40,11 +40,11 @@
             //05
             //Console.WriteLine(GetProductsInRange(db));
             //06
-            //Console.WriteLine(GetSoldProductsDTO(db));
+            Console.WriteLine(GetSoldProducts(db));
             //07
             //Console.WriteLine(GetCategoriesByProductsCount(db));
             //08
-            Console.WriteLine(GetUsersWithProducts(db));
+            //Console.WriteLine(GetUsersWithProducts(db));
 
         }
         private static void ResetDatabase(ProductShopContext db)
@@ -61,6 +61,7 @@
                 cfg.AddProfile<ProductShopProfile>();
             });
         }
+        //01
         public static string ImportUsers(ProductShopContext context, string inputJson)
         {
             var users = JsonConvert.DeserializeObject<User[]>(inputJson);
@@ -70,6 +71,7 @@
 
             return $"Successfully imported {users.Length}";
         }
+        //or
         public static string ImportUsersDTO(ProductShopContext context, string inputJson)
         {
             var usersDto = JsonConvert.DeserializeObject<UserImportDTO[]>(inputJson);
@@ -81,6 +83,7 @@
 
             return $"Successfully imported {users.Length}";
         }
+        //02
         public static string ImportProducts(ProductShopContext context, string inputJson)
         {
             var products = JsonConvert.DeserializeObject<Product[]>(inputJson);
@@ -90,6 +93,7 @@
 
             return $"Successfully imported {products.Length}";
         }
+        //03
         public static string ImportCategories(ProductShopContext context, string inputJson)
         {
             //or to ignore null !but ignores only the property not the object!
@@ -116,6 +120,7 @@
 
             return $"Successfully imported {categories.Length}";
         }
+        //04
         public static string ImportCategoryProducts(ProductShopContext context, string inputJson)
         {
             var categoryProducts = JsonConvert.DeserializeObject<CategoryProduct[]>(inputJson);
@@ -125,25 +130,22 @@
 
             return $"Successfully imported {categoryProducts.Length}";
         }
+        //05
         public static string GetProductsInRange(ProductShopContext context)
         {
-            var productsInRange = context.Products.Where(x => x.Price >= 500 && x.Price <= 1000).OrderBy(x => x.Price).Select(x => new
-            {
-                name = x.Name,
-                price = x.Price,
-                seller = x.Seller.FirstName + ' ' + x.Seller.LastName
-            }).ToList();
+            var products = context.Products
+                 .Where(x => x.Price >= 500 && x.Price <= 1000)
+                 .OrderBy(x => x.Price)
+                 .Select(x => new
+                 {
+                     name = x.Name,
+                     price = x.Price,
+                     seller = x.Seller.FirstName + ' ' + x.Seller.LastName,
+                 }).ToList();
 
-            var jsonSerialized = JsonConvert.SerializeObject(productsInRange, Formatting.Indented);
+            var jsonProducts = JsonConvert.SerializeObject(products);
 
-            if (!Directory.Exists("../../../datasets/Results"))
-            {
-                Directory.CreateDirectory("../../../datasets/Results");
-            }
-
-            File.WriteAllText("../../../datasets/Results/products-in-range.json", jsonSerialized);
-
-            return jsonSerialized;
+            return jsonProducts;
         }
         //or
         public static string GetProductsInRangeDTO(ProductShopContext context)
@@ -190,12 +192,11 @@
 
             return jsonSerialized;
         }
+        //06
         public static string GetSoldProducts(ProductShopContext context)
         {
             var soldProducts = context.Users
                 .Where(x => x.ProductsSold.Any(p => p.Buyer != null))
-                .OrderBy(x => x.LastName)
-                .ThenBy(x => x.FirstName)
                 .Select(x => new
                 {
                     firstName = x.FirstName,
@@ -205,13 +206,15 @@
                                     .Select(y => new
                                     {
                                         name = y.Name,
-                                        price = y.Price.ToString("F2"),
+                                        price = y.Price,
                                         buyerFirstName = y.Buyer.FirstName,
                                         buyerLastName = y.Buyer.LastName
                                     }).ToArray()
-                }).ToArray();
+                }).OrderBy(x => x.lastName)
+                .ThenBy(x => x.firstName)
+                .ToArray();
 
-            var soldProductsJson = JsonConvert.SerializeObject(soldProducts, Formatting.Indented);
+            var soldProductsJson = JsonConvert.SerializeObject(soldProducts);
 
             return soldProductsJson;
         }
@@ -228,6 +231,7 @@
 
             return soldProductsJson;
         }
+        //07
         public static string GetCategoriesByProductsCount(ProductShopContext context)
         {
             var categoriesByProducts = context.Categories
@@ -248,6 +252,7 @@
 
             return categoriesByProductsJson;
         }
+        //08
         public static string GetUsersWithProducts(ProductShopContext context)
         {
             var users = context.Users
