@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<suppliers>
+  <suplier id="1" name="3M Company" parts-count="5" />
+  <suplier id="2" name="VF Corporation" parts-count="3" />
+  <suplier id="3" name="Textron Inc" parts-count="3" />
+  <suplier id="4" name="Sunoco Inc." parts-count="2" />
+  <suplier id="5" name="Saks Inc" parts-count="2" />
+  <suplier id="6" name="Paychex Inc" parts-count="2" />
+  <suplier id="7" name="Olin Corp." parts-count="2" />
+  <suplier id="8" name="Nicor Inc" parts-count="1" />
+  <suplier id="9" name="Merck &amp; Co., Inc." parts-count="2" />
+  <suplier id="10" name="Level 3 Communications Inc." parts-count="1" />
+  <suplier id="11" name="IDT Corporation" parts-count="12" />
+  <suplier id="12" name="GenCorp Inc." parts-count="19" />
+  <suplier id="13" name="Emcor Group Inc." parts-count="15" />
+  <suplier id="14" name="E*Trade Group, Inc." parts-count="4" />
+  <suplier id="15" name="Wyeth" parts-count="5" />
+  <suplier id="16" name="E.I. Du Pont de Nemours and Company" parts-count="6" />
+  <suplier id="17" name="The Clorox Co." parts-count="4" />
+  <suplier id="18" name="CMGI Inc." parts-count="2" />
+  <suplier id="19" name="CNF Inc." parts-count="9" />
+  <suplier id="20" name="Cintas Corp." parts-count="1" />
+  <suplier id="21" name="Chubb Corp" parts-count="1" />
+  <suplier id="22" name="Cintas Corp." parts-count="4" />
+  <suplier id="23" name="Casey's General Stores Inc." parts-count="1" />
+  <suplier id="24" name="Caterpillar Inc." parts-count="1" />
+  <suplier id="25" name="Big Lots, Inc." parts-count="1" />
+  <suplier id="26" name="Atmel Corporation" parts-count="1" />
+  <suplier id="27" name="Airgas, Inc." parts-count="1" />
+  <suplier id="28" name="Anthem, Inc." parts-count="1" />
+  <suplier id="29" name="Agway Inc." parts-count="1" />
+  <suplier id="30" name="Danaher Corporation" parts-count="1" />
+  <suplier id="31" name="Zale" parts-count="5" />
+</suppliers>

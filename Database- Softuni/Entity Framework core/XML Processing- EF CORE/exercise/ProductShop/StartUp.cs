@@ -42,11 +42,11 @@
             //var result = GetCategoriesByProductsCount(db);
             //var path= "../../../results/GetCategoriesByProductsCount.xml";
             //08
-            var result = GetUsersWithProducts(db);
+            //var result = GetUsersWithProducts(db);
             var path= "../../../results/GetUsersWithProducts.xml";
 
-            Console.WriteLine(result);
-            File.WriteAllText(path, result);
+            //Console.WriteLine(result);
+            //File.WriteAllText(path, result);
         }
         private static void ResetDatabase(ProductShopContext db)
         {
