@@ -12,7 +12,7 @@
         public string Name { get; set; }
         [XmlElement("Genre")]
         [Range(1,3)]
-        public int Genre { get; set; } //later tryparse.datetime to check if its valid
+        public int Genre { get; set; } //later  check if its valid
         [XmlElement("Price")]
         [Range(typeof(decimal), "0.01", "79228162514264337593543950335")]
         public decimal Price { get; set; }
