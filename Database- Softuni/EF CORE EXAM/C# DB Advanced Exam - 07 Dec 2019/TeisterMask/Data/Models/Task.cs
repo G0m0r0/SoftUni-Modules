@@ -27,9 +27,9 @@
         public ExecutionType ExecutionType { get; set; }
         [Required]
         public LabelType LabelType { get; set; }
-        [ForeignKey("Project")]
+        [ForeignKey(nameof(Project))]
         public int ProjectId { get; set; }
-        public Project Project { get; set; }
+        public virtual Project Project { get; set; }
         public virtual ICollection<EmployeeTask> EmployeesTasks { get; set; }
     }
 }

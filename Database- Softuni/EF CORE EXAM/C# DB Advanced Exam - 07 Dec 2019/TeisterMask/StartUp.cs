@@ -32,7 +32,7 @@
             var projects =
                 DataProcessor.Deserializer.ImportProjects(context,
                     File.ReadAllText(baseDir + "projects.xml"));
-
+          
             PrintAndExportEntityToFile(projects, exportDir + "Actual Result - ImportProjects.txt");
 
            var employees =
@@ -45,7 +45,7 @@
         private static void ExportEntities(TeisterMaskContext context, string exportDir)
         {
             var exportProcrastinatedProjects = DataProcessor.Serializer.ExportProjectWithTheirTasks(context);
-            Console.WriteLine(exportProcrastinatedProjects);
+           Console.WriteLine(exportProcrastinatedProjects);
             File.WriteAllText(exportDir + "Actual Result - ExportProjectWithTheirTasks.xml", exportProcrastinatedProjects);
 
             DateTime dateTime = DateTime.ParseExact("25/01/2018", "dd/MM/yyyy", CultureInfo.InvariantCulture);

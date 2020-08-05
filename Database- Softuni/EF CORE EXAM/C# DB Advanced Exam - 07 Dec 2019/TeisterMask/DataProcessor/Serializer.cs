@@ -23,7 +23,7 @@
                 {
                     ProjectName = x.Name,
                     TasksCount = x.Tasks.Count(),
-                    HasEndDate = x.DueDate == null ? "No" : "Yes",
+                    HasEndDate = x.DueDate == null ? "No" : "Yes", //.HasValue
                     Tasks = x.Tasks.Select(y => new TaskDTO
                     {
                         Name = y.Name,
@@ -47,19 +47,21 @@
                 .Select(x => new
                 {
                     Username = x.Username,
-                    Tasks = x.EmployeesTasks 
-                                    .Where(y=>y.Task.OpenDate>=date)
+                    Tasks = x.EmployeesTasks   
+                                    .Where(e=>e.Task.OpenDate>=date)
+                                    .OrderByDescending(y=>y.Task.DueDate)
+                                    .ThenBy(y=>y.Task.Name)
                                     .Select(y => new
                                     {
                                         TaskName = y.Task.Name,
                                         OpenDate = y.Task.OpenDate.ToString("d",CultureInfo.InvariantCulture),
                                         DueDate = y.Task.DueDate.ToString("d",CultureInfo.InvariantCulture),
-                                        LabelType = Enum.GetName(typeof(LabelType), y.Task.LabelType),
-                                        ExecutionType =Enum.GetName(typeof(ExecutionType), y.Task.ExecutionType)
-                                    }).OrderByDescending(y => DateTime.ParseExact(y.DueDate,"d",CultureInfo.InvariantCulture))
-                                    .ThenBy(y => y.TaskName)
+                                        //LabelType = Enum.GetName(typeof(LabelType), y.Task.LabelType),
+                                        LabelType=y.Task.LabelType.ToString(),
+                                        ExecutionType=y.Task.ExecutionType.ToString(),
+                                    })                                    
                                     .ToArray()
-                }).OrderByDescending(x=>x.Tasks.Count())
+                }).OrderByDescending(x=>x.Tasks.Length)
                 .ThenBy(x=>x.Username)
                 .ToArray().Take(10);
 

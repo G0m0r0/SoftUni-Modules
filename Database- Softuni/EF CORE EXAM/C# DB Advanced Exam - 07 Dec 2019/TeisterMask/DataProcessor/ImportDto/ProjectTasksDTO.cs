@@ -19,9 +19,11 @@ namespace TeisterMask.DataProcessor.ImportDto
         public string DueDate { get; set; }
         [XmlElement("ExecutionType")]
         [Required]
+        [Range(0,3)]
         public int ExecutionType { get; set; }
         [XmlElement("LabelType")]
         [Required]
+        [Range(0,4)]
         public int LabelType { get; set; }
     }
 }
