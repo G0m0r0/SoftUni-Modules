@@ -17,13 +17,13 @@
     {
         private const string ErrorMessage = "Invalid data";
 
-        private const string SuccessfullyImportedWriter 
+        private const string SuccessfullyImportedWriter
             = "Imported {0}";
-        private const string SuccessfullyImportedProducerWithPhone 
+        private const string SuccessfullyImportedProducerWithPhone
             = "Imported {0} with phone: {1} produces {2} albums";
         private const string SuccessfullyImportedProducerWithNoPhone
             = "Imported {0} with no phone number produces {1} albums";
-        private const string SuccessfullyImportedSong 
+        private const string SuccessfullyImportedSong
             = "Imported {0} ({1} genre) with duration {2}";
         private const string SuccessfullyImportedPerformer
             = "Imported {0} ({1} songs)";
@@ -67,7 +67,7 @@
             var producers = new List<Producer>();
             foreach (var pa in jsonDTOs)
             {
-                if(!IsValid(pa))
+                if (!IsValid(pa))
                 {
                     sb.AppendLine(ErrorMessage);
                     continue;
@@ -77,7 +77,7 @@
                 var albums = new List<Album>();
                 foreach (var album in pa.Albums)
                 {
-                    if(!IsValid(album))
+                    if (!IsValid(album))
                     {
                         sb.AppendLine(ErrorMessage);
                         validAlbumsFlag = false;
@@ -102,7 +102,7 @@
                     albums.Add(newAlbum);
                 }
 
-                if(!validAlbumsFlag)
+                if (!validAlbumsFlag)
                 {
                     continue;
                 }
@@ -120,9 +120,10 @@
                 if (producer.PhoneNumber == null)
                 {
                     sb.AppendLine(string.Format(SuccessfullyImportedProducerWithNoPhone, producer.Name, producer.Albums.Count()));
-                }else
+                }
+                else
                 {
-                    sb.AppendLine(string.Format(SuccessfullyImportedProducerWithPhone, producer.Name,producer.PhoneNumber, producer.Albums.Count()));
+                    sb.AppendLine(string.Format(SuccessfullyImportedProducerWithPhone, producer.Name, producer.PhoneNumber, producer.Albums.Count()));
                 }
             }
 
@@ -136,12 +137,12 @@
         {
             var sb = new StringBuilder();
 
-            var songsDtos = XmlConverter.Deserializer<ImportSongDto>(xmlString,"Songs");
+            var songsDtos = XmlConverter.Deserializer<ImportSongDto>(xmlString, "Songs");
 
             var songs = new List<Song>();
             foreach (var song in songsDtos)
             {
-                if(!IsValid(song))
+                if (!IsValid(song))
                 {
                     sb.AppendLine(ErrorMessage);
                     continue;
@@ -150,7 +151,7 @@
                 DateTime createdOn;
                 bool isCreatedOnValid = DateTime.TryParseExact(song.CreatedOn, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out createdOn);
 
-                if(!isCreatedOnValid)
+                if (!isCreatedOnValid)
                 {
                     sb.AppendLine(ErrorMessage);
                     continue;
@@ -159,7 +160,7 @@
                 TimeSpan duration;
                 bool isDurationValid = TimeSpan.TryParseExact(song.Duration, "c", CultureInfo.InvariantCulture, TimeSpanStyles.None, out duration);
 
-                if(!isDurationValid)
+                if (!isDurationValid)
                 {
                     sb.AppendLine(ErrorMessage);
                     continue;
@@ -206,7 +207,56 @@
 
         public static string ImportSongPerformers(MusicHubDbContext context, string xmlString)
         {
-            throw new NotImplementedException();
+            var sb = new StringBuilder();
+            var songPerformersRootName = "Performers";
+            var songPerformersDtos = XmlConverter.Deserializer<ImportSongsPerformersDTO>(xmlString, songPerformersRootName);
+
+            var realPerformers = new List<Performer>();
+
+            foreach (var songPerformerDto in songPerformersDtos)
+            {
+                var areAllSongsValid = true;
+                foreach (var songId in songPerformerDto.Songs)
+                {
+                    if (context.Songs.All(x => x.Id != songId.Id))
+                    {
+                        areAllSongsValid = false;
+                        break;
+                    }
+                }
+                if (!IsValid(songPerformerDto) || !areAllSongsValid)
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+                var newPerformer = new Performer
+                {
+                    FirstName = songPerformerDto.FirstName,
+                    LastName = songPerformerDto.LastName,
+                    Age = songPerformerDto.Age,
+                    NetWorth = songPerformerDto.NetWorth
+                };
+
+                foreach (var songId in songPerformerDto.Songs)
+                {
+                    var existedSong = context.Songs.FirstOrDefault(x => x.Id == songId.Id);
+
+                    var songPerformer = new SongPerformer
+                    {
+                        Performer = newPerformer,
+                        Song = existedSong
+                    };
+
+                    newPerformer.PerformerSongs.Add(songPerformer);
+                }
+
+                realPerformers.Add(newPerformer);
+
+                sb.AppendLine(string.Format(SuccessfullyImportedPerformer, newPerformer.FirstName, newPerformer.PerformerSongs.Count));
+            }
+            context.Performers.AddRange(realPerformers);
+            context.SaveChanges();
+            return sb.ToString().TrimEnd();
         }
         private static bool IsValid(object dto)
         {
