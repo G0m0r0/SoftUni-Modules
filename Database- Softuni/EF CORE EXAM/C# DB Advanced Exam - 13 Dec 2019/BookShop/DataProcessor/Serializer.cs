@@ -17,11 +17,14 @@
     {
         public static string ExportMostCraziestAuthors(BookShopContext context)
         {
-            var authors = context.Authors.Select(x => new
+            var authors = context.Authors
+                //.ToArray() //for judge
+                .Select(x => new
             {
                 AuthorName = x.FirstName + ' ' + x.LastName,
-                Books = x.AuthorsBooks.OrderByDescending(y=>y.Book.Price)
-                .Select(y => new
+                Books = x.AuthorsBooks
+                    .OrderByDescending(y=>y.Book.Price)
+                    .Select(y => new
                 {
                     BookName = y.Book.Name,
                     BookPrice =y.Book.Price.ToString("F2")

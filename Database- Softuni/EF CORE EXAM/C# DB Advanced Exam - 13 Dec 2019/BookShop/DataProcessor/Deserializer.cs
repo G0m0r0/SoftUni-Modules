@@ -124,22 +124,21 @@
                     {
                         Author = author,
                         Book = book,
-                    });
+                    });              
+                }
+                if (author.AuthorsBooks.Count == 0)
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
 
-                    if(author.AuthorsBooks.Count==0)
-                    {
-                        sb.AppendLine(ErrorMessage);
-                        continue;
-                    }
+                authors.Add(author);
 
-                    authors.Add(author);
-                    sb.AppendLine(string.Format(SuccessfullyImportedAuthor,(author.FirstName+' '+author.LastName),author.AuthorsBooks.Count));
-                } 
+                sb.AppendLine(string.Format(SuccessfullyImportedAuthor, (author.FirstName + ' ' + author.LastName), author.AuthorsBooks.Count));
             }
 
             context.Authors.AddRange(authors);
             context.SaveChanges();
-
 
             return sb.ToString().TrimEnd();
         }

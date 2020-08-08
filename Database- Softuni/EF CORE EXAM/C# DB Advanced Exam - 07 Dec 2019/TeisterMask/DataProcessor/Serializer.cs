@@ -27,7 +27,8 @@
                     Tasks = x.Tasks.Select(y => new TaskDTO
                     {
                         Name = y.Name,
-                        Label = Enum.GetName(typeof(LabelType), y.LabelType)
+                        Label = y.LabelType.ToString()
+                        //or  Label = Enum.GetName(typeof(LabelType), y.LabelType)
                     }).OrderBy(y=>y.Name)
                     .ToArray()
                 }).OrderByDescending(x=>x.TasksCount)
