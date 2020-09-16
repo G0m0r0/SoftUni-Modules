@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+/* always add shrift on the top */
+
+div{
+    background: red;
+}
+span{
+    background: blue;
+}
+li{
+    /* border: 1px solid red; */
+    /* display: inline-block; */
+}
+p{
+    font-size: 20px;
+    /* default 16 */
+    /* color: rgb(20, 70, 80,0.5) */
+    /* last number is about the transperant from 0 to 1  */
+     color: red;
+    /* 16 numberation system is most usable */
+
+
+    font-style: italic;
+    font-weight: 900;
+    font-family: 'Major Mono Display', monospace;
+    border: 1px solid coral;
+    border-bottom: 5px dashed black;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    /* border solid dotted dashed */
+
+    /* display inline-block is making our items to fill only neeed part padding is space between border and text */
+    display: inline-block;
+    padding: 30px;
+    text-align: center;
+    /* we can align body of the page */
+    
+    margin: 30px;
+    /* margin is space between elements */
+
+    text-transform: uppercase;
+
+    /* background: blue; */
+    background: url("bunny.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+
+}
+p:hover{
+    width: 250px;
+    height: 250px;
+    background: rosybrown;
+    font-size: 25px;
+    cursor: pointer;
+    transition: 3s;
+}
+span{
+    color: lightblue;
+    font-size: 25px;
+}
+li{
+   display: inline-block;
+   width: 30%;
+   text-align: center;
+}
+ul{
+    padding-left: 0;
+}

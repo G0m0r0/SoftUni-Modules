@@ -1,0 +1,32 @@
+body{
+    background: gray;
+}
+
+h1#heading3{
+    color: red;
+}
+
+span#heading3{
+    color: blue;
+}
+
+.myClass{
+    color: burlywood;
+}
+
+section article{
+    border: 1px solid black;
+}
+
+section article .super-heading{
+    background: pink;
+}
+
+section > a{  
+    background: pink;
+}
+
+h1,h2,p{
+    
+}
+

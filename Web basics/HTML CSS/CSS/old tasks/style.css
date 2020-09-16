@@ -1,0 +1,28 @@
+*{
+    /* reset css */
+    /* * select everything */
+}
+div
+{
+ color: red;
+}
+p{
+    color: blue;
+}
+li{
+    color: green;
+}
+.boys{
+    color: blue;
+}.girls{
+    color: pink;
+}
+#special-girl{
+    color: red;
+}
+.girls{
+   color: yellow;
+}
+li{
+    color: orange;
+}

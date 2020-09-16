@@ -1,0 +1,20 @@
+ctrl+Shift+B
+
++create Model
++Create Data folder 
+	-inherit :DbContext it is a class ctr+. we add using Microsoft.EntityFrameworkCore;
+	-public DbSet<(name of the class in Models)> Tasks { get; set; }
+	-remove using System.Threading.Tasks;
+	-use using.(Data name).Models;
+	-private const string ConnectionString = @"Server=.\SQLEXPRESS;Database=ChooseName;Integrated Security=True;";
+	-override on(tab,tab)
+	-change what is in the scope with optionsBuilder.UseSqlServer(ConnectionString);
++then we have to create migration
+	-Tools->NuGet Package Manager->Package Manager Console
+	-write Add-Migration Initial  (a migration folder is created)
+	-write Update-Database
+	-to be sure everything is OK open microsoft SQL server managment click connect
++Startup.cs go to template see the names class controler have to be with the same name with Model(have to check) in template!
++Controllers add new class with name (model name)+Controller
+	-inherit :Controller it is a class ctr. we add using Microsoft.AspNetCore.Mvc;
+	-using TeisterMask.Data;

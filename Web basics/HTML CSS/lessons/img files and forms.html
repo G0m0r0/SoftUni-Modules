@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <!-- we can take picture from pc and from internet -->
+    <!-- we can accesses different folder by typing ../ -->
+    <img src="photo.png" alt="html photo">
+    <img src="This is not picture.png" alt="This was html photo">
+    <!-- alttag shows us broken photos  -->
+    <!-- photo from internet -->
+    <img src="https://static.boredpanda.com/blog/wp-content/uploads/2016/07/funny-men-parody-women-photos-fb.png" alt="html photo">
+    <!-- a stands for hyperlink -->
+    <a href="https://softuni.bg">Softuni hyper link</a>
+
+    <a href="mySecondPage.html">Second page</a>
+
+    <!-- form -->
+    <form>
+
+        <!-- <p> First name: Its not good idea to use paragrapth because later we have to accsses them</p> -->
+        <!-- better to use labe -->
+        <label>
+            First Name:
+             <input type="text"> 
+         </label>
+
+         <!-- we can write it like this too -->
+         <label for="Secondname">Second name:</label>
+        <input type="text" id="Secondname">
+         
+        <br> 
+        <!-- br is used for new line -->
+
+        <label >
+            email:
+            <input type="email">
+            <!-- type email validate out input @ . -->
+        </label>
+
+        <br>
+        <label >
+            Password:
+            <input type="password">
+        </label>
+        <!-- submit sends all the infomartion somewhere -->
+        <input type="submit">
+
+        <br>
+        <!-- bigger textbox -->
+        <label>
+            <textarea cols="30" rows="10"></textarea>
+        </label>
+
+
+        <!-- dropdown menu is select -->
+        <select>
+            <option value="Sofia">Sofia</option>
+            <option value="Plovdiv">Plovdiv</option>
+            <option value="Burgas">Burgas</option>
+            <option value="PLeven">PLeven</option>
+            <option value="Ukraina">Ukraina</option>
+        </select>
+<br>
+        <input type="radio" name="gender" value="male">Male <br>
+        <input type="radio" name="gender" value="female">Female<br>
+        <input type="radio" name="gender" value="other">Other <br>
+        <br><br>
+        <input type="checkbox" name="vehicles" value="bike">bike<br>
+        <input type="checkbox" name="vehicles" value="car">Car <br>
+        <input type="checkbox" name="vehicles" value="boat">boat <br>
+    </form>
+</body>
+</html>

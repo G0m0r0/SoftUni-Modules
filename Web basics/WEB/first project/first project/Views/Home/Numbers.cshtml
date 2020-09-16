@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "Numbers";
+    int maxNumber = int.Parse(ViewData["MaxNumber"].ToString());
+}
+<form action="/Home/Numbers" method="post">
+    Max number: <input name="id" value="@maxNumber" placeholder="Place enter max number"/>
+    <input type="submit"; value="Show" />
+</form>
+<h2>Numbers from 1 to @maxNumber</h2>
+@for (int i = 1; i <= maxNumber; i++)
+{
+    <div>@i^2 => @i*i => @Math.Sqrt(i)</div>
+}

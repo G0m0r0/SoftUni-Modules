@@ -1,0 +1,8 @@
+Package Manager Console
+
+-Solution explorer right click
+-open file in file explorer
+-in the folder (Hold SHIFT+right click)
+-Open powershell
+-dotnet ef migrations add PeshoMigration
+-dotnet ef database update
