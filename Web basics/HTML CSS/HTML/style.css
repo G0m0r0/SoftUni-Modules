@@ -1,0 +1,51 @@
+body{
+    background: lightblue;
+}
+
+nav{
+    background: darkblue;
+}
+
+nav ul li{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin: 10px;
+    font-family: Helvetica, sans-serif;
+}
+
+ul,body {
+    margin: 0%;
+}
+
+article{
+    border: 1px solid black;
+}
+
+section{
+    border: 1px solid darkred;
+    padding: 10px;
+    margin: 2%;
+}
+
+img{
+   margin-left: 33%;
+}
+
+h3{
+    margin-left: 10px;
+}
+
+p{
+    margin-left: 10px;
+}
+
+td{
+    border: 1px solid black;
+}
+
+table{
+    border: 1px solid black;
+    margin-left: 48%;
+    margin-bottom: 3%;
+}
