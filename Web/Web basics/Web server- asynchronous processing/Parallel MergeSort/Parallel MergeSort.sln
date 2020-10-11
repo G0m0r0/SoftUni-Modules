@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30021.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel MergeSort", "Parallel MergeSort\Parallel MergeSort.csproj", "{6226382D-B1E0-4469-B15F-F353DC0010FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel merge sort with tasks", "Parallel merge sort with tasks\Parallel merge sort with tasks.csproj", "{AB437DAB-624F-4CD4-9452-3276DC3EDAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6226382D-B1E0-4469-B15F-F353DC0010FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6226382D-B1E0-4469-B15F-F353DC0010FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6226382D-B1E0-4469-B15F-F353DC0010FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6226382D-B1E0-4469-B15F-F353DC0010FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB437DAB-624F-4CD4-9452-3276DC3EDAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB437DAB-624F-4CD4-9452-3276DC3EDAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB437DAB-624F-4CD4-9452-3276DC3EDAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB437DAB-624F-4CD4-9452-3276DC3EDAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {240C9625-EED7-4B5C-9E20-54C9B97F7705}
+	EndGlobalSection
+EndGlobal

@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Net.Http;
-using System.Net.Mail;
-using System.Threading;
 using System.Threading.Tasks;
 
 namespace Demo_with_Tasks
@@ -38,7 +36,7 @@ namespace Demo_with_Tasks
 
             Task.WaitAll(tasksList.ToArray());
 
-            Console.WriteLine(sw.Elapsed);
+            Console.WriteLine(sw.Elapsed.Minutes);
             Console.ReadLine();
         }
     }

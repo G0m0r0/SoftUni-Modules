@@ -9,57 +9,53 @@ namespace IChronometer
 {
     public class Chronometer : IChronometer
     {
-        public Stopwatch Stopwatch { get; set; }
-        public TimeSpan Milliseconds { get; set; }
-        public TimeSpan Seconds { get; set; }
-        public TimeSpan Minutes { get; set; }
+        public Stopwatch sw { get; set; }
 
         public Chronometer()
         {
-            Stopwatch = new Stopwatch();
+            sw = new Stopwatch();
+            laps = new List<string>();
         }
 
-        public string GetTime => string.Format($"{Minutes.TotalMinutes}:{Seconds.TotalSeconds}:{Milliseconds.TotalMilliseconds}","00:00:0000");
+        public string GetTime =>string.Format(
+            $"{Math.Round(sw.Elapsed.TotalMinutes)}:" +
+            $"{Math.Round(sw.Elapsed.TotalSeconds)}:" +
+            $"{Math.Round(sw.Elapsed.TotalMilliseconds)}","00:00:0000");
 
-        public List<string> Laps => Laps;
+        List<string> IChronometer.Laps => this.laps;
+        public List<string> laps;
 
         public string Lap()
         {
-            Laps.Add(string.Format(
-                $"{Minutes.TotalMinutes}:{Seconds.TotalSeconds}:{Milliseconds.TotalMilliseconds}"
-                , "00:00:0000"));
+            laps.Add(string.Format(
+            $"{Math.Round(sw.Elapsed.TotalMinutes)}:" +
+            $"{Math.Round(sw.Elapsed.TotalSeconds)}:" +
+            $"{Math.Round(sw.Elapsed.TotalMilliseconds)}", "00:00:0000"));
 
-            return string.Format($"{Minutes.TotalMinutes}:{Seconds.TotalSeconds}:{Milliseconds.TotalMilliseconds}","00:00:0000");
+            return string.Format(
+            $"{Math.Round(sw.Elapsed.TotalMinutes)}:" +
+            $"{Math.Round(sw.Elapsed.TotalSeconds)}:" +
+            $"{Math.Round(sw.Elapsed.TotalMilliseconds)}", "00:00:0000");
         }
 
         public void Reset()
         {
-            Stopwatch.Restart();
+            sw.Reset();
+            laps.Clear();
+            Thread.Sleep(3000);
+           // await Task.Delay(3000);
         }
 
         public void Start()
         {
-
-        }
-
-        private void MyMethod3()
-        {
-            throw new NotImplementedException();
-        }
-
-        private void MyMethod2()
-        {
-            throw new NotImplementedException();
-        }
-
-        private void MyMethod1()
-        {
-            throw new NotImplementedException();
+            sw.Start();
+            Thread.Sleep(3000);
         }
 
         public void Stop()
         {
-            Stopwatch.Stop();        
+            sw.Stop();
+            Thread.Sleep(3000);
         }
     }
 }

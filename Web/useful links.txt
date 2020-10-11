@@ -1,3 +1,7 @@
 https://fontawesome.com/  		 for most comman icons
 https://codepen.io/       		 easy to send web sites
 https://www.favicon-generator.org/    	favicon maker
+https://www.unixtimestamp.com/    	to convert to utc time
+https://www.twilio.com/			for video and audio calls
+https://opengameart.org/		free resourses for games
+	

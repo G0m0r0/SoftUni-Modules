@@ -1,0 +1,97 @@
+﻿namespace Parallel_MergeSort
+{
+    using System;
+    using System.Collections.Generic;
+    using System.Diagnostics;
+    using System.Linq;
+
+    class StartUp
+    {
+        static void Main()
+        {
+            var sw = Stopwatch.StartNew();
+            List<int> unsorted = new List<int>();
+            List<int> sorted;
+
+            Random random = new Random();
+
+            Console.WriteLine("Original array elements:");
+            for (int i = 0; i < 10_000; i++)
+            {
+                unsorted.Add(random.Next(0, 10_000));
+                Console.Write(unsorted[i] + " ");
+            }
+            Console.WriteLine();
+
+            sorted = MergeSort(unsorted);
+
+            Console.WriteLine("Sorted array elements: ");
+            foreach (int x in sorted)
+            {
+                Console.Write(x + " ");
+            }
+            Console.Write("\n");
+
+            //Console.WriteLine(sw.Elapsed.TotalMilliseconds+"  Milliseconds");
+            Console.WriteLine(sw.Elapsed.TotalSeconds+"  Seconds");
+            //1.3  1.4  1.6  1.5  1.3  1.7
+        }
+
+        private static List<int> MergeSort(List<int> unsorted)
+        {
+            if (unsorted.Count <= 1)
+                return unsorted;
+
+            List<int> left = new List<int>();
+            List<int> right = new List<int>();
+
+            int middle = unsorted.Count / 2;
+            for (int i = 0; i < middle; i++)  //Dividing the unsorted list
+            {
+                left.Add(unsorted[i]);
+            }
+            for (int i = middle; i < unsorted.Count; i++)
+            {
+                right.Add(unsorted[i]);
+            }
+
+            left = MergeSort(left);
+            right = MergeSort(right);
+            return Merge(left, right);
+        }
+
+        private static List<int> Merge(List<int> left, List<int> right)
+        {
+            List<int> result = new List<int>();
+
+            while (left.Count > 0 || right.Count > 0)
+            {
+                if (left.Count > 0 && right.Count > 0)
+                {
+                    if (left.First() <= right.First())  //Comparing First two elements to see which is smaller
+                    {
+                        result.Add(left.First());
+                        left.Remove(left.First());      //Rest of the list minus the first element
+                    }
+                    else
+                    {
+                        result.Add(right.First());
+                        right.Remove(right.First());
+                    }
+                }
+                else if (left.Count > 0)
+                {
+                    result.Add(left.First());
+                    left.Remove(left.First());
+                }
+                else if (right.Count > 0)
+                {
+                    result.Add(right.First());
+
+                    right.Remove(right.First());
+                }
+            }
+            return result;
+        }
+    }
+}
