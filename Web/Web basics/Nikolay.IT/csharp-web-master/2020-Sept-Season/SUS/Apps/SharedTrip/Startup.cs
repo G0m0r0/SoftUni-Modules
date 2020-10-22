@@ -18,7 +18,6 @@ namespace SharedTrip
         {
             serviceCollection.Add<ITripService, TripService>();
             serviceCollection.Add<IUserService, UserService>();
-            serviceCollection.Add<IUserTripService, UserTripService>();
         }
     }
 }

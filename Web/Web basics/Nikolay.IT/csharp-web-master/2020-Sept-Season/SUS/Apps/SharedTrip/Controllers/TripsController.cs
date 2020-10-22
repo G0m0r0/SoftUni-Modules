@@ -1,12 +1,11 @@
-﻿using SharedTrip.Services;
-using SharedTrip.ViewModels.Trips;
-using SUS.HTTP;
-using SUS.MvcFramework;
-using System;
-using System.Globalization;
-
-namespace SharedTrip.Controllers
+﻿namespace SharedTrip.Controllers
 {
+    using SharedTrip.Services;
+    using SharedTrip.ViewModels.Trips;
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+    using System;
+    using System.Globalization;
     public class TripsController : Controller
     {
         private readonly ITripService tripService;
@@ -17,10 +16,9 @@ namespace SharedTrip.Controllers
         }
         public HttpResponse All()
         {
-            //var viewModel = tripService.GetAll();
-            return this.View();
+            var viewModel = tripService.GetAll();
+            return this.View(viewModel);
         }
-
 
         public HttpResponse Add()
         {
@@ -60,9 +58,28 @@ namespace SharedTrip.Controllers
             return this.Redirect("/Trips/All");
         }
 
-        public HttpResponse Details()
+        public HttpResponse Details(string tripId)
         {
-            return this.View();
+            var trip = tripService.GetDetails(tripId);
+            return this.View(trip);
+        }
+
+        public HttpResponse AddUserToTrip(string tripId)
+        {
+            if (!this.IsUserSignedIn())
+            {
+                return this.Redirect("/Users/Login");
+            }
+
+            if (!this.tripService.HasAvailableSeats(tripId))
+            {
+                return this.Error("No available seats!");
+            }
+
+            var userId = this.GetUserId();
+            this.tripService.AddUserToTrip(userId, tripId);
+
+            return this.Redirect("/Trips/All");
         }
     }
 }

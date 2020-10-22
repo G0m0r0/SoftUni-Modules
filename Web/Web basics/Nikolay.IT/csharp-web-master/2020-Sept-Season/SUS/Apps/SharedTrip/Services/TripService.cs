@@ -14,6 +14,26 @@
         {
             this.db = db;
         }
+
+        public void AddUserToTrip(string userId, string tripId)
+        {
+            var userInTrip = this.db.UserTrips.Any(x => x.UserId == userId && x.TripId == tripId);
+
+            if (userInTrip)
+            {
+                return;
+            }
+
+            var userTrip = new UserTrip
+            {
+                TripId = tripId,
+                UserId = userId,
+            };
+
+            this.db.UserTrips.Add(userTrip);
+            db.SaveChanges();
+        }
+
         public void Create(AddTripsViewModel trip)
         {
             var newTrip = new Trip
@@ -36,11 +56,41 @@
             {
                 StartPoint = x.StartPoint,
                 EndPoint = x.EndPoint,
-                Departuretime = x.DepartureTime.ToString("dd.MM.yyyy HH:mm"),
-                Seats = x.Seats
+                Id = x.Id,
+                DepartureTime = x.DepartureTime,
+                UsedSeats = x.UserTrips.Count(),
+                Seats = x.Seats,
             }).ToList();
 
             return trips;
+        }
+
+        public TripDetailsViewModel GetDetails(string id)
+        {
+            return this.db.Trips.Where(x => x.Id == id)
+                .Select(x=>new TripDetailsViewModel
+                {
+                    DepartureTime = x.DepartureTime,
+                    Description = x.Description,
+                    EndPoint = x.EndPoint,
+                    Id = x.Id,
+                    ImagePath = x.ImagePath,
+                    Seats = x.Seats,
+                    StartPoint = x.StartPoint,
+                    UsedSeats = x.UserTrips.Count(),
+                })
+                .FirstOrDefault();
+        }
+
+        public bool HasAvailableSeats(string tripId)
+        {
+            var trip = this.db.Trips.Where(x => x.Id == tripId)
+                .Select(x => new { x.Seats, TakenSeats = x.UserTrips.Count() })
+                .FirstOrDefault();
+
+            var availableSeats = trip.Seats - trip.TakenSeats;
+
+            return availableSeats > 0;
         }
     }
 }
