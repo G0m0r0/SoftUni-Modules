@@ -1,8 +1,8 @@
-﻿namespace SharedTrip.Data
+﻿namespace BattleCards2.Data
 {
     using Microsoft.EntityFrameworkCore;
 
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext:DbContext
     {
         public ApplicationDbContext()
         {
@@ -13,23 +13,21 @@
         {
         }
 
+        public DbSet<Card> Cards { get; set; }
         public DbSet<User> Users { get; set; }
-
-        public DbSet<Trip> Trips { get; set; }
-
-        public DbSet<UserCard> UserTrips { get; set; }
+        public DbSet<UserCard> UserCards { get; set; } 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=.;Database=SharedTrip;Integrated Security=True");
+                optionsBuilder.UseSqlServer("Server=.;Database=BatlleCards2;Integrated Security=True");
             }
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<UserCard>().HasKey(x => new { x.TripId, x.UserId });
+            modelBuilder.Entity<UserCard>().HasKey(x => new { x.CardId, x.UserId });
             base.OnModelCreating(modelBuilder);
         }
     }

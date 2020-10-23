@@ -1,12 +1,12 @@
-﻿using System;
-
-namespace BattleCards2
+﻿namespace BattleCards2
 {
-    class Program
+    using SUS.MvcFramework;
+    using System.Threading.Tasks;
+    public class Program
     {
-        static void Main(string[] args)
+        public static async Task Main()
         {
-            Console.WriteLine("Hello World!");
+            await Host.CreateHostAsync(new Startup());
         }
     }
 }

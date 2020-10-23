@@ -24,7 +24,7 @@ namespace SharedTrip.Services
                 return false;
             }
 
-            var userTrip = new UserTrip
+            var userTrip = new UserCard
             {
                 TripId = tripId,
                 UserId = userId,

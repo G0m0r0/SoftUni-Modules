@@ -1,6 +1,7 @@
 ﻿namespace SharedTrip.Data
 {
-    public class UserTrip
+    using System;
+    public class UserCard
     {
         public string UserId { get; set; }
 

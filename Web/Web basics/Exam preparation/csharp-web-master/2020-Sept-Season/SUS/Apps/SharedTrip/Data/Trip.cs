@@ -1,16 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Text;
-
-namespace SharedTrip.Data
+﻿namespace SharedTrip.Data
 {
+    using System;
+    using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
     public class Trip
     {
         public Trip()
         {
             this.Id = Guid.NewGuid().ToString();
-            this.UserTrips = new HashSet<UserTrip>();
+            this.UserTrips = new HashSet<UserCard>();
         }
 
         public string Id { get; set; }
@@ -31,6 +29,6 @@ namespace SharedTrip.Data
 
         public string ImagePath { get; set; }
 
-        public virtual ICollection<UserTrip> UserTrips { get; set; }
+        public virtual ICollection<UserCard> UserTrips { get; set; }
     }
 }

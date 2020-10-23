@@ -27,6 +27,7 @@ namespace BattleCards.Services
             };
             this.db.Cards.Add(card);
             this.db.SaveChanges();
+
             return card.Id;
         }
 
