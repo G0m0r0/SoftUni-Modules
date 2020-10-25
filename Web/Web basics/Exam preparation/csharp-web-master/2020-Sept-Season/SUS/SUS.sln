@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Suls", "Apps\Suls\Suls.cspr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedTrip", "Apps\SharedTrip\SharedTrip.csproj", "{64D06F06-38BD-49AE-8B74-BA7A314F7476}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleCards2", "Apps\BattleCards2\BattleCards2.csproj", "{71FD4D40-60BF-4EFA-BE50-6A5FF0E59C72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleCards2", "Apps\BattleCards2\BattleCards2.csproj", "{71FD4D40-60BF-4EFA-BE50-6A5FF0E59C72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musaka", "Apps\Musaka\Musaka.csproj", "{F036FE6B-4EFC-40C2-9568-39C223FAD696}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +55,10 @@ Global
 		{71FD4D40-60BF-4EFA-BE50-6A5FF0E59C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71FD4D40-60BF-4EFA-BE50-6A5FF0E59C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71FD4D40-60BF-4EFA-BE50-6A5FF0E59C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F036FE6B-4EFC-40C2-9568-39C223FAD696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F036FE6B-4EFC-40C2-9568-39C223FAD696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F036FE6B-4EFC-40C2-9568-39C223FAD696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F036FE6B-4EFC-40C2-9568-39C223FAD696}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +68,7 @@ Global
 		{DD79BC92-4BDA-4411-B298-7FD7C705D911} = {D058481A-B479-499D-ADB8-9108A526A334}
 		{64D06F06-38BD-49AE-8B74-BA7A314F7476} = {D058481A-B479-499D-ADB8-9108A526A334}
 		{71FD4D40-60BF-4EFA-BE50-6A5FF0E59C72} = {D058481A-B479-499D-ADB8-9108A526A334}
+		{F036FE6B-4EFC-40C2-9568-39C223FAD696} = {D058481A-B479-499D-ADB8-9108A526A334}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1DE8A1FE-A195-4206-8DF0-E23F1C7707C8}
