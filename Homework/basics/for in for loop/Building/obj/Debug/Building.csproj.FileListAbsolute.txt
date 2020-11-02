@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\for in for loop\Building\obj\Debug\Building.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\for in for loop\Building\obj\Debug\Building.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\for in for loop\Building\bin\Debug\Building.exe.config
-D:\C#\Softuni\Homework\for in for loop\Building\bin\Debug\Building.exe
-D:\C#\Softuni\Homework\for in for loop\Building\bin\Debug\Building.pdb
-D:\C#\Softuni\Homework\for in for loop\Building\obj\Debug\Building.exe
-D:\C#\Softuni\Homework\for in for loop\Building\obj\Debug\Building.pdb

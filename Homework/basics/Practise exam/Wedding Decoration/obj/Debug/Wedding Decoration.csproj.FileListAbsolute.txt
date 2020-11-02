@@ -1,7 +1,0 @@
-C:\Users\dimit\source\repos\Practise exam\Wedding Decoration\bin\Debug\Wedding Decoration.exe.config
-C:\Users\dimit\source\repos\Practise exam\Wedding Decoration\bin\Debug\Wedding Decoration.exe
-C:\Users\dimit\source\repos\Practise exam\Wedding Decoration\bin\Debug\Wedding Decoration.pdb
-C:\Users\dimit\source\repos\Practise exam\Wedding Decoration\obj\Debug\Wedding Decoration.csproj.CoreCompileInputs.cache
-C:\Users\dimit\source\repos\Practise exam\Wedding Decoration\obj\Debug\Wedding Decoration.exe
-C:\Users\dimit\source\repos\Practise exam\Wedding Decoration\obj\Debug\Wedding Decoration.pdb
-C:\Users\dimit\source\repos\Practise exam\Wedding Decoration\obj\Debug\Wedding Decoration.csprojAssemblyReference.cache

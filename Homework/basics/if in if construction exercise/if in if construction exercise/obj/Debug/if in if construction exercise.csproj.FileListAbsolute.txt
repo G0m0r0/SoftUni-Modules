@@ -1,7 +1,0 @@
-C:\Users\dimit\source\repos\if in if construction exercise\if in if construction exercise\bin\Debug\if in if construction exercise.exe.config
-C:\Users\dimit\source\repos\if in if construction exercise\if in if construction exercise\bin\Debug\if in if construction exercise.exe
-C:\Users\dimit\source\repos\if in if construction exercise\if in if construction exercise\bin\Debug\if in if construction exercise.pdb
-C:\Users\dimit\source\repos\if in if construction exercise\if in if construction exercise\obj\Debug\if in if construction exercise.csprojAssemblyReference.cache
-C:\Users\dimit\source\repos\if in if construction exercise\if in if construction exercise\obj\Debug\if in if construction exercise.csproj.CoreCompileInputs.cache
-C:\Users\dimit\source\repos\if in if construction exercise\if in if construction exercise\obj\Debug\if in if construction exercise.exe
-C:\Users\dimit\source\repos\if in if construction exercise\if in if construction exercise\obj\Debug\if in if construction exercise.pdb

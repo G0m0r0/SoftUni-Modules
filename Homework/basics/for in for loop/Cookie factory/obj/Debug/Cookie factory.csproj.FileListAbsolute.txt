@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\for in for loop\Cookie factory\bin\Debug\Cookie factory.exe.config
-D:\C#\Softuni\Homework\for in for loop\Cookie factory\bin\Debug\Cookie factory.exe
-D:\C#\Softuni\Homework\for in for loop\Cookie factory\bin\Debug\Cookie factory.pdb
-D:\C#\Softuni\Homework\for in for loop\Cookie factory\obj\Debug\Cookie factory.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\for in for loop\Cookie factory\obj\Debug\Cookie factory.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\for in for loop\Cookie factory\obj\Debug\Cookie factory.exe
-D:\C#\Softuni\Homework\for in for loop\Cookie factory\obj\Debug\Cookie factory.pdb

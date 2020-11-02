@@ -1,7 +1,0 @@
-D:\C#\fifth\fifth\bin\Debug\fifth.exe.config
-D:\C#\fifth\fifth\bin\Debug\fifth.exe
-D:\C#\fifth\fifth\bin\Debug\fifth.pdb
-D:\C#\fifth\fifth\obj\Debug\fifth.csprojAssemblyReference.cache
-D:\C#\fifth\fifth\obj\Debug\fifth.csproj.CoreCompileInputs.cache
-D:\C#\fifth\fifth\obj\Debug\fifth.exe
-D:\C#\fifth\fifth\obj\Debug\fifth.pdb

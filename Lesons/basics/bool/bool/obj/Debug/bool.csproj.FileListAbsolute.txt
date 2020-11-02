@@ -1,7 +1,0 @@
-D:\C#\Softuni\Lesons\bool\bool\bin\Debug\@bool.exe.config
-D:\C#\Softuni\Lesons\bool\bool\bin\Debug\@bool.exe
-D:\C#\Softuni\Lesons\bool\bool\bin\Debug\@bool.pdb
-D:\C#\Softuni\Lesons\bool\bool\obj\Debug\bool.csprojAssemblyReference.cache
-D:\C#\Softuni\Lesons\bool\bool\obj\Debug\bool.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Lesons\bool\bool\obj\Debug\@bool.exe
-D:\C#\Softuni\Lesons\bool\bool\obj\Debug\@bool.pdb

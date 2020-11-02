@@ -1,7 +1,0 @@
-D:\C#\Softuni\Lesons\tech\teck introduction\teck introduction\bin\Debug\teck introduction.exe.config
-D:\C#\Softuni\Lesons\tech\teck introduction\teck introduction\bin\Debug\teck introduction.exe
-D:\C#\Softuni\Lesons\tech\teck introduction\teck introduction\bin\Debug\teck introduction.pdb
-D:\C#\Softuni\Lesons\tech\teck introduction\teck introduction\obj\Debug\teck introduction.csprojAssemblyReference.cache
-D:\C#\Softuni\Lesons\tech\teck introduction\teck introduction\obj\Debug\teck introduction.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Lesons\tech\teck introduction\teck introduction\obj\Debug\teck introduction.exe
-D:\C#\Softuni\Lesons\tech\teck introduction\teck introduction\obj\Debug\teck introduction.pdb

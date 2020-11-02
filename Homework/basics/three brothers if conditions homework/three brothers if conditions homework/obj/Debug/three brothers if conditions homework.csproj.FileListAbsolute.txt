@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\three brothers if conditions homework\three brothers if conditions homework\bin\Debug\three brothers if conditions homework.exe.config
-D:\C#\Softuni\Homework\three brothers if conditions homework\three brothers if conditions homework\bin\Debug\three brothers if conditions homework.exe
-D:\C#\Softuni\Homework\three brothers if conditions homework\three brothers if conditions homework\bin\Debug\three brothers if conditions homework.pdb
-D:\C#\Softuni\Homework\three brothers if conditions homework\three brothers if conditions homework\obj\Debug\three brothers if conditions homework.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\three brothers if conditions homework\three brothers if conditions homework\obj\Debug\three brothers if conditions homework.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\three brothers if conditions homework\three brothers if conditions homework\obj\Debug\three brothers if conditions homework.exe
-D:\C#\Softuni\Homework\three brothers if conditions homework\three brothers if conditions homework\obj\Debug\three brothers if conditions homework.pdb

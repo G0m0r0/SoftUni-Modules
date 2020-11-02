@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\world swimming record\world swimming record\bin\Debug\world swimming record.exe.config
-D:\C#\Softuni\Homework\world swimming record\world swimming record\bin\Debug\world swimming record.exe
-D:\C#\Softuni\Homework\world swimming record\world swimming record\bin\Debug\world swimming record.pdb
-D:\C#\Softuni\Homework\world swimming record\world swimming record\obj\Debug\world swimming record.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\world swimming record\world swimming record\obj\Debug\world swimming record.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\world swimming record\world swimming record\obj\Debug\world swimming record.exe
-D:\C#\Softuni\Homework\world swimming record\world swimming record\obj\Debug\world swimming record.pdb

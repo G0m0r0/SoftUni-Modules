@@ -1,3 +1,0 @@
-D:\Programming\Softuni\Lesons\C# Advance\Generics\template collection\obj\Debug\netcoreapp3.0\template collection.csprojAssemblyReference.cache
-D:\Programming\Softuni\Lesons\C# Advance\Generics\template collection\obj\Debug\netcoreapp3.0\template collection.AssemblyInfoInputs.cache
-D:\Programming\Softuni\Lesons\C# Advance\Generics\template collection\obj\Debug\netcoreapp3.0\template collection.AssemblyInfo.cs

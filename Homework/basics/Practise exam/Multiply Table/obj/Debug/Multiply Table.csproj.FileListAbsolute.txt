@@ -1,6 +1,0 @@
-C:\Users\dimit\source\repos\Practise exam\Multiply Table\bin\Debug\Multiply Table.exe.config
-C:\Users\dimit\source\repos\Practise exam\Multiply Table\bin\Debug\Multiply Table.exe
-C:\Users\dimit\source\repos\Practise exam\Multiply Table\bin\Debug\Multiply Table.pdb
-C:\Users\dimit\source\repos\Practise exam\Multiply Table\obj\Debug\Multiply Table.csproj.CoreCompileInputs.cache
-C:\Users\dimit\source\repos\Practise exam\Multiply Table\obj\Debug\Multiply Table.exe
-C:\Users\dimit\source\repos\Practise exam\Multiply Table\obj\Debug\Multiply Table.pdb

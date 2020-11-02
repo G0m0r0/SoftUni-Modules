@@ -1,4 +1,0 @@
-D:\Programming\Softuni\Lesons\C# Advance\Multidimensional arrays\3DimJaggedArray\obj\Debug\netcoreapp2.2\3DimJaggedArray.csprojAssemblyReference.cache
-D:\Programming\Softuni\Lesons\C# Advance\Multidimensional arrays\3DimJaggedArray\obj\Debug\netcoreapp2.2\3DimJaggedArray.csproj.CoreCompileInputs.cache
-D:\Programming\Softuni\Lesons\C# Advance\Multidimensional arrays\3DimJaggedArray\obj\Debug\netcoreapp2.2\3DimJaggedArray.AssemblyInfoInputs.cache
-D:\Programming\Softuni\Lesons\C# Advance\Multidimensional arrays\3DimJaggedArray\obj\Debug\netcoreapp2.2\3DimJaggedArray.AssemblyInfo.cs

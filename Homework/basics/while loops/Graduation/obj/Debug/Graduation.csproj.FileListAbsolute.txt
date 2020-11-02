@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\while loops\Graduation\bin\Debug\Graduation.exe.config
-D:\C#\Softuni\Homework\while loops\Graduation\bin\Debug\Graduation.exe
-D:\C#\Softuni\Homework\while loops\Graduation\bin\Debug\Graduation.pdb
-D:\C#\Softuni\Homework\while loops\Graduation\obj\Debug\Graduation.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\while loops\Graduation\obj\Debug\Graduation.exe
-D:\C#\Softuni\Homework\while loops\Graduation\obj\Debug\Graduation.pdb
-D:\C#\Softuni\Homework\while loops\Graduation\obj\Debug\Graduation.csprojAssemblyReference.cache

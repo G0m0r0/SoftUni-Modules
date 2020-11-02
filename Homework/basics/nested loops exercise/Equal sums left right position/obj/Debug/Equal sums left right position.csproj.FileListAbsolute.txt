@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\nested loops exercise\Equal sums left right position\bin\Debug\Equal sums left right position.exe.config
-D:\C#\Softuni\Homework\nested loops exercise\Equal sums left right position\bin\Debug\Equal sums left right position.exe
-D:\C#\Softuni\Homework\nested loops exercise\Equal sums left right position\bin\Debug\Equal sums left right position.pdb
-D:\C#\Softuni\Homework\nested loops exercise\Equal sums left right position\obj\Debug\Equal sums left right position.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\nested loops exercise\Equal sums left right position\obj\Debug\Equal sums left right position.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\nested loops exercise\Equal sums left right position\obj\Debug\Equal sums left right position.exe
-D:\C#\Softuni\Homework\nested loops exercise\Equal sums left right position\obj\Debug\Equal sums left right position.pdb

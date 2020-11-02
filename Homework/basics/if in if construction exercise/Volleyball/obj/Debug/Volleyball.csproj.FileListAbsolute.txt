@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\if in if construction exercise\Volleyball\bin\Debug\Volleyball.exe.config
-D:\C#\Softuni\Homework\if in if construction exercise\Volleyball\bin\Debug\Volleyball.exe
-D:\C#\Softuni\Homework\if in if construction exercise\Volleyball\bin\Debug\Volleyball.pdb
-D:\C#\Softuni\Homework\if in if construction exercise\Volleyball\obj\Debug\Volleyball.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\if in if construction exercise\Volleyball\obj\Debug\Volleyball.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\if in if construction exercise\Volleyball\obj\Debug\Volleyball.exe
-D:\C#\Softuni\Homework\if in if construction exercise\Volleyball\obj\Debug\Volleyball.pdb

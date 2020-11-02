@@ -1,3 +1,0 @@
-D:\C#\Softuni\Lesons\tech\methods\infinite recursion full stack\obj\Debug\netcoreapp2.1\infinite recursion full stack.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Lesons\tech\methods\infinite recursion full stack\obj\Debug\netcoreapp2.1\infinite recursion full stack.AssemblyInfoInputs.cache
-D:\C#\Softuni\Lesons\tech\methods\infinite recursion full stack\obj\Debug\netcoreapp2.1\infinite recursion full stack.AssemblyInfo.cs

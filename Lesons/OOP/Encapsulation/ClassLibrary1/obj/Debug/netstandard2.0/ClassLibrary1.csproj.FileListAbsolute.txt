@@ -1,9 +1,0 @@
-E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
-E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
-E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
-E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojAssemblyReference.cache
-E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
-E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
-E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
-E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
-E:\Delyan\Programing\Softuni\Lesons\OOP\Encapsulation\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb

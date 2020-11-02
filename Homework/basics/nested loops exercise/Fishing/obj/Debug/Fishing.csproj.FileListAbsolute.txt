@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\nested loops exercise\Fishing\bin\Debug\Fishing.exe.config
-D:\C#\Softuni\Homework\nested loops exercise\Fishing\bin\Debug\Fishing.exe
-D:\C#\Softuni\Homework\nested loops exercise\Fishing\bin\Debug\Fishing.pdb
-D:\C#\Softuni\Homework\nested loops exercise\Fishing\obj\Debug\Fishing.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\nested loops exercise\Fishing\obj\Debug\Fishing.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\nested loops exercise\Fishing\obj\Debug\Fishing.exe
-D:\C#\Softuni\Homework\nested loops exercise\Fishing\obj\Debug\Fishing.pdb

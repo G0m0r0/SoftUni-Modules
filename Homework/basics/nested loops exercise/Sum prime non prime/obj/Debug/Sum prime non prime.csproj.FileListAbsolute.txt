@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\nested loops exercise\Sum prime non prime\bin\Debug\Sum prime non prime.exe.config
-D:\C#\Softuni\Homework\nested loops exercise\Sum prime non prime\bin\Debug\Sum prime non prime.exe
-D:\C#\Softuni\Homework\nested loops exercise\Sum prime non prime\bin\Debug\Sum prime non prime.pdb
-D:\C#\Softuni\Homework\nested loops exercise\Sum prime non prime\obj\Debug\Sum prime non prime.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\nested loops exercise\Sum prime non prime\obj\Debug\Sum prime non prime.exe
-D:\C#\Softuni\Homework\nested loops exercise\Sum prime non prime\obj\Debug\Sum prime non prime.pdb
-D:\C#\Softuni\Homework\nested loops exercise\Sum prime non prime\obj\Debug\Sum prime non prime.csprojAssemblyReference.cache

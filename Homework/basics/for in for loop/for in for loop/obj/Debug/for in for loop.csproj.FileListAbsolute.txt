@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\for in for loop\for in for loop\bin\Debug\for in for loop.exe.config
-D:\C#\Softuni\Homework\for in for loop\for in for loop\bin\Debug\for in for loop.exe
-D:\C#\Softuni\Homework\for in for loop\for in for loop\bin\Debug\for in for loop.pdb
-D:\C#\Softuni\Homework\for in for loop\for in for loop\obj\Debug\for in for loop.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\for in for loop\for in for loop\obj\Debug\for in for loop.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\for in for loop\for in for loop\obj\Debug\for in for loop.exe
-D:\C#\Softuni\Homework\for in for loop\for in for loop\obj\Debug\for in for loop.pdb

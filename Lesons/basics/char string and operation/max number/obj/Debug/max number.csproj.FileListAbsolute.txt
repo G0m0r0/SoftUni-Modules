@@ -1,7 +1,0 @@
-D:\C#\Softuni\char string and operation\max number\bin\Debug\max number.exe.config
-D:\C#\Softuni\char string and operation\max number\bin\Debug\max number.exe
-D:\C#\Softuni\char string and operation\max number\bin\Debug\max number.pdb
-D:\C#\Softuni\char string and operation\max number\obj\Debug\max number.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\char string and operation\max number\obj\Debug\max number.exe
-D:\C#\Softuni\char string and operation\max number\obj\Debug\max number.pdb
-D:\C#\Softuni\char string and operation\max number\obj\Debug\max number.csprojAssemblyReference.cache

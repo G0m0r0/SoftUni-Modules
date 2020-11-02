@@ -1,8 +1,0 @@
-D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
-D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
-D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
-D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache
-D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
-D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
-D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
-D:\Programming\Softuni\Homework\OOP\Unit testing- exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb

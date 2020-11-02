@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\Scholarship\Scholarship\bin\Debug\Scholarship.exe.config
-D:\C#\Softuni\Homework\Scholarship\Scholarship\bin\Debug\Scholarship.exe
-D:\C#\Softuni\Homework\Scholarship\Scholarship\bin\Debug\Scholarship.pdb
-D:\C#\Softuni\Homework\Scholarship\Scholarship\obj\Debug\Scholarship.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\Scholarship\Scholarship\obj\Debug\Scholarship.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\Scholarship\Scholarship\obj\Debug\Scholarship.exe
-D:\C#\Softuni\Homework\Scholarship\Scholarship\obj\Debug\Scholarship.pdb

@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\if constructions in if constructions\Match Tickets\bin\Debug\Match Tickets.exe.config
-D:\C#\Softuni\Homework\if constructions in if constructions\Match Tickets\bin\Debug\Match Tickets.exe
-D:\C#\Softuni\Homework\if constructions in if constructions\Match Tickets\bin\Debug\Match Tickets.pdb
-D:\C#\Softuni\Homework\if constructions in if constructions\Match Tickets\obj\Debug\Match Tickets.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\if constructions in if constructions\Match Tickets\obj\Debug\Match Tickets.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\if constructions in if constructions\Match Tickets\obj\Debug\Match Tickets.exe
-D:\C#\Softuni\Homework\if constructions in if constructions\Match Tickets\obj\Debug\Match Tickets.pdb

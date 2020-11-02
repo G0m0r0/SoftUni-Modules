@@ -1,7 +1,0 @@
-D:\C#\aquarium\aquarium\bin\Debug\aquarium.exe.config
-D:\C#\aquarium\aquarium\bin\Debug\aquarium.exe
-D:\C#\aquarium\aquarium\bin\Debug\aquarium.pdb
-D:\C#\aquarium\aquarium\obj\Debug\aquarium.csprojAssemblyReference.cache
-D:\C#\aquarium\aquarium\obj\Debug\aquarium.csproj.CoreCompileInputs.cache
-D:\C#\aquarium\aquarium\obj\Debug\aquarium.exe
-D:\C#\aquarium\aquarium\obj\Debug\aquarium.pdb

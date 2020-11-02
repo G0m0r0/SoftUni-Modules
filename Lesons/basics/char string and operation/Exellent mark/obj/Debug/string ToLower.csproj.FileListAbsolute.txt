@@ -1,7 +1,0 @@
-D:\C#\Softuni\char string and operation\Exellent mark\bin\Debug\Exellent mark.exe.config
-D:\C#\Softuni\char string and operation\Exellent mark\bin\Debug\Exellent mark.exe
-D:\C#\Softuni\char string and operation\Exellent mark\bin\Debug\Exellent mark.pdb
-D:\C#\Softuni\char string and operation\Exellent mark\obj\Debug\string ToLower.csprojAssemblyReference.cache
-D:\C#\Softuni\char string and operation\Exellent mark\obj\Debug\string ToLower.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\char string and operation\Exellent mark\obj\Debug\Exellent mark.exe
-D:\C#\Softuni\char string and operation\Exellent mark\obj\Debug\Exellent mark.pdb

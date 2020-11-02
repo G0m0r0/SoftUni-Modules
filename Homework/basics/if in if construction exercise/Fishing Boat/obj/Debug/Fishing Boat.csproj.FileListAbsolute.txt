@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\if in if construction exercise\Fishing Boat\bin\Debug\Fishing Boat.exe.config
-D:\C#\Softuni\Homework\if in if construction exercise\Fishing Boat\bin\Debug\Fishing Boat.exe
-D:\C#\Softuni\Homework\if in if construction exercise\Fishing Boat\bin\Debug\Fishing Boat.pdb
-D:\C#\Softuni\Homework\if in if construction exercise\Fishing Boat\obj\Debug\Fishing Boat.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\if in if construction exercise\Fishing Boat\obj\Debug\Fishing Boat.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\if in if construction exercise\Fishing Boat\obj\Debug\Fishing Boat.exe
-D:\C#\Softuni\Homework\if in if construction exercise\Fishing Boat\obj\Debug\Fishing Boat.pdb

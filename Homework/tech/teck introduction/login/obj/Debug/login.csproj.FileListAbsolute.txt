@@ -1,7 +1,0 @@
-D:\C#\Softuni\Lesons\tech\teck introduction\login\bin\Debug\login.exe.config
-D:\C#\Softuni\Lesons\tech\teck introduction\login\bin\Debug\login.exe
-D:\C#\Softuni\Lesons\tech\teck introduction\login\bin\Debug\login.pdb
-D:\C#\Softuni\Lesons\tech\teck introduction\login\obj\Debug\login.csprojAssemblyReference.cache
-D:\C#\Softuni\Lesons\tech\teck introduction\login\obj\Debug\login.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Lesons\tech\teck introduction\login\obj\Debug\login.exe
-D:\C#\Softuni\Lesons\tech\teck introduction\login\obj\Debug\login.pdb

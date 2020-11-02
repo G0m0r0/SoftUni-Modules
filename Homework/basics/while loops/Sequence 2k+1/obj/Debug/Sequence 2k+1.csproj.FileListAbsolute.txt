@@ -1,6 +1,0 @@
-D:\C#\Softuni\Homework\while loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe.config
-D:\C#\Softuni\Homework\while loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe
-D:\C#\Softuni\Homework\while loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.pdb
-D:\C#\Softuni\Homework\while loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\while loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.exe
-D:\C#\Softuni\Homework\while loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.pdb

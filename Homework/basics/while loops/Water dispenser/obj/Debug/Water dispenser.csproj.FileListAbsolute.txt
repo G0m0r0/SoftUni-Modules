@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\while loops\Water dispenser\bin\Debug\Water dispenser.exe.config
-D:\C#\Softuni\Homework\while loops\Water dispenser\bin\Debug\Water dispenser.exe
-D:\C#\Softuni\Homework\while loops\Water dispenser\bin\Debug\Water dispenser.pdb
-D:\C#\Softuni\Homework\while loops\Water dispenser\obj\Debug\Water dispenser.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\while loops\Water dispenser\obj\Debug\Water dispenser.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\while loops\Water dispenser\obj\Debug\Water dispenser.exe
-D:\C#\Softuni\Homework\while loops\Water dispenser\obj\Debug\Water dispenser.pdb

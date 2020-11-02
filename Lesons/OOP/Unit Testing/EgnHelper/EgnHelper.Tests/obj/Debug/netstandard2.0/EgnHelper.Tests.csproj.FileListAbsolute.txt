@@ -1,9 +1,0 @@
-D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\EgnHelper.Tests\bin\Debug\netstandard2.0\EgnHelper.Tests.deps.json
-D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\EgnHelper.Tests\bin\Debug\netstandard2.0\EgnHelper.Tests.dll
-D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\EgnHelper.Tests\obj\Debug\netstandard2.0\EgnHelper.Tests.AssemblyInfoInputs.cache
-D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\EgnHelper.Tests\obj\Debug\netstandard2.0\EgnHelper.Tests.AssemblyInfo.cs
-D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\EgnHelper.Tests\obj\Debug\netstandard2.0\EgnHelper.Tests.csprojAssemblyReference.cache
-D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\EgnHelper.Tests\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
-D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\EgnHelper.Tests\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
-D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\EgnHelper.Tests\bin\Debug\netstandard2.0\nunit.engine.dll
-D:\Programming\Softuni\Lesons\OOP\Unit Testing\EgnHelper\EgnHelper.Tests\bin\Debug\netstandard2.0\nunit.engine.api.dll

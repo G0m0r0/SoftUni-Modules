@@ -1,7 +1,0 @@
-D:\C#\Softuni\Lesons\tech\teck introduction\Triangle of numbers\bin\Debug\Triangle of numbers.exe.config
-D:\C#\Softuni\Lesons\tech\teck introduction\Triangle of numbers\bin\Debug\Triangle of numbers.exe
-D:\C#\Softuni\Lesons\tech\teck introduction\Triangle of numbers\bin\Debug\Triangle of numbers.pdb
-D:\C#\Softuni\Lesons\tech\teck introduction\Triangle of numbers\obj\Debug\Triangle of numbers.csprojAssemblyReference.cache
-D:\C#\Softuni\Lesons\tech\teck introduction\Triangle of numbers\obj\Debug\Triangle of numbers.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Lesons\tech\teck introduction\Triangle of numbers\obj\Debug\Triangle of numbers.exe
-D:\C#\Softuni\Lesons\tech\teck introduction\Triangle of numbers\obj\Debug\Triangle of numbers.pdb

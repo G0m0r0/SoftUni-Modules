@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\nested loops exercise\Equal Sums Even Odd Position\bin\Debug\Equal Sums Even Odd Position.exe.config
-D:\C#\Softuni\Homework\nested loops exercise\Equal Sums Even Odd Position\bin\Debug\Equal Sums Even Odd Position.exe
-D:\C#\Softuni\Homework\nested loops exercise\Equal Sums Even Odd Position\bin\Debug\Equal Sums Even Odd Position.pdb
-D:\C#\Softuni\Homework\nested loops exercise\Equal Sums Even Odd Position\obj\Debug\Equal Sums Even Odd Position.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\nested loops exercise\Equal Sums Even Odd Position\obj\Debug\Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\nested loops exercise\Equal Sums Even Odd Position\obj\Debug\Equal Sums Even Odd Position.exe
-D:\C#\Softuni\Homework\nested loops exercise\Equal Sums Even Odd Position\obj\Debug\Equal Sums Even Odd Position.pdb

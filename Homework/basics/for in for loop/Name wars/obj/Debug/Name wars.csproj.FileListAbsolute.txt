@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\for in for loop\Name wars\bin\Debug\Name wars.exe.config
-D:\C#\Softuni\Homework\for in for loop\Name wars\bin\Debug\Name wars.exe
-D:\C#\Softuni\Homework\for in for loop\Name wars\bin\Debug\Name wars.pdb
-D:\C#\Softuni\Homework\for in for loop\Name wars\obj\Debug\Name wars.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\for in for loop\Name wars\obj\Debug\Name wars.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\for in for loop\Name wars\obj\Debug\Name wars.exe
-D:\C#\Softuni\Homework\for in for loop\Name wars\obj\Debug\Name wars.pdb

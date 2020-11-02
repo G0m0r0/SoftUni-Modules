@@ -1,7 +1,0 @@
-D:\C#\Softuni\Homework\if condition\if condition\bin\Debug\if condition.exe.config
-D:\C#\Softuni\Homework\if condition\if condition\bin\Debug\if condition.exe
-D:\C#\Softuni\Homework\if condition\if condition\bin\Debug\if condition.pdb
-D:\C#\Softuni\Homework\if condition\if condition\obj\Debug\if condition.csprojAssemblyReference.cache
-D:\C#\Softuni\Homework\if condition\if condition\obj\Debug\if condition.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Homework\if condition\if condition\obj\Debug\if condition.exe
-D:\C#\Softuni\Homework\if condition\if condition\obj\Debug\if condition.pdb

@@ -1,6 +1,0 @@
-D:\C#\sixth\sixth\bin\Debug\sixth.exe.config
-D:\C#\sixth\sixth\bin\Debug\sixth.exe
-D:\C#\sixth\sixth\bin\Debug\sixth.pdb
-D:\C#\sixth\sixth\obj\Debug\sixth.csproj.CoreCompileInputs.cache
-D:\C#\sixth\sixth\obj\Debug\sixth.exe
-D:\C#\sixth\sixth\obj\Debug\sixth.pdb

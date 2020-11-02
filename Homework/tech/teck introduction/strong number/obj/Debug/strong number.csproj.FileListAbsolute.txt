@@ -1,6 +1,0 @@
-D:\C#\Softuni\Lesons\tech\teck introduction\strong number\bin\Debug\strong number.exe.config
-D:\C#\Softuni\Lesons\tech\teck introduction\strong number\bin\Debug\strong number.exe
-D:\C#\Softuni\Lesons\tech\teck introduction\strong number\bin\Debug\strong number.pdb
-D:\C#\Softuni\Lesons\tech\teck introduction\strong number\obj\Debug\strong number.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Lesons\tech\teck introduction\strong number\obj\Debug\strong number.exe
-D:\C#\Softuni\Lesons\tech\teck introduction\strong number\obj\Debug\strong number.pdb

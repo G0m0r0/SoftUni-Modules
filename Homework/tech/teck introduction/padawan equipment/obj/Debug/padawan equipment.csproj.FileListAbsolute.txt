@@ -1,7 +1,0 @@
-D:\C#\Softuni\Lesons\tech\teck introduction\padawan equipment\bin\Debug\padawan equipment.exe.config
-D:\C#\Softuni\Lesons\tech\teck introduction\padawan equipment\bin\Debug\padawan equipment.exe
-D:\C#\Softuni\Lesons\tech\teck introduction\padawan equipment\bin\Debug\padawan equipment.pdb
-D:\C#\Softuni\Lesons\tech\teck introduction\padawan equipment\obj\Debug\padawan equipment.csprojAssemblyReference.cache
-D:\C#\Softuni\Lesons\tech\teck introduction\padawan equipment\obj\Debug\padawan equipment.csproj.CoreCompileInputs.cache
-D:\C#\Softuni\Lesons\tech\teck introduction\padawan equipment\obj\Debug\padawan equipment.exe
-D:\C#\Softuni\Lesons\tech\teck introduction\padawan equipment\obj\Debug\padawan equipment.pdb

@@ -1,7 +1,0 @@
-D:\C#\Area of figures\Area of figures\bin\Debug\Area of figures.exe.config
-D:\C#\Area of figures\Area of figures\bin\Debug\Area of figures.exe
-D:\C#\Area of figures\Area of figures\bin\Debug\Area of figures.pdb
-D:\C#\Area of figures\Area of figures\obj\Debug\Area of figures.csprojAssemblyReference.cache
-D:\C#\Area of figures\Area of figures\obj\Debug\Area of figures.csproj.CoreCompileInputs.cache
-D:\C#\Area of figures\Area of figures\obj\Debug\Area of figures.exe
-D:\C#\Area of figures\Area of figures\obj\Debug\Area of figures.pdb

@@ -1,7 +1,0 @@
-D:\C#\Third\Third\bin\Debug\Third.exe.config
-D:\C#\Third\Third\bin\Debug\Third.exe
-D:\C#\Third\Third\bin\Debug\Third.pdb
-D:\C#\Third\Third\obj\Debug\Third.csprojAssemblyReference.cache
-D:\C#\Third\Third\obj\Debug\Third.csproj.CoreCompileInputs.cache
-D:\C#\Third\Third\obj\Debug\Third.exe
-D:\C#\Third\Third\obj\Debug\Third.pdb
