@@ -23,3 +23,5 @@ ctrl+x        close
 ctr+shit+space to look on overloads
 ctr+shit+s    save all solutions in project
 ctrl+click on file mark different files
+F12 	      Go to class
+shift+F12     Check where class is used
