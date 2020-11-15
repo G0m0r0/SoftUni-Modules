@@ -39,7 +39,6 @@ namespace MyFirstAspNetCoreApplication.Controllers
             this.instanceCounter = instanceCounter;
         }
 
-        [Authorize]
         public IActionResult Index(int id, int year, int month)
         {
             Debug.WriteLine(this.hostingEnvironment.EnvironmentName);
@@ -68,6 +67,20 @@ namespace MyFirstAspNetCoreApplication.Controllers
         public IActionResult ContactForm()
         {
             return View();
+        }
+
+        public IActionResult AjaxDemo()
+        {
+            return this.View();
+        }
+
+        public IActionResult AjaxDemoData()
+        {
+            return this.Json(new[] {
+                new { Name = "Niki2", Date = DateTime.UtcNow.ToString("O") },
+                new { Name = "Stoyan2", Date = DateTime.UtcNow.AddDays(1).ToString("O") },
+                new { Name = "Pesho2", Date = DateTime.UtcNow.AddDays(2).ToString("O") },
+            });
         }
 
         [HttpPost]
