@@ -1,7 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace MoiteRecepti.Web.ViewModels.Recipes
+﻿namespace MoiteRecepti.Web.ViewModels.Recipes
 {
+    using System.ComponentModel.DataAnnotations;
+
     public class RecipeIngredientInputModel
     {
         [Required]
@@ -9,7 +9,7 @@ namespace MoiteRecepti.Web.ViewModels.Recipes
         public string IngredientName { get; set; }
 
         [Required]
-        [MinLength(3)]
+        [MinLength(1)]
         public string Quantity { get; set; }
     }
 }

@@ -1,14 +1,18 @@
 ﻿namespace MoiteRecepti.Services.Data
 {
     using System;
+    using System.Collections.Generic;
+    using System.IO;
     using System.Linq;
     using System.Threading.Tasks;
     using MoiteRecepti.Data.Common.Repositories;
     using MoiteRecepti.Data.Models;
+    using MoiteRecepti.Services.Mapping;
     using MoiteRecepti.Web.ViewModels.Recipes;
 
     public class RecipesService : IRecipesService
     {
+        private readonly string[] allowedExtensions = new[] { "jpg", "png", "gif" };
         private readonly IDeletableEntityRepository<Recipe> recipesRepository;
         private readonly IDeletableEntityRepository<Ingredient> ingredientsRespository;
 
@@ -20,7 +24,7 @@
             this.ingredientsRespository = ingredientsRespository;
         }
 
-        public async Task CreateAsync(CreateRecipeInputModel input)
+        public async Task CreateAsync(CreateRecipeInputModel input, string userId, string imagePath)
         {
             var recipe = new Recipe
             {
@@ -30,6 +34,7 @@
                 Name = input.Name,
                 PortionsCount = input.PortionsCount,
                 PreparationTime = TimeSpan.FromMinutes(input.PreparationTime),
+                AddedByUserId = userId,
             };
 
             foreach (var inputIngredient in input.Ingredients)
@@ -47,8 +52,53 @@
                 });
             }
 
+            // /wwwroot/images/recipes/jhdsi-343g3h453-=g34g.jpg
+            Directory.CreateDirectory($"{imagePath}/recipes/");
+            foreach (var image in input.Images)
+            {
+                var extension = Path.GetExtension(image.FileName).TrimStart('.');
+                if (!this.allowedExtensions.Any(x => extension.EndsWith(x)))
+                {
+                    throw new Exception($"Invalid image extension {extension}");
+                }
+
+                var dbImage = new Image
+                {
+                    AddedByUserId = userId,
+                    Extension = extension,
+                };
+                recipe.Images.Add(dbImage);
+
+                var physicalPath = $"{imagePath}/recipes/{dbImage.Id}.{extension}";
+                using Stream fileStream = new FileStream(physicalPath, FileMode.Create);
+                await image.CopyToAsync(fileStream);
+            }
+
             await this.recipesRepository.AddAsync(recipe);
             await this.recipesRepository.SaveChangesAsync();
+        }
+
+        public IEnumerable<T> GetAll<T>(int page, int itemsPerPage = 12)
+        {
+            var recipes = this.recipesRepository.AllAsNoTracking()
+                .OrderByDescending(x => x.Id)
+                .Skip((page - 1) * itemsPerPage).Take(itemsPerPage)
+                .To<T>().ToList();
+            return recipes;
+        }
+
+        public T GetById<T>(int id)
+        {
+            var recipe = this.recipesRepository.AllAsNoTracking()
+                .Where(x => x.Id == id)
+                .To<T>().FirstOrDefault();
+
+            return recipe;
+        }
+
+        public int GetCount()
+        {
+            return this.recipesRepository.All().Count();
         }
     }
 }

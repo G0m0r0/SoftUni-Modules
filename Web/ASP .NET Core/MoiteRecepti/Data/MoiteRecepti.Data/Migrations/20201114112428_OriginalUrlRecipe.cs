@@ -1,7 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
-
-namespace MoiteRecepti.Data.Migrations
+﻿namespace MoiteRecepti.Data.Migrations
 {
+    using Microsoft.EntityFrameworkCore.Migrations;
+
     public partial class OriginalUrlRecipe : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
