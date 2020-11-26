@@ -37,6 +37,10 @@ namespace MyFirstAspNetCoreApplication.Controllers
             };
 
             var result = await this.userManager.CreateAsync(user, "123456");
+            if (!result.Succeeded)
+            {
+                throw new Exception();
+            }
             return this.Json(result);
         }
 

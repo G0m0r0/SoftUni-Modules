@@ -81,8 +81,8 @@ namespace MyFirstAspNetCoreApplication
                 })
                 .AddFacebook(options =>
             {
-                options.AppId = "1231231";
-                options.AppSecret = "2312312312";
+                options.AppId = "405070937375785";
+                options.AppSecret = "449c89db38ee6f8aac0df940b49d87da";
             }).AddJwtBearer(options => {
                     options.RequireHttpsMetadata = false;
                     options.SaveToken = true;
