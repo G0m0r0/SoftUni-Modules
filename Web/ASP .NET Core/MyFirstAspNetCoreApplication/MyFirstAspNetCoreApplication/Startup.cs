@@ -81,8 +81,8 @@ namespace MyFirstAspNetCoreApplication
                 })
                 .AddFacebook(options =>
             {
-                options.AppId = "405070937375785";
-                options.AppSecret = "449c89db38ee6f8aac0df940b49d87da";
+                options.AppId = "1231231";
+                options.AppSecret = "2312312312";
             }).AddJwtBearer(options => {
                     options.RequireHttpsMetadata = false;
                     options.SaveToken = true;
@@ -115,6 +115,20 @@ namespace MyFirstAspNetCoreApplication
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            var userManager = 
+                app.ApplicationServices.CreateScope()
+                    .ServiceProvider.GetRequiredService<UserManager<ApplicationUser>>();
+            if (!userManager.Users.Any(x => x.UserName == "kostov@nikolay.it"))
+            {
+                userManager.CreateAsync(new ApplicationUser
+                {
+                    UserName = "kostov@nikolay.it",
+                    Email = "kostov@nikolay.it",
+                    DateOfBirth = DateTime.UtcNow,
+                    EmailConfirmed = true,
+                }, "kostov@nikolay.it").GetAwaiter().GetResult();
+            }
+
             // Action<HttpContext, RequestDelegate> RequestDelegate
             if (env.IsDevelopment())
             {
