@@ -4,11 +4,11 @@ using MoiteRecepti.Data.Repositories;
 using Moq;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using Xunit;
-
 namespace MoiteRecepti.Services.Data.Tests
 {
+    using System.Threading.Tasks;
+    using Xunit;
+
     public class VotesServiceTests
     {
         [Fact]
@@ -19,6 +19,7 @@ namespace MoiteRecepti.Services.Data.Tests
             mockRepo.Setup(x => x.All()).Returns(list.AsQueryable());
             mockRepo.Setup(x => x.AddAsync(It.IsAny<Vote>())).Callback(
                 (Vote vote) => list.Add(vote));
+
             var service = new VotesService(mockRepo.Object);
 
             await service.SetVoteAsync(1, "1", 1);

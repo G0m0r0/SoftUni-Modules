@@ -12,8 +12,6 @@ namespace MyApp.Tests
 {
     public class ProductsControllerTests
     {
-
-
         [Fact]
         public void GetShouldReturnTheProductIfFound()
         {
@@ -24,8 +22,9 @@ namespace MyApp.Tests
                 Price = 100,
             };
 
+            // Integration test
             var optionsBuilder = new DbContextOptionsBuilder<ApplicationDbContext>()
-                .UseInMemoryDatabase("test");
+                .UseInMemoryDatabase("testDb");
             var dbContext = new ApplicationDbContext(optionsBuilder.Options);
             dbContext.Products.Add(product);
             dbContext.SaveChanges();
