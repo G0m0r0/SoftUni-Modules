@@ -1,14 +1,15 @@
-﻿using MoiteRecepti.Data.Common.Repositories;
-using MoiteRecepti.Data.Models;
-using MoiteRecepti.Data.Repositories;
-using Moq;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Xunit;
-
-namespace MoiteRecepti.Services.Data.Tests
+﻿namespace MoiteRecepti.Services.Data.Tests
 {
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Threading.Tasks;
+
+    using MoiteRecepti.Data.Common.Repositories;
+    using MoiteRecepti.Data.Models;
+    using MoiteRecepti.Data.Repositories;
+    using Moq;
+    using Xunit;
+
     public class VotesServiceTests
     {
         [Fact]

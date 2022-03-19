@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections;
 using System.IO;
-using System.Linq;
 
 namespace Interfaces_and_abstraction
 {
@@ -91,18 +90,42 @@ namespace Interfaces_and_abstraction
 
     class StartUp
     {
-        static void Main(string[] args)
+        static void Main()
         {
             ///ILineWriter writer = new ConsoleWriter();
             //PrintHello(new FileWriter("output.txt"));
             using (var writer = new FileWriter("output.txt")) 
             {
                 PrintHello(writer);
+                writer.WriteLines(new[] { "1", "3rg", "sdfgs" });
             }
         }
         static void PrintHello(ILineWriter write)
         {
             write.WriteLine("Hello");
+        }
+    }
+
+    interface IA
+    {
+        public void M();
+    }
+
+    interface IB
+    {
+        public int M();
+    }
+
+    public class C : IA, IB
+    {
+        public void M()
+        {
+            throw new NotImplementedException();
+        }
+
+        int IB.M()
+        {
+            throw new NotImplementedException();
         }
     }
 }
